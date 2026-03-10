@@ -2,8 +2,7 @@
 #EXTINF:0, BIO BIO TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, LA RED
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-#EXTINF:0, LA RED
+https://alba-cl-lared-lared.stream.mediatiquestreamASEDAWEDASDF.com/index.m3u8?PlaylistM3UCL
 http://38.210.3.64:8090/play/a0li/index.m3u8
 #EXTINF:0, TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
@@ -924,3 +923,4 @@ https://live20.bozztv.com/akamaissh101/ssh101/asjdksa/playlist.m3u8?PlaylistM3UC
 https://paneltv.stream:19360/estacion/estacion.m3u8?PlaylistM3UCL
 #EXTINF:0, NG Channel | CL
 https://vdochile.com:3222/live/ngchalive.m3u8?PlaylistM3UCL
+
