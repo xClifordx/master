@@ -3,6 +3,7 @@
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, LA RED
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+http://38.210.3.64:8090/play/a0li/index.m3u8
 #EXTINF:0, TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, TVN - Reuters
@@ -17,6 +18,10 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
 #EXTINF:0, MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,MEGA HD
+http://38.210.3.64:8090/play/a0lh/index.m3u8
+#EXTINF:-1,Mega
+http://38.210.3.64:8090/play/a0mi/index.m3u8
 #EXTINF:0, CHV Noticias 
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
 #EXTINF:0, CHV
@@ -25,12 +30,14 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
-#EXTINF:0, 13 go
+#EXTINF:0, 13 GO
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
 #EXTINF:0, T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, D13 | CL
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 #EXTINF:0, CNN Chile
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, 13 Cultura | CL
@@ -218,16 +225,12 @@ http://38.210.3.64:8090/play/a08c/index.m3u8
 http://38.210.3.64:8090/play/a0no/index.m3u8
 #EXTINF:-1,LIGA 1 MAX
 http://38.210.3.64:8090/play/a08q/index.m3u8
-#EXTINF:-1,La Red
-http://38.210.3.64:8090/play/a0li/index.m3u8
 #EXTINF:-1,Las Estrellas HD
 http://38.210.3.64:8090/play/a0ng/index.m3u8
 #EXTINF:-1,Latina HD
 http://38.210.3.64:8090/play/a0c0/index.m3u8
 #EXTINF:-1,Lifetime
 http://38.210.3.64:8090/play/a0ly/index.m3u8
-#EXTINF:-1,MEGA HD
-http://38.210.3.64:8090/play/a0lh/index.m3u8
 #EXTINF:-1,MI MUSICA HITS
 http://38.210.3.64:8090/play/a0ge/index.m3u8
 #EXTINF:-1,MI MUSICA PERU
@@ -236,8 +239,6 @@ http://38.210.3.64:8090/play/a0gg/index.m3u8
 http://38.210.3.64:8090/play/a0ew/index.m3u8
 #EXTINF:-1,MUNDO DE LA MUSICA
 http://38.210.3.64:8090/play/a0lt/index.m3u8
-#EXTINF:-1,Mega
-http://38.210.3.64:8090/play/a0mi/index.m3u8
 #EXTINF:-1,NUEVO TIEMPO
 http://38.210.3.64:8090/play/AS01/index.m3u8
 #EXTINF:-1,Nat Geo HD
@@ -532,8 +533,6 @@ https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, FutGO | CL
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
-#EXTINF:0, D13 | CL
-https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
 #EXTINF:0, Arica TV | CL
 https://envivo.arica.tv/hls/Live2025AricaTV.m3u8?PlaylistM3UCL
 #EXTINF:0, Cappissima Multimedial TV | CL
@@ -924,6 +923,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/asjdksa/playlist.m3u8?PlaylistM3UC
 https://paneltv.stream:19360/estacion/estacion.m3u8?PlaylistM3UCL
 #EXTINF:0, NG Channel | CL
 https://vdochile.com:3222/live/ngchalive.m3u8?PlaylistM3UCL
+
 
 
 
