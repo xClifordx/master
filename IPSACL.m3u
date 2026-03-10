@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:0, Canal Claro
+http://45.167.1.136:8000/play/a00f
+#EXTINF:0, Claro Sports 1
+http://45.167.1.136:8000/play/a00d
+#EXTINF:0, Claro Sports 2
+http://45.167.1.136:8000/play/a00e
+#EXTINF:0, PARAMOUNT
+http://45.167.1.136:8000/play/a06f
+#EXTINF:0, STAR TVE
+http://45.167.1.136:8000/play/a05r
+#EXTINF:0, UNIVERSAL CINEMA ESTE
+http://45.167.1.136:8000/play/a06m
+#EXTINF:0, UNIVERSAL COMEDY
+http://45.167.1.136:8000/play/a067
+#EXTINF:0, UNIVERSAL CRIME
+http://45.167.1.136:8000/play/a066
+#EXTINF:0, UNIVERSAL PREMIERE
+http://45.167.1.136:8000/play/a063
+#EXTINF:0, UNIVERSAL PREMIERE O
+http://45.167.1.136:8000/play/a064
+#EXTINF:0, UNIVERSAL REALITY
+http://45.167.1.136:8000/play/a065
+#EXTINF:0, UNIVISION
+http://45.167.1.136:8000/play/a06k
+#EXTINF:0, WARNER TV
+http://45.167.1.136:8000/play/a03q
 #EXTINF:0, BIO BIO TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, LA RED
@@ -924,6 +950,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/asjdksa/playlist.m3u8?PlaylistM3UC
 https://paneltv.stream:19360/estacion/estacion.m3u8?PlaylistM3UCL
 #EXTINF:0, NG Channel | CL
 https://vdochile.com:3222/live/ngchalive.m3u8?PlaylistM3UCL
+
 
 
 
