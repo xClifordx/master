@@ -1,10 +1,116 @@
 #EXTM3U
+#EXTINF:0 group-title="TELEVISION CHILENA", BIO BIO TV
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", LA RED
+http://38.210.3.64:8090/play/a0li/index.m3u8
+#EXTINF:0 group-title="TELEVISION CHILENA", LA RED
+https://alba-cl-lared-lared.stream.mediatiquestreamASEDAWEDASDF.com/index.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", TV+
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", TVN - Reuters
+https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", TVN
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", NTV
+https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", MEGA
+http://38.210.3.64:8090/play/a0lh/index.m3u8
+#EXTINF:0  group-title="TELEVISION CHILENA", MEGA
+http://38.210.3.64:8090/play/a0mi/index.m3u8
+#EXTINF:0 group-title="TELEVISION CHILENA", CHV Noticias 
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", CHV
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", Canal 13
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 GO
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", T13 Radio
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", D13 | CL
+https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", CNN Chile
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 Cultura | CL
+https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 Cocina | CL
+https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 Pop | CL
+https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 Teleseries | CL
+https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 Festival | CL
+https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 Realities | CL
+https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 Viajes | CL
+https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", 13 Internacional | CL
+https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", U Chile TV | CL
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", UCV | CL
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", UCV 2 | CL
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", TV USACH | CL
+https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", Radio Agricultura | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", Radio Agricultura 2 | CL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", Radio Duna | CL
+https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", Pudahuel FM | CL
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", Cooperativa | CL
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="TELEVISION CHILENA", ADN | CL
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="DEPORTES", Valparaiso Sporting | CL
+https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 group-title="DEPORTES",ESPN
+http://38.210.3.64:8090/play/a0np/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN
+http://38.210.3.64:8090/play/a0bu/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN Premium
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+http://38.210.3.64:8090/play/a0cm/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 2
+http://38.210.3.64:8090/play/a0k8/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 3
+http://38.210.3.64:8090/play/a0jb/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 4
+http://38.210.3.64:8090/play/a0jc/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 5
+http://38.210.3.64:8090/play/a0jd/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 6
+http://38.210.3.64:8090/play/a0dj/index.m3u8
+#EXTINF:0 group-title="DEPORTES",ESPN 7
+http://38.210.3.64:8090/play/a0e6/index.m3u8
+#EXTINF:0 group-title="DEPORTES",FOX SPORT PREMIUM
+http://38.210.3.64:8090/play/a083/index.m3u8
+#EXTINF:0 group-title="DEPORTES",TNT Sports Premiun
+http://38.210.3.64:8090/play/a0kl/index.m3u8
+#EXTINF:0 group-title="DEPORTES",Via X Esports
+http://38.210.3.64:8090/play/a0i3/index.m3u8
+#EXTINF:0 group-title="DEPORTES", Claro Sports 1
+http://45.167.1.136:8000/play/a00d
+#EXTINF:0 group-title="DEPORTES", Claro Sports 2
+http://45.167.1.136:8000/play/a00e
 #EXTINF:0, Canal Claro
 http://45.167.1.136:8000/play/a00f
-#EXTINF:0, Claro Sports 1
-http://45.167.1.136:8000/play/a00d
-#EXTINF:0, Claro Sports 2
-http://45.167.1.136:8000/play/a00e
 #EXTINF:0, PARAMOUNT
 http://45.167.1.136:8000/play/a06f
 #EXTINF:0, STAR TVE
@@ -25,334 +131,230 @@ http://45.167.1.136:8000/play/a065
 http://45.167.1.136:8000/play/a06k
 #EXTINF:0, WARNER TV
 http://45.167.1.136:8000/play/a03q
-#EXTINF:0, BIO BIO TV
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, LA RED
-http://38.210.3.64:8090/play/a0li/index.m3u8
-#EXTINF:0, LA RED
-https://alba-cl-lared-lared.stream.mediatiquestreamASEDAWEDASDF.com/index.m3u8?PlaylistM3UCL
-#EXTINF:0, TV+
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, TVN - Reuters
-https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
-#EXTINF:0, TVN
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?PlaylistM3UCL
-#EXTINF:0, NTV
-https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, TVN3
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
-#EXTINF:0, TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
-#EXTINF:0, MEGA
-https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,MEGA
-http://38.210.3.64:8090/play/a0lh/index.m3u8
-#EXTINF:-1,MEGA
-http://38.210.3.64:8090/play/a0mi/index.m3u8
-#EXTINF:0, CHV Noticias 
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL
-#EXTINF:0, CHV
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal 13
-https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal 13
-https://m3u.cl/channel/c13.php?PlaylistM3UCL
-#EXTINF:0, 13 GO
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
-#EXTINF:0, T13
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, T13 Radio
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, D13 | CL
-https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL
-#EXTINF:0, CNN Chile
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Cultura | CL
-https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Cocina | CL
-https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Pop | CL
-https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Teleseries | CL
-https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Festival | CL
-https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Realities | CL
-https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Viajes | CL
-https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 13 Internacional | CL
-https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, U Chile TV | CL
-https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, UCV | CL
-https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, UCV 2 | CL
-https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, TV USACH | CL
-https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
-#EXTINF:0, Radio Agricultura | CL
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Radio Agricultura 2 | CL
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:0, Radio Duna | CL
-https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8?PlaylistM3UCL
-#EXTINF:0, Pudahuel FM | CL
-https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Cooperativa | CL
-https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, ADN | CL
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0,Disney Jr.
-#EXTINF:-1,A&E
+#EXTINF:0,A&E
 http://38.210.3.64:8090/play/a0nn/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:0,AMC
 http://38.210.3.64:8090/play/a0n5/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:0,AMC
 http://38.210.3.64:8090/play/a0hp/index.m3u8
-#EXTINF:-1,ATV
+#EXTINF:0,ATV
 http://38.210.3.64:8090/play/a0da/index.m3u8
-#EXTINF:-1,ATV +
+#EXTINF:0,ATV +
 http://38.210.3.64:8090/play/a0io/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:0,AXN
 http://38.210.3.64:8090/play/a0iz/index.m3u8
-#EXTINF:-1,Adult Swim
+#EXTINF:0,Adult Swim
 http://38.210.3.64:8090/play/a0jx/index.m3u8
-#EXTINF:-1,America TV
+#EXTINF:0,America TV
 http://38.210.3.64:8090/play/a0bw/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:0,Animal Planet
 http://38.210.3.64:8090/play/a0j4/index.m3u8
-#EXTINF:-1,BETHEL TV
+#EXTINF:0,BETHEL TV
 http://38.210.3.64:8090/play/a0dy/index.m3u8
-#EXTINF:-1,Baby TV
+#EXTINF:0,Baby TV
 http://38.210.3.64:8090/play/a0km/index.m3u8
-#EXTINF:-1,CNN Español
+#EXTINF:0,CNN Español
 http://38.210.3.64:8090/play/a0el/index.m3u8
-#EXTINF:-1,CNN International
+#EXTINF:0,CNN International
 http://38.210.3.64:8090/play/a0ek/index.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:0,Cartoon Network
 http://38.210.3.64:8090/play/a0jm/index.m3u8
-#EXTINF:-1,Cartoonito
+#EXTINF:0,Cartoonito
 http://38.210.3.64:8090/play/a0nh/index.m3u8
-#EXTINF:-1,Cinecanal
+#EXTINF:0,Cinecanal
 http://38.210.3.64:8090/play/a0iy/index.m3u8
-#EXTINF:-1,Cinemax
+#EXTINF:0,Cinemax
 http://38.210.3.64:8090/play/a0gt/index.m3u8
-#EXTINF:-1,Comedy Central
+#EXTINF:0,Comedy Central
 http://38.210.3.64:8090/play/a0do/index.m3u8
 #EXTINF:0,Comedy Central
 http://190.119.195.114:8060/play/a0mz/index.m3u8
-#EXTINF:-1,DAYSTAR
+#EXTINF:0,DAYSTAR
 http://38.210.3.64:8090/play/a0ni/index.m3u8
-#EXTINF:-1,DW Español
+#EXTINF:0,DW Español
 http://38.210.3.64:8090/play/a0kk/index.m3u8
-#EXTINF:-1,De PelTcula
+#EXTINF:0,De PelTcula
 http://38.210.3.64:8090/play/a0m8/index.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:0,Discovery Channel
 http://38.210.3.64:8090/play/a0j5/index.m3u8
-#EXTINF:-1,Discovery H&H
+#EXTINF:0,Discovery H&H
 http://38.210.3.64:8090/play/a0jn/index.m3u8
-#EXTINF:-1,Discovery Kids
+#EXTINF:0,Discovery Kids
 http://38.210.3.64:8090/play/a0na/index.m3u8
-#EXTINF:-1,Discovery Theater
+#EXTINF:0,Discovery Theater
 http://38.210.3.64:8090/play/a0cx/index.m3u8
-#EXTINF:-1,Disney
+#EXTINF:0,Disney
 http://38.210.3.64:8090/play/a0j9/index.m3u8
-#EXTINF:-1,Disney Junior
+#EXTINF:0,Disney Junior
 http://38.210.3.64:8090/play/a0eo/index.m3u8
-#EXTINF:-1,Distrito Comedia
+#EXTINF:0,Distrito Comedia
 http://38.210.3.64:8090/play/a0cu/index.m3u8
-#EXTINF:-1,E! Entertainment TV
+#EXTINF:0,E! Entertainment TV
 http://38.210.3.64:8090/play/a0js/index.m3u8
-#EXTINF:-1,ESPN
-http://38.210.3.64:8090/play/a0np/index.m3u8
-#EXTINF:-1,ESPN
-http://38.210.3.64:8090/play/a0bu/index.m3u8
-#EXTINF:-1,ESPN Premium
-http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:-1,ESPN 2
-http://38.210.3.64:8090/play/a0cm/index.m3u8
-#EXTINF:-1,ESPN 2
-http://38.210.3.64:8090/play/a0k8/index.m3u8
-#EXTINF:-1,ESPN 3
-http://38.210.3.64:8090/play/a0jb/index.m3u8
-#EXTINF:-1,ESPN 4
-http://38.210.3.64:8090/play/a0jc/index.m3u8
-#EXTINF:-1,ESPN 5
-http://38.210.3.64:8090/play/a0jd/index.m3u8
-#EXTINF:-1,ESPN 6
-http://38.210.3.64:8090/play/a0dj/index.m3u8
-#EXTINF:-1,ESPN 7
-http://38.210.3.64:8090/play/a0e6/index.m3u8
-#EXTINF:-1,EWTN
+#EXTINF:0,EWTN
 http://38.210.3.64:8090/play/a0l5/index.m3u8
-#EXTINF:-1,EXITOSA
+#EXTINF:0,EXITOSA
 http://38.210.3.64:8090/play/a07y/index.m3u8
-#EXTINF:-1,El Gourmet
+#EXTINF:0,El Gourmet
 http://38.210.3.64:8090/play/a0nl/index.m3u8
-#EXTINF:-1,Enlace
+#EXTINF:0,Enlace
 http://38.210.3.64:8090/play/a0jw/index.m3u8
-#EXTINF:-1,Europa Europa
+#EXTINF:0,Europa Europa
 http://38.210.3.64:8090/play/a0ks/index.m3u8
-#EXTINF:-1,Exitosa TV
+#EXTINF:0,Exitosa TV
 http://38.210.3.64:8090/play/a0ms/index.m3u8
-#EXTINF:-1,FMH FAMILY
+#EXTINF:0,FMH FAMILY
 http://38.210.3.64:8090/play/a0gj/index.m3u8
-#EXTINF:-1,FMH FAMILY KIDS
+#EXTINF:0,FMH FAMILY KIDS
 http://38.210.3.64:8090/play/a0gk/index.m3u8
-#EXTINF:-1,FMH FAMILY MOVIE
+#EXTINF:0,FMH FAMILY MOVIE
 http://38.210.3.64:8090/play/a0gl/index.m3u8
-#EXTINF:-1,FOX SPORT PREMIUM
-http://38.210.3.64:8090/play/a083/index.m3u8
-#EXTINF:-1,FX
+#EXTINF:0,FX
 http://38.210.3.64:8090/play/a0kv/index.m3u8
-#EXTINF:-1,Film&Arts
+#EXTINF:0,Film&Arts
 http://38.210.3.64:8090/play/a0nj/index.m3u8
-#EXTINF:-1,Film&Arts
+#EXTINF:0,Film&Arts
 http://38.210.3.64:8090/play/a0kq/index.m3u8
-#EXTINF:-1,Food Network
+#EXTINF:0,Food Network
 http://38.210.3.64:8090/play/a0nq/index.m3u8
-#EXTINF:-1,Food Network
+#EXTINF:0,Food Network
 http://38.210.3.64:8090/play/a0jy/index.m3u8
-#EXTINF:-1,France 24
+#EXTINF:0,France 24
 http://38.210.3.64:8090/play/a0kj/index.m3u8
-#EXTINF:-1,GLOBAL
+#EXTINF:0,GLOBAL
 http://38.210.3.64:8090/play/a0dc/index.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:0,Golden Edge
 http://38.210.3.64:8090/play/a0co/index.m3u8
-#EXTINF:-1,Golden
+#EXTINF:0,Golden
 http://38.210.3.64:8090/play/a0kp/index.m3u8
-#EXTINF:-1,HBO 2
+#EXTINF:0,HBO 2
 http://38.210.3.64:8090/play/a0ct/index.m3u8
-#EXTINF:-1,HBO Family
+#EXTINF:0,HBO Family
 http://38.210.3.64:8090/play/a0h5/index.m3u8
-#EXTINF:-1,HBO
+#EXTINF:0,HBO
 http://38.210.3.64:8090/play/a0h9/index.m3u8
-#EXTINF:-1,HBO Plus
+#EXTINF:0,HBO Plus
 http://38.210.3.64:8090/play/a0cs/index.m3u8
-#EXTINF:-1,HBO Signature
+#EXTINF:0,HBO Signature
 http://38.210.3.64:8090/play/a0ht/index.m3u8
-#EXTINF:-1,HBO XTREME
+#EXTINF:0,HBO XTREME
 http://38.210.3.64:8090/play/a0j0/index.m3u8
-#EXTINF:-1,HTV
+#EXTINF:0,HTV
 http://38.210.3.64:8090/play/a0nk/index.m3u8
-#EXTINF:-1,HTV
+#EXTINF:0,HTV
 http://38.210.3.64:8090/play/a0cj/index.m3u8
-#EXTINF:-1,History 2
+#EXTINF:0,History 2
 http://38.210.3.64:8090/play/a0c6/index.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:0,History Channel
 http://38.210.3.64:8090/play/a0j6/index.m3u8
-#EXTINF:-1,Home & Health
+#EXTINF:0,Home & Health
 http://38.210.3.64:8090/play/a0mk/index.m3u8
-#EXTINF:-1,ID
+#EXTINF:0,ID
 http://38.210.3.64:8090/play/a0j8/index.m3u8
-#EXTINF:-1,KANAL D DRAMA
+#EXTINF:0,KANAL D DRAMA
 http://38.210.3.64:8090/play/a0jz/index.m3u8
-#EXTINF:-1,KARIBEÑA
+#EXTINF:0,KARIBEÑA
 http://38.210.3.64:8090/play/a08c/index.m3u8
-#EXTINF:-1,L1 MAX
+#EXTINF:0,L1 MAX
 http://38.210.3.64:8090/play/a0no/index.m3u8
-#EXTINF:-1,LIGA 1 MAX
+#EXTINF:0,LIGA 1 MAX
 http://38.210.3.64:8090/play/a08q/index.m3u8
-#EXTINF:-1,Las Estrellas
+#EXTINF:0,Las Estrellas
 http://38.210.3.64:8090/play/a0ng/index.m3u8
-#EXTINF:-1,Latina
+#EXTINF:0,Latina
 http://38.210.3.64:8090/play/a0c0/index.m3u8
-#EXTINF:-1,Lifetime
+#EXTINF:0,Lifetime
 http://38.210.3.64:8090/play/a0ly/index.m3u8
-#EXTINF:-1,MI MUSICA HITS
+#EXTINF:0,MI MUSICA HITS
 http://38.210.3.64:8090/play/a0ge/index.m3u8
-#EXTINF:-1,MI MUSICA PERU
+#EXTINF:0,MI MUSICA PERU
 http://38.210.3.64:8090/play/a0gg/index.m3u8
-#EXTINF:-1,MTV
+#EXTINF:0,MTV
 http://38.210.3.64:8090/play/a0ew/index.m3u8
-#EXTINF:-1,MUNDO DE LA MUSICA
+#EXTINF:0,MUNDO DE LA MUSICA
 http://38.210.3.64:8090/play/a0lt/index.m3u8
-#EXTINF:-1,NUEVO TIEMPO
+#EXTINF:0,NUEVO TIEMPO
 http://38.210.3.64:8090/play/AS01/index.m3u8
-#EXTINF:-1,Nat Geo
+#EXTINF:0,Nat Geo
 http://38.210.3.64:8090/play/a0j7/index.m3u8
-#EXTINF:-1,Nick
+#EXTINF:0,Nick
 http://38.210.3.64:8090/play/a0d3/index.m3u8
-#EXTINF:-1,Nick Jr
+#EXTINF:0,Nick Jr
 http://38.210.3.64:8090/play/a0jr/index.m3u8
-#EXTINF:-1,Nick Music
+#EXTINF:0,Nick Music
 http://38.210.3.64:8090/play/a0cc/index.m3u8
-#EXTINF:-1,Nuestra Tele
+#EXTINF:0,Nuestra Tele
 http://38.210.3.64:8090/play/a0mj/index.m3u8
-#EXTINF:-1,PANAMERICANA
+#EXTINF:0,PANAMERICANA
 http://38.210.3.64:8090/play/a0mz/index.m3u8
-#EXTINF:-1,Panamericana
+#EXTINF:0,Panamericana
 http://38.210.3.64:8090/play/a0d8/index.m3u8
-#EXTINF:-1,Pasiones
+#EXTINF:0,Pasiones
 http://38.210.3.64:8090/play/a0kb/index.m3u8
-#EXTINF:-1,RAI Italia
+#EXTINF:0,RAI Italia
 http://38.210.3.64:8090/play/a0l0/index.m3u8
-#EXTINF:-1,REC TV
+#EXTINF:0,REC TV
 http://38.210.3.64:8090/play/a0lg/index.m3u8
-#EXTINF:-1,RPP
+#EXTINF:0,RPP
 http://38.210.3.64:8090/play/a0db/index.m3u8
-#EXTINF:-1,STAR CHANNEL
+#EXTINF:0,STAR CHANNEL
 http://38.210.3.64:8090/play/a0iw/index.m3u8
-#EXTINF:-1,Sony
+#EXTINF:0,Sony
 http://38.210.3.64:8090/play/a0it/index.m3u8
-#EXTINF:-1,Sony Movies
+#EXTINF:0,Sony Movies
 http://38.210.3.64:8090/play/a0en/index.m3u8
-#EXTINF:-1,Space
+#EXTINF:0,Space
 http://38.210.3.64:8090/play/a0iu/index.m3u8
-#EXTINF:-1,Stingray Concerts
+#EXTINF:0,Stingray Concerts
 http://38.210.3.64:8090/play/a0n8/index.m3u8
-#EXTINF:-1,Stingray Concerts
+#EXTINF:0,Stingray Concerts
 http://38.210.3.64:8090/play/a0m5/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:0,Studio Universal
 http://38.210.3.64:8090/play/a0bt/index.m3u8
-#EXTINF:-1,TC Televisiðn
+#EXTINF:0,TC Televisiðn
 http://38.210.3.64:8090/play/a0kw/index.m3u8
-#EXTINF:-1,TCM
+#EXTINF:0,TCM
 http://38.210.3.64:8090/play/a0kr/index.m3u8
-#EXTINF:-1,TNT
+#EXTINF:0,TNT
 http://38.210.3.64:8090/play/a0is/index.m3u8
-#EXTINF:-1,TNT Novelas
+#EXTINF:0,TNT Novelas
 http://38.210.3.64:8090/play/a0ir/index.m3u8
-#EXTINF:-1,TNT Series
+#EXTINF:0,TNT Series
 http://38.210.3.64:8090/play/a0ix/index.m3u8
-#EXTINF:-1,TNT Sports Premiun
-http://38.210.3.64:8090/play/a0kl/index.m3u8
-#EXTINF:-1,TOP LATINO
+#EXTINF:0,TOP LATINO
 http://38.210.3.64:8090/play/a0lm/index.m3u8
-#EXTINF:-1,TV ARAGUA
+#EXTINF:0,TV ARAGUA
 http://38.210.3.64:8090/play/a0lu/index.m3u8
-#EXTINF:-1,TVPERU
+#EXTINF:0,TVPERU
 http://38.210.3.64:8090/play/a0mv/index.m3u8
-#EXTINF:-1,Teen Nick
+#EXTINF:0,Teen Nick
 http://38.210.3.64:8090/play/a0et/index.m3u8
-#EXTINF:-1,Telemundo
+#EXTINF:0,Telemundo
 http://38.210.3.64:8090/play/a0jt/index.m3u8
-#EXTINF:-1,Televicentro
+#EXTINF:0,Televicentro
 http://38.210.3.64:8090/play/a0hh/index.m3u8
-#EXTINF:-1,Televicentro
+#EXTINF:0,Televicentro
 http://38.210.3.64:8090/play/a0kx/index.m3u8
-#EXTINF:-1,Tlnovelas
+#EXTINF:0,Tlnovelas
 http://38.210.3.64:8090/play/a0m7/index.m3u8
-#EXTINF:-1,Tooncast
+#EXTINF:0,Tooncast
 http://38.210.3.64:8090/play/a0ju/index.m3u8
-#EXTINF:-1,UFC
+#EXTINF:0,UFC
 http://38.210.3.64:8090/play/A01E/index.m3u8
-#EXTINF:-1,USA
+#EXTINF:0,USA
 http://38.210.3.64:8090/play/a0cn/index.m3u8
-#EXTINF:-1,Universal
+#EXTINF:0,Universal
 http://38.210.3.64:8090/play/a0nm/index.m3u8
-#EXTINF:-1,VENE VISION
+#EXTINF:0,VENE VISION
 http://38.210.3.64:8090/play/a0ls/index.m3u8
-#EXTINF:-1,Via X Esports
-http://38.210.3.64:8090/play/a0i3/index.m3u8
-#EXTINF:-1,Warner Channel
+#EXTINF:0,Warner Channel
 http://38.210.3.64:8090/play/a0j1/index.m3u8
-#EXTINF:-1,america tv
+#EXTINF:0,america tv
 http://38.210.3.64:8090/play/a0ma/index.m3u8
-#EXTINF:-1,willax
+#EXTINF:0,willax
 http://38.210.3.64:8090/play/a0my/index.m3u8
-#EXTINF:-1,XHDF
+#EXTINF:0,XHDF
 http://45.5.117.179:9999/play/a001/index.m3u8
 #EXTINF:0, Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
@@ -774,8 +776,6 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3
 https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL
 #EXTINF:0, TV Turf | CL
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
-#EXTINF:0, Valparaiso Sporting | CL
-https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Sensacion Costa | CL
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8?PlaylistM3UCL
 #EXTINF:0, Carolina TV | CL
@@ -950,6 +950,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/asjdksa/playlist.m3u8?PlaylistM3UC
 https://paneltv.stream:19360/estacion/estacion.m3u8?PlaylistM3UCL
 #EXTINF:0, NG Channel | CL
 https://vdochile.com:3222/live/ngchalive.m3u8?PlaylistM3UCL
+
 
 
 
