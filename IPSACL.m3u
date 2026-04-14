@@ -10,7 +10,7 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTINF:0 group-title="TELEVISION CHILENA", TVN - Reuters
 https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL
 #EXTINF:0 group-title="TELEVISION CHILENA", TVN
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?PlaylistM3UCL
+http://190.151.80.242:9990/play/a0kc/index.m3u8
 #EXTINF:0 group-title="TELEVISION CHILENA", NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 group-title="TELEVISION CHILENA", TVN3
