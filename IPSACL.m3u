@@ -15,10 +15,10 @@ https://marine2.miplay.cl/ntv/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:0 group-title="TELEVISION CHILENA", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
--- #EXTINF:0 group-title="TELEVISION CHILENA", MEGA
--- https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
--- #EXTINF:0 group-title="TELEVISION CHILENA", MEGA
--- http://38.210.3.64:8090/play/a0lh/index.m3u8
+//#EXTINF:0 group-title="TELEVISION CHILENA", MEGA
+//https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+//#EXTINF:0 group-title="TELEVISION CHILENA", MEGA
+//http://38.210.3.64:8090/play/a0lh/index.m3u8
 #EXTINF:0  group-title="TELEVISION CHILENA", MEGA
 http://38.210.3.64:8090/play/a0mi/index.m3u8
 #EXTINF:0 group-title="TELEVISION CHILENA", CHV Noticias 
