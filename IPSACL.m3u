@@ -1,109 +1,107 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-400x400px/refs/heads/main/BIOBIOTV.jpg" group-title="TELEVISION CHILENA", BIO BIO TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/BIOBIOTV.jpg" group-title="TELEVISION CHILENA", BIO BIO TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-400x400px/refs/heads/main/LA%20RED.jpg" group-title="TELEVISION CHILENA", LA RED
+#EXTINF:0 tvg-logo="http://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/LA%20RED.jpg" group-title="TELEVISION CHILENA", LA RED
 http://38.210.3.64:8090/play/a0li/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", TV+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TV%2B.jpg" group-title="TELEVISION CHILENA", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", TVN - Reuters
-https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", TVN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TVN.png" group-title="TELEVISION CHILENA", TVN
 http://190.151.80.242:9990/play/a0kc/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", NTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/NTV.jpg" group-title="TELEVISION CHILENA", NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", TVN3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TVN3.png" group-title="TELEVISION CHILENA", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", TVN 24 Horas
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TVN%2024%20Horas.png" group-title="TELEVISION CHILENA", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", MEGA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/MEGA.png" group-title="TELEVISION CHILENA", MEGA
 http://38.210.3.64:8090/play/a0mi/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", CHV Noticias 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CHV%20Noticias.jpg" group-title="TELEVISION CHILENA", CHV Noticias
 http://38.7.223.20:8000/play/a0hh
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", CHV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CHV.png" group-title="TELEVISION CHILENA", CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", Canal 13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Canal%2013.png" group-title="TELEVISION CHILENA", Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", Canal 13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Canal%2013.png" group-title="TELEVISION CHILENA", Canal 13
 https://m3u.cl/channel/c13.php
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 GO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20GO.png" group-title="TELEVISION CHILENA", 13 GO
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", T13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/T13.png" group-title="TELEVISION CHILENA", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", T13 Radio
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/T13%20Radio.jpg" group-title="TELEVISION CHILENA", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", D13 | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/D13.png" group-title="TELEVISION CHILENA", D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", CNN Chile
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CNN%20Chile.png" group-title="TELEVISION CHILENA", CNN Chile
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 Cultura | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Cultura.png" group-title="TELEVISION CHILENA", 13 Cultura
 https://redirector.dps.live/hls/13cultura/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 Cocina | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Cocina.png" group-title="TELEVISION CHILENA", 13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 Pop | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Pop.png" group-title="TELEVISION CHILENA", 13 Pop
 https://redirector.dps.live/hls/13pop/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 Teleseries | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Teleseries.png" group-title="TELEVISION CHILENA", 13 Teleseries
 https://redirector.dps.live/hls/13t/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 Festival | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Festival.png" group-title="TELEVISION CHILENA", 13 Festival
 https://redirector.dps.live/hls/13festival/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 Realities | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Realities.jpg" group-title="TELEVISION CHILENA", 13 Realities
 https://redirector.dps.live/hls/13realities/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 Viajes | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Viajes.png" group-title="TELEVISION CHILENA", 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", 13 Internacional | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Internacional.png" group-title="TELEVISION CHILENA", 13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", U Chile TV | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/U%20Chile%20TV.png" group-title="TELEVISION CHILENA", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", UCV | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UCV.png" group-title="TELEVISION CHILENA", UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", UCV 2 | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UCV%202.png" group-title="TELEVISION CHILENA", UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", TV USACH | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TV%20USACH.png" group-title="TELEVISION CHILENA", TV USACH
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", Radio Agricultura | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Radio%20Agricultura.jpeg" group-title="TELEVISION CHILENA", Radio Agricultura
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", Radio Agricultura 2 | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Radio%20Agricultura%202.jpg" group-title="TELEVISION CHILENA", Radio Agricultura 2
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", Radio Duna | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Radio%20Duna.png" group-title="TELEVISION CHILENA", Radio Duna
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", Pudahuel FM | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Pudahuel%20FM.png" group-title="TELEVISION CHILENA", Pudahuel FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", Cooperativa | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Cooperativa.png" group-title="TELEVISION CHILENA", Cooperativa
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="TELEVISION CHILENA", ADN | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ADN.png" group-title="TELEVISION CHILENA", ADN
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES", Valparaiso Sporting | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Valparaiso%20Sporting.png" group-title="DEPORTES", Valparaiso Sporting
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES", UFC
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UFC.png" group-title="DEPORTES", UFC
 http://38.210.3.64:8090/play/A01E/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN.png" group-title="DEPORTES",ESPN
 http://38.210.3.64:8090/play/a0np/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN.png" group-title="DEPORTES",ESPN
 http://38.210.3.64:8090/play/a0bu/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN Premium
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN%20Premium.jpg" group-title="DEPORTES",ESPN Premium
 http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN%202.png" group-title="DEPORTES",ESPN 2
 http://38.210.3.64:8090/play/a0cm/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN%202.png" group-title="DEPORTES",ESPN 2
 http://38.210.3.64:8090/play/a0k8/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN 3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN%203.jpg" group-title="DEPORTES",ESPN 3
 http://38.210.3.64:8090/play/a0jb/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN 4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN%204.png" group-title="DEPORTES",ESPN 4
 http://38.210.3.64:8090/play/a0jc/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN 5
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN%205.png" group-title="DEPORTES",ESPN 5
 http://38.210.3.64:8090/play/a0jd/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN 6
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN%206.png" group-title="DEPORTES",ESPN 6
 http://38.210.3.64:8090/play/a0dj/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",ESPN 7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ESPN%207.png" group-title="DEPORTES",ESPN 7
 http://38.210.3.64:8090/play/a0e6/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",FOX SPORT PREMIUM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/FOX%20SPORT%20PREMIUM.jpg" group-title="DEPORTES",FOX SPORT PREMIUM
 http://38.210.3.64:8090/play/a083/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",TNT Sports Premiun
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TNT%20Sports%20Premiun.jpg" group-title="DEPORTES",TNT Sports Premiun
 http://38.210.3.64:8090/play/a0kl/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES",Via X Esports
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Via%20X%20Esports.jpg" group-title="DEPORTES",Via X Esports
 http://38.210.3.64:8090/play/a0i3/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="DEPORTES", Claro Sports 1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Claro%20Sports%201.png" group-title="DEPORTES", Claro Sports 1
 http://45.167.1.136:8000/play/a00d
-#EXTINF:0 tvg-logo="" group-title="DEPORTES", Claro Sports 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Claro%20Sports%202.png" group-title="DEPORTES", Claro Sports 2
 http://45.167.1.136:8000/play/a00e
 #EXTINF:0 tvg-logo="" group-title="PELICULAS", PARAMOUNT
 http://45.167.1.136:8000/play/a06f
