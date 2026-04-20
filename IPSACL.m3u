@@ -117,117 +117,115 @@ http://38.210.3.64:8090/play/a0n5/index.m3u8
 http://38.210.3.64:8090/play/a0hp/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="PELICULAS", AXN
 http://38.210.3.64:8090/play/a0iz/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", Cinecanal
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", CINECANAL
 http://38.210.3.64:8090/play/a0iy/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", Cinemax
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", CINEMAX
 http://38.210.3.64:8090/play/a0gt/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", De PelTcula
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", De Película
 http://38.210.3.64:8090/play/a0m8/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="PELICULAS", FX
 http://38.210.3.64:8090/play/a0kv/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO 2
-http://38.210.3.64:8090/play/a0ct/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO Family
-http://38.210.3.64:8090/play/a0h5/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO
 http://38.210.3.64:8090/play/a0h9/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO Plus
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO 2
+http://38.210.3.64:8090/play/a0ct/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO FAMILY
+http://38.210.3.64:8090/play/a0h5/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO PLLUS
 http://38.210.3.64:8090/play/a0cs/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO Signature
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO SIGNATURE
 http://38.210.3.64:8090/play/a0ht/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO XTREME
 http://38.210.3.64:8090/play/a0j0/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="PELICULAS", STAR CHANNEL
 http://38.210.3.64:8090/play/a0iw/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", Sony
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", SONY
 http://38.210.3.64:8090/play/a0it/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", Sony Movies
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", SONY MOVIES
 http://38.210.3.64:8090/play/a0en/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", Space
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", SPACE
 http://38.210.3.64:8090/play/a0iu/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", Studio Universal
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", STUDIO UNIVERSAL
 http://38.210.3.64:8090/play/a0bt/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="PELICULAS", TCM
 http://38.210.3.64:8090/play/a0kr/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="PELICULAS", TNT
 http://38.210.3.64:8090/play/a0is/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", Universal
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", UNIVERSAL
 http://38.210.3.64:8090/play/a0nm/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", Warner Channel
+#EXTINF:0 tvg-logo="" group-title="PELICULAS", WARNER CHANNEL
 http://38.210.3.64:8090/play/a0j1/index.m3u8
-#EXTINF:0 tvg-logo="", Canal Claro
+#EXTINF:0 tvg-logo="", CANAL CLARO
 http://45.167.1.136:8000/play/a00f
 #EXTINF:0 tvg-logo="", UNIVERSAL COMEDY
 http://45.167.1.136:8000/play/a067
 #EXTINF:0 tvg-logo="", UNIVERSAL CRIME
 http://45.167.1.136:8000/play/a066
-#EXTINF:0 tvg-logo="", UNIVERSAL PREMIERE
+#EXTINF:0 tvg-logo="", UNIVERSAL+
 http://45.167.1.136:8000/play/a063
-#EXTINF:0 tvg-logo="", UNIVERSAL PREMIERE O
+#EXTINF:0 tvg-logo="", UNIVERSAL PREMIERE
 http://45.167.1.136:8000/play/a064
 #EXTINF:0 tvg-logo="", UNIVERSAL REALITY
 http://45.167.1.136:8000/play/a065
 #EXTINF:0 tvg-logo="", UNIVISION
 http://45.167.1.136:8000/play/a06k
-#EXTINF:0 tvg-logo="",A&E
+#EXTINF:0 tvg-logo="", A&E
 http://38.210.3.64:8090/play/a0nn/index.m3u8
 #EXTINF:0 tvg-logo="", ATV
 http://38.210.3.64:8090/play/a0da/index.m3u8
-#EXTINF:0 tvg-logo="", ATV +
+#EXTINF:0 tvg-logo="", ATV+
 http://38.210.3.64:8090/play/a0io/index.m3u8
-#EXTINF:0 tvg-logo="", Adult Swim
+#EXTINF:0 tvg-logo="", ADULT SWIM
 http://38.210.3.64:8090/play/a0jx/index.m3u8
-#EXTINF:0 tvg-logo="", America TV
+#EXTINF:0 tvg-logo="", AMERICA TV
 http://38.210.3.64:8090/play/a0bw/index.m3u8
-#EXTINF:0 tvg-logo="", Animal Planet
+#EXTINF:0 tvg-logo="", ANIMAL PLANET
 http://38.210.3.64:8090/play/a0j4/index.m3u8
 #EXTINF:0 tvg-logo="", BETHEL TV
 http://38.210.3.64:8090/play/a0dy/index.m3u8
-#EXTINF:0 tvg-logo="", Baby TV
+#EXTINF:0 tvg-logo="", BABY TV
 http://38.210.3.64:8090/play/a0km/index.m3u8
-#EXTINF:0 tvg-logo="", CNN Español
+#EXTINF:0 tvg-logo="", CNN ESPAÑOL
 http://38.210.3.64:8090/play/a0el/index.m3u8
-#EXTINF:0 tvg-logo="", CNN International
+#EXTINF:0 tvg-logo="", CNN INTERNACIONAL
 http://38.210.3.64:8090/play/a0ek/index.m3u8
-#EXTINF:0 tvg-logo="", Cartoon Network
+#EXTINF:0 tvg-logo="", CARTOON NETWORK
 http://38.210.3.64:8090/play/a0jm/index.m3u8
-#EXTINF:0 tvg-logo="", Cartoonito
+#EXTINF:0 tvg-logo="", CARTOONITO
 http://38.210.3.64:8090/play/a0nh/index.m3u8
-#EXTINF:0 tvg-logo="", Comedy Central
+#EXTINF:0 tvg-logo="", COMEDY CENTRAL
 http://38.210.3.64:8090/play/a0do/index.m3u8
-#EXTINF:0 tvg-logo="", Comedy Central
-http://190.119.195.114:8060/play/a0mz/index.m3u8
 #EXTINF:0 tvg-logo="", DAYSTAR
 http://38.210.3.64:8090/play/a0ni/index.m3u8
-#EXTINF:0 tvg-logo="", DW Español
+#EXTINF:0 tvg-logo="", DW ESPAÑOL
 http://38.210.3.64:8090/play/a0kk/index.m3u8
-#EXTINF:0 tvg-logo="", Discovery Channel
+#EXTINF:0 tvg-logo="", DISCOVERY CHANNEL
 http://38.210.3.64:8090/play/a0j5/index.m3u8
-#EXTINF:0 tvg-logo="", Discovery H&H
+#EXTINF:0 tvg-logo="", DISCOVERY H&H
 http://38.210.3.64:8090/play/a0jn/index.m3u8
-#EXTINF:0 tvg-logo="", Discovery Kids
+#EXTINF:0 tvg-logo="", DISCOVERY KIDS
 http://38.210.3.64:8090/play/a0na/index.m3u8
-#EXTINF:0 tvg-logo="", Discovery Theater
+#EXTINF:0 tvg-logo="", DISCOVERY THEATER
 http://38.210.3.64:8090/play/a0cx/index.m3u8
-#EXTINF:0 tvg-logo="", Disney
+#EXTINF:0 tvg-logo="", DISNEY
 http://38.210.3.64:8090/play/a0j9/index.m3u8
-#EXTINF:0 tvg-logo="", Disney Junior
+#EXTINF:0 tvg-logo="", DISNEY JUNIOR
 http://38.210.3.64:8090/play/a0eo/index.m3u8
-#EXTINF:0 tvg-logo="", Distrito Comedia
+#EXTINF:0 tvg-logo="", DISTRITO COMEDIA
 http://38.210.3.64:8090/play/a0cu/index.m3u8
-#EXTINF:0 tvg-logo="", E! Entertainment TV
+#EXTINF:0 tvg-logo="", E! ENTERTAINMENT TV
 http://38.210.3.64:8090/play/a0js/index.m3u8
 #EXTINF:0 tvg-logo="", EWTN
 http://38.210.3.64:8090/play/a0l5/index.m3u8
 #EXTINF:0 tvg-logo="", EXITOSA
 http://38.210.3.64:8090/play/a07y/index.m3u8
-#EXTINF:0 tvg-logo="", El Gourmet
+#EXTINF:0 tvg-logo="", EL GOURMET
 http://38.210.3.64:8090/play/a0nl/index.m3u8
-#EXTINF:0 tvg-logo="", Enlace
+#EXTINF:0 tvg-logo="", ENLACE
 http://38.210.3.64:8090/play/a0jw/index.m3u8
-#EXTINF:0 tvg-logo="", Europa Europa
+#EXTINF:0 tvg-logo="", EUROPA EUROPA
 http://38.210.3.64:8090/play/a0ks/index.m3u8
-#EXTINF:0 tvg-logo="", Exitosa TV
+#EXTINF:0 tvg-logo="", EXITOSA TV
 http://38.210.3.64:8090/play/a0ms/index.m3u8
 #EXTINF:0 tvg-logo="", FMH FAMILY
 http://38.210.3.64:8090/play/a0gj/index.m3u8
@@ -235,31 +233,25 @@ http://38.210.3.64:8090/play/a0gj/index.m3u8
 http://38.210.3.64:8090/play/a0gk/index.m3u8
 #EXTINF:0 tvg-logo="", FMH FAMILY MOVIE
 http://38.210.3.64:8090/play/a0gl/index.m3u8
-#EXTINF:0 tvg-logo="", Film&Arts
+#EXTINF:0 tvg-logo="", FILM&ARTS
 http://38.210.3.64:8090/play/a0nj/index.m3u8
-#EXTINF:0 tvg-logo="", Film&Arts
-http://38.210.3.64:8090/play/a0kq/index.m3u8
-#EXTINF:0 tvg-logo="", Food Network
+#EXTINF:0 tvg-logo="", FOOD NETWORK
 http://38.210.3.64:8090/play/a0nq/index.m3u8
-#EXTINF:0 tvg-logo="", Food Network
-http://38.210.3.64:8090/play/a0jy/index.m3u8
-#EXTINF:0 tvg-logo="", France 24
+#EXTINF:0 tvg-logo="", FRANCE 24
 http://38.210.3.64:8090/play/a0kj/index.m3u8
 #EXTINF:0 tvg-logo="", GLOBAL
 http://38.210.3.64:8090/play/a0dc/index.m3u8
-#EXTINF:0 tvg-logo="", Golden Edge
+#EXTINF:0 tvg-logo="", GOLDEN EDGE
 http://38.210.3.64:8090/play/a0co/index.m3u8
-#EXTINF:0 tvg-logo="", Golden
+#EXTINF:0 tvg-logo="", GOLDEN
 http://38.210.3.64:8090/play/a0kp/index.m3u8
 #EXTINF:0 tvg-logo="", HTV
 http://38.210.3.64:8090/play/a0nk/index.m3u8
-#EXTINF:0 tvg-logo="", HTV
-http://38.210.3.64:8090/play/a0cj/index.m3u8
-#EXTINF:0 tvg-logo="", History 2
+#EXTINF:0 tvg-logo="", HISTORY 2
 http://38.210.3.64:8090/play/a0c6/index.m3u8
-#EXTINF:0 tvg-logo="", History Channel
+#EXTINF:0 tvg-logo="", HISTORY CHANNEL
 http://38.210.3.64:8090/play/a0j6/index.m3u8
-#EXTINF:0 tvg-logo="", Home & Health
+#EXTINF:0 tvg-logo="", HOME & HEALTH
 http://38.210.3.64:8090/play/a0mk/index.m3u8
 #EXTINF:0 tvg-logo="", ID
 http://38.210.3.64:8090/play/a0j8/index.m3u8
@@ -271,11 +263,11 @@ http://38.210.3.64:8090/play/a08c/index.m3u8
 http://38.210.3.64:8090/play/a0no/index.m3u8
 #EXTINF:0 tvg-logo="", LIGA 1 MAX
 http://38.210.3.64:8090/play/a08q/index.m3u8
-#EXTINF:0 tvg-logo="", Las Estrellas
+#EXTINF:0 tvg-logo="", LAS ESTRELLAS
 http://38.210.3.64:8090/play/a0ng/index.m3u8
-#EXTINF:0 tvg-logo="", Latina
+#EXTINF:0 tvg-logo="", LATINA
 http://38.210.3.64:8090/play/a0c0/index.m3u8
-#EXTINF:0 tvg-logo="", Lifetime
+#EXTINF:0 tvg-logo="", LIFETIME
 http://38.210.3.64:8090/play/a0ly/index.m3u8
 #EXTINF:0 tvg-logo="", MI MUSICA HITS
 http://38.210.3.64:8090/play/a0ge/index.m3u8
@@ -287,37 +279,33 @@ http://38.210.3.64:8090/play/a0ew/index.m3u8
 http://38.210.3.64:8090/play/a0lt/index.m3u8
 #EXTINF:0 tvg-logo="", NUEVO TIEMPO
 http://38.210.3.64:8090/play/AS01/index.m3u8
-#EXTINF:0 tvg-logo="", Nat Geo
+#EXTINF:0 tvg-logo="", NAT GEO
 http://38.210.3.64:8090/play/a0j7/index.m3u8
-#EXTINF:0 tvg-logo="", Nick
+#EXTINF:0 tvg-logo="", NICK
 http://38.210.3.64:8090/play/a0d3/index.m3u8
-#EXTINF:0 tvg-logo="", Nick Jr
+#EXTINF:0 tvg-logo="", NICK JR
 http://38.210.3.64:8090/play/a0jr/index.m3u8
-#EXTINF:0 tvg-logo="", Nick Music
+#EXTINF:0 tvg-logo="", NICK MUSIC
 http://38.210.3.64:8090/play/a0cc/index.m3u8
-#EXTINF:0 tvg-logo="", Nuestra Tele
+#EXTINF:0 tvg-logo="", NUESTRA TELE
 http://38.210.3.64:8090/play/a0mj/index.m3u8
 #EXTINF:0 tvg-logo="", PANAMERICANA
-http://38.210.3.64:8090/play/a0mz/index.m3u8
-#EXTINF:0 tvg-logo="", Panamericana
 http://38.210.3.64:8090/play/a0d8/index.m3u8
-#EXTINF:0 tvg-logo="", Pasiones
+#EXTINF:0 tvg-logo="", PASIONES
 http://38.210.3.64:8090/play/a0kb/index.m3u8
-#EXTINF:0 tvg-logo="", RAI Italia
+#EXTINF:0 tvg-logo="", RAI ITALIA
 http://38.210.3.64:8090/play/a0l0/index.m3u8
 #EXTINF:0 tvg-logo="", REC TV
 http://38.210.3.64:8090/play/a0lg/index.m3u8
 #EXTINF:0 tvg-logo="", RPP
 http://38.210.3.64:8090/play/a0db/index.m3u8
-#EXTINF:0 tvg-logo="", Stingray Concerts
+#EXTINF:0 tvg-logo="", STINGRAY ICONCERTS
 http://38.210.3.64:8090/play/a0n8/index.m3u8
-#EXTINF:0 tvg-logo="", Stingray Concerts
-http://38.210.3.64:8090/play/a0m5/index.m3u8
-#EXTINF:0 tvg-logo="", TC Televisiðn
+#EXTINF:0 tvg-logo="", TC TELEVISION
 http://38.210.3.64:8090/play/a0kw/index.m3u8
-#EXTINF:0 tvg-logo="", TNT Novelas
+#EXTINF:0 tvg-logo="", TNT NOVELAS
 http://38.210.3.64:8090/play/a0ir/index.m3u8
-#EXTINF:0 tvg-logo="", TNT Series
+#EXTINF:0 tvg-logo="", TNT SERIES
 http://38.210.3.64:8090/play/a0ix/index.m3u8
 #EXTINF:0 tvg-logo="", TOP LATINO
 http://38.210.3.64:8090/play/a0lm/index.m3u8
@@ -325,17 +313,15 @@ http://38.210.3.64:8090/play/a0lm/index.m3u8
 http://38.210.3.64:8090/play/a0lu/index.m3u8
 #EXTINF:0 tvg-logo="", TVPERU
 http://38.210.3.64:8090/play/a0mv/index.m3u8
-#EXTINF:0 tvg-logo="", Teen Nick
+#EXTINF:0 tvg-logo="", TEEN NICK
 http://38.210.3.64:8090/play/a0et/index.m3u8
-#EXTINF:0 tvg-logo="", Telemundo
+#EXTINF:0 tvg-logo="", TELEMUNDO
 http://38.210.3.64:8090/play/a0jt/index.m3u8
-#EXTINF:0 tvg-logo="", Televicentro
+#EXTINF:0 tvg-logo="", TELEVICENTRO
 http://38.210.3.64:8090/play/a0hh/index.m3u8
-#EXTINF:0 tvg-logo="", Televicentro
-http://38.210.3.64:8090/play/a0kx/index.m3u8
-#EXTINF:0 tvg-logo="", Tlnovelas
+#EXTINF:0 tvg-logo="", TLNOVELAS
 http://38.210.3.64:8090/play/a0m7/index.m3u8
-#EXTINF:0 tvg-logo="", Tooncast
+#EXTINF:0 tvg-logo="", TOONCAST
 http://38.210.3.64:8090/play/a0ju/index.m3u8
 
 #EXTINF:0 tvg-logo="", USA
