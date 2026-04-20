@@ -27,6 +27,8 @@ https://m3u.cl/channel/c13.php
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/T13.png" group-title="TELEVISION CHILENA", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/REC%20TV.png" group-title="TELEVISION CHILENA", 13 REC TV
+http://38.210.3.64:8090/play/a0lg/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/T13%20Radio.jpg" group-title="TELEVISION CHILENA", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/D13.png" group-title="TELEVISION CHILENA", D13
@@ -249,77 +251,75 @@ http://38.210.3.64:8090/play/a0nk/index.m3u8
 http://38.210.3.64:8090/play/a0j6/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HISTORY%202.png", HISTORY 2
 http://38.210.3.64:8090/play/a0c6/index.m3u8
-#EXTINF:0 tvg-logo="", HOME & HEALTH
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HOME%20%26%20HEALTH.jpg", HOME & HEALTH
 http://38.210.3.64:8090/play/a0mk/index.m3u8
-#EXTINF:0 tvg-logo="", ID
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ID.jpg", ID
 http://38.210.3.64:8090/play/a0j8/index.m3u8
-#EXTINF:0 tvg-logo="", KANAL D DRAMA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/KANAL%20D%20DRAMA.jpg", KANAL D DRAMA
 http://38.210.3.64:8090/play/a0jz/index.m3u8
-#EXTINF:0 tvg-logo="", KARIBEÑA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/KARIBE%C3%91A.png", KARIBEÑA
 http://38.210.3.64:8090/play/a08c/index.m3u8
-#EXTINF:0 tvg-logo="", L1 MAX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/L1%20MAX.png", L1 MAX
 http://38.210.3.64:8090/play/a0no/index.m3u8
-#EXTINF:0 tvg-logo="", LIGA 1 MAX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/LIGA%201%20MAX.png", LIGA 1 MAX
 http://38.210.3.64:8090/play/a08q/index.m3u8
-#EXTINF:0 tvg-logo="", LAS ESTRELLAS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/LAS%20ESTRELLAS.png", LAS ESTRELLAS
 http://38.210.3.64:8090/play/a0ng/index.m3u8
-#EXTINF:0 tvg-logo="", LATINA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/LATINA.png", LATINA
 http://38.210.3.64:8090/play/a0c0/index.m3u8
-#EXTINF:0 tvg-logo="", LIFETIME
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/LIFETIME.png", LIFETIME
 http://38.210.3.64:8090/play/a0ly/index.m3u8
-#EXTINF:0 tvg-logo="", MI MUSICA HITS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/MI%20MUSICA%20HITS.png", MI MUSICA HITS
 http://38.210.3.64:8090/play/a0ge/index.m3u8
-#EXTINF:0 tvg-logo="", MI MUSICA PERU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/MI%20MUSICA%20PERU.png", MI MUSICA PERU
 http://38.210.3.64:8090/play/a0gg/index.m3u8
-#EXTINF:0 tvg-logo="", MTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/MTV.png", MTV
 http://38.210.3.64:8090/play/a0ew/index.m3u8
-#EXTINF:0 tvg-logo="", MUNDO DE LA MUSICA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/MUNDO%20DE%20LA%20MUSICA.jpg", MUNDO DE LA MUSICA
 http://38.210.3.64:8090/play/a0lt/index.m3u8
-#EXTINF:0 tvg-logo="", NUEVO TIEMPO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/NUEVO%20TIEMPO.png", NUEVO TIEMPO
 http://38.210.3.64:8090/play/AS01/index.m3u8
-#EXTINF:0 tvg-logo="", NAT GEO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/NAT%20GEO.png", NAT GEO
 http://38.210.3.64:8090/play/a0j7/index.m3u8
-#EXTINF:0 tvg-logo="", NICK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/NICK.png", NICK
 http://38.210.3.64:8090/play/a0d3/index.m3u8
-#EXTINF:0 tvg-logo="", NICK JR
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/NICK%20JR.png", NICK JR
 http://38.210.3.64:8090/play/a0jr/index.m3u8
-#EXTINF:0 tvg-logo="", NICK MUSIC
+#EXTINF:0 tvg-logo="http://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/NICK%20MUSIC.png", NICK MUSIC
 http://38.210.3.64:8090/play/a0cc/index.m3u8
-#EXTINF:0 tvg-logo="", NUESTRA TELE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/NUESTRA%20TELE.jpg", NUESTRA TELE
 http://38.210.3.64:8090/play/a0mj/index.m3u8
-#EXTINF:0 tvg-logo="", PANAMERICANA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/PANAMERICANA.png", PANAMERICANA
 http://38.210.3.64:8090/play/a0d8/index.m3u8
-#EXTINF:0 tvg-logo="", PASIONES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/PASIONES.jpg", PASIONES
 http://38.210.3.64:8090/play/a0kb/index.m3u8
-#EXTINF:0 tvg-logo="", RAI ITALIA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/RAI%20ITALIA.png", RAI ITALIA
 http://38.210.3.64:8090/play/a0l0/index.m3u8
-#EXTINF:0 tvg-logo="", REC TV
-http://38.210.3.64:8090/play/a0lg/index.m3u8
-#EXTINF:0 tvg-logo="", RPP
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/RPP.png", RPP
 http://38.210.3.64:8090/play/a0db/index.m3u8
-#EXTINF:0 tvg-logo="", STINGRAY ICONCERTS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/STINGRAY%20ICONCERTS.png", STINGRAY ICONCERTS
 http://38.210.3.64:8090/play/a0n8/index.m3u8
-#EXTINF:0 tvg-logo="", TC TELEVISION
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TC%20TELEVISION.png", TC TELEVISION
 http://38.210.3.64:8090/play/a0kw/index.m3u8
-#EXTINF:0 tvg-logo="", TNT NOVELAS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TNT%20NOVELAS.jpg", TNT NOVELAS
 http://38.210.3.64:8090/play/a0ir/index.m3u8
-#EXTINF:0 tvg-logo="", TNT SERIES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TNT%20SERIES.png", TNT SERIES
 http://38.210.3.64:8090/play/a0ix/index.m3u8
-#EXTINF:0 tvg-logo="", TOP LATINO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TOP%20LATINO.png", TOP LATINO
 http://38.210.3.64:8090/play/a0lm/index.m3u8
-#EXTINF:0 tvg-logo="", TV ARAGUA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TV%20ARAGUA.png", TV ARAGUA
 http://38.210.3.64:8090/play/a0lu/index.m3u8
-#EXTINF:0 tvg-logo="", TVPERU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TVPERU.png", TVPERU
 http://38.210.3.64:8090/play/a0mv/index.m3u8
-#EXTINF:0 tvg-logo="", TEEN NICK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TEEN%20NICK.png", TEEN NICK
 http://38.210.3.64:8090/play/a0et/index.m3u8
-#EXTINF:0 tvg-logo="", TELEMUNDO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TELEMUNDO.png", TELEMUNDO
 http://38.210.3.64:8090/play/a0jt/index.m3u8
-#EXTINF:0 tvg-logo="", TELEVICENTRO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TELEVICENTRO.png", TELEVICENTRO
 http://38.210.3.64:8090/play/a0hh/index.m3u8
-#EXTINF:0 tvg-logo="", TLNOVELAS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TLNOVELAS.jpg", TLNOVELAS
 http://38.210.3.64:8090/play/a0m7/index.m3u8
-#EXTINF:0 tvg-logo="", TOONCAST
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TOONCAST.png", TOONCAST
 http://38.210.3.64:8090/play/a0ju/index.m3u8
 
 #EXTINF:0 tvg-logo="", USA
