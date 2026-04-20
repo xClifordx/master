@@ -103,154 +103,152 @@ http://38.210.3.64:8090/play/a0i3/index.m3u8
 http://45.167.1.136:8000/play/a00d
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Claro%20Sports%202.png" group-title="DEPORTES", Claro Sports 2
 http://45.167.1.136:8000/play/a00e
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", PARAMOUNT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/PARAMOUNT.png" group-title="PELICULAS", PARAMOUNT
 http://45.167.1.136:8000/play/a06f
-#EXTINF:0, group-title="PELICULAS", STAR TVE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/STAR%20TVE.jpg" group-title="PELICULAS", STAR TVE
 http://45.167.1.136:8000/play/a05r
-#EXTINF:0, group-title="PELICULAS", UNIVERSAL CINEMA ESTE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UNIVERSAL%20CINEMA%20ESTE.png" group-title="PELICULAS", UNIVERSAL CINEMA ESTE
 http://45.167.1.136:8000/play/a06m
-#EXTINF:0, group-title="PELICULAS", WARNER TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/WARNER%20TV.jpg" group-title="PELICULAS", WARNER TV
 http://45.167.1.136:8000/play/a03q
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", AMC
-http://38.210.3.64:8090/play/a0n5/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", AMC
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/AMC.png" group-title="PELICULAS", AMC
 http://38.210.3.64:8090/play/a0hp/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", AXN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/AXN.png" group-title="PELICULAS", AXN
 http://38.210.3.64:8090/play/a0iz/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", CINECANAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CINECANAL.png" group-title="PELICULAS", CINECANAL
 http://38.210.3.64:8090/play/a0iy/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", CINEMAX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CINEMAX.png" group-title="PELICULAS", CINEMAX
 http://38.210.3.64:8090/play/a0gt/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", De Película
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/De%20Pel%C3%ADcula.png" group-title="PELICULAS", De Película
 http://38.210.3.64:8090/play/a0m8/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", FX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/FX.png" group-title="PELICULAS", FX
 http://38.210.3.64:8090/play/a0kv/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HBO.jpg" group-title="PELICULAS", HBO
 http://38.210.3.64:8090/play/a0h9/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HBO%202.png" group-title="PELICULAS", HBO 2
 http://38.210.3.64:8090/play/a0ct/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO FAMILY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HBO%20Family.png" group-title="PELICULAS", HBO FAMILY
 http://38.210.3.64:8090/play/a0h5/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO PLLUS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HBO%20Plus.jpg" group-title="PELICULAS", HBO PLUS
 http://38.210.3.64:8090/play/a0cs/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO SIGNATURE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HBO%20Signature.png" group-title="PELICULAS", HBO SIGNATURE
 http://38.210.3.64:8090/play/a0ht/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", HBO XTREME
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HBO%20XTREME.png" group-title="PELICULAS", HBO XTREME
 http://38.210.3.64:8090/play/a0j0/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", STAR CHANNEL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/STAR%20CHANNEL.jpg" group-title="PELICULAS", STAR CHANNEL
 http://38.210.3.64:8090/play/a0iw/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", SONY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/SONY.jpg" group-title="PELICULAS", SONY
 http://38.210.3.64:8090/play/a0it/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", SONY MOVIES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/SONY%20MOVIES.png" group-title="PELICULAS", SONY MOVIES
 http://38.210.3.64:8090/play/a0en/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", SPACE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/SPACE.png" group-title="PELICULAS", SPACE
 http://38.210.3.64:8090/play/a0iu/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", STUDIO UNIVERSAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/STUDIO%20UNIVERSAL.png" group-title="PELICULAS", STUDIO UNIVERSAL
 http://38.210.3.64:8090/play/a0bt/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", TCM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TCM.png" group-title="PELICULAS", TCM
 http://38.210.3.64:8090/play/a0kr/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", TNT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/TNT.png" group-title="PELICULAS", TNT
 http://38.210.3.64:8090/play/a0is/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", UNIVERSAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UNIVERSAL.png" group-title="PELICULAS", UNIVERSAL
 http://38.210.3.64:8090/play/a0nm/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="PELICULAS", WARNER CHANNEL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/WARNER%20CHANNEL.png" group-title="PELICULAS", WARNER CHANNEL
 http://38.210.3.64:8090/play/a0j1/index.m3u8
-#EXTINF:0 tvg-logo="", CANAL CLARO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CANAL%20CLARO.png", CANAL CLARO
 http://45.167.1.136:8000/play/a00f
-#EXTINF:0 tvg-logo="", UNIVERSAL COMEDY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UNIVERSAL%20COMEDY.jpg", UNIVERSAL COMEDY
 http://45.167.1.136:8000/play/a067
-#EXTINF:0 tvg-logo="", UNIVERSAL CRIME
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UNIVERSAL%20CRIME.jpg", UNIVERSAL CRIME
 http://45.167.1.136:8000/play/a066
-#EXTINF:0 tvg-logo="", UNIVERSAL+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UNIVERSAL%2B.jpg", UNIVERSAL+
 http://45.167.1.136:8000/play/a063
-#EXTINF:0 tvg-logo="", UNIVERSAL PREMIERE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UNIVERSAL%20PREMIERE.png", UNIVERSAL PREMIERE
 http://45.167.1.136:8000/play/a064
-#EXTINF:0 tvg-logo="", UNIVERSAL REALITY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UNIVERSAL%20REALITY.png", UNIVERSAL REALITY
 http://45.167.1.136:8000/play/a065
-#EXTINF:0 tvg-logo="", UNIVISION
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/UNIVISION.png", UNIVISION
 http://45.167.1.136:8000/play/a06k
-#EXTINF:0 tvg-logo="", A&E
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/A%26E.png", A&E
 http://38.210.3.64:8090/play/a0nn/index.m3u8
-#EXTINF:0 tvg-logo="", ATV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ATV.jpg", ATV
 http://38.210.3.64:8090/play/a0da/index.m3u8
-#EXTINF:0 tvg-logo="", ATV+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ATV%2B.jpg", ATV+
 http://38.210.3.64:8090/play/a0io/index.m3u8
-#EXTINF:0 tvg-logo="", ADULT SWIM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ADULT%20SWIM.jpg", ADULT SWIM
 http://38.210.3.64:8090/play/a0jx/index.m3u8
-#EXTINF:0 tvg-logo="", AMERICA TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/AMERICA%20TV.png", AMERICA TV
 http://38.210.3.64:8090/play/a0bw/index.m3u8
-#EXTINF:0 tvg-logo="", ANIMAL PLANET
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ANIMAL%20PLANET.jpg", ANIMAL PLANET
 http://38.210.3.64:8090/play/a0j4/index.m3u8
-#EXTINF:0 tvg-logo="", BETHEL TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/BETHEL%20TV.jpg", BETHEL TV
 http://38.210.3.64:8090/play/a0dy/index.m3u8
-#EXTINF:0 tvg-logo="", BABY TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/BABY%20TV.png", BABY TV
 http://38.210.3.64:8090/play/a0km/index.m3u8
-#EXTINF:0 tvg-logo="", CNN ESPAÑOL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CNN%20ESPA%C3%91OL.png", CNN ESPAÑOL
 http://38.210.3.64:8090/play/a0el/index.m3u8
-#EXTINF:0 tvg-logo="", CNN INTERNACIONAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CNN%20INTERNACIONAL.png", CNN INTERNACIONAL
 http://38.210.3.64:8090/play/a0ek/index.m3u8
-#EXTINF:0 tvg-logo="", CARTOON NETWORK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CARTOON%20NETWORK.png", CARTOON NETWORK
 http://38.210.3.64:8090/play/a0jm/index.m3u8
-#EXTINF:0 tvg-logo="", CARTOONITO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CARTOONITO.png", CARTOONITO
 http://38.210.3.64:8090/play/a0nh/index.m3u8
-#EXTINF:0 tvg-logo="", COMEDY CENTRAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/COMEDY%20CENTRAL.png", COMEDY CENTRAL
 http://38.210.3.64:8090/play/a0do/index.m3u8
-#EXTINF:0 tvg-logo="", DAYSTAR
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DAYSTAR.jpg", DAYSTAR
 http://38.210.3.64:8090/play/a0ni/index.m3u8
-#EXTINF:0 tvg-logo="", DW ESPAÑOL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DW%20ESPA%C3%91OL.jpg", DW ESPAÑOL
 http://38.210.3.64:8090/play/a0kk/index.m3u8
-#EXTINF:0 tvg-logo="", DISCOVERY CHANNEL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DISCOVERY%20CHANNEL.png", DISCOVERY CHANNEL
 http://38.210.3.64:8090/play/a0j5/index.m3u8
-#EXTINF:0 tvg-logo="", DISCOVERY H&H
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DISCOVERY%20H%26H.jpg", DISCOVERY H&H
 http://38.210.3.64:8090/play/a0jn/index.m3u8
-#EXTINF:0 tvg-logo="", DISCOVERY KIDS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DISCOVERY%20KIDS.png", DISCOVERY KIDS
 http://38.210.3.64:8090/play/a0na/index.m3u8
-#EXTINF:0 tvg-logo="", DISCOVERY THEATER
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DISCOVERY%20THEATER.jpg", DISCOVERY THEATER
 http://38.210.3.64:8090/play/a0cx/index.m3u8
-#EXTINF:0 tvg-logo="", DISNEY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DISNEY.jpg", DISNEY
 http://38.210.3.64:8090/play/a0j9/index.m3u8
-#EXTINF:0 tvg-logo="", DISNEY JUNIOR
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DISNEY%20JUNIOR.jpg", DISNEY JUNIOR
 http://38.210.3.64:8090/play/a0eo/index.m3u8
-#EXTINF:0 tvg-logo="", DISTRITO COMEDIA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/DISTRITO%20COMEDIA.png", DISTRITO COMEDIA
 http://38.210.3.64:8090/play/a0cu/index.m3u8
-#EXTINF:0 tvg-logo="", E! ENTERTAINMENT TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/E!%20ENTERTAINMENT%20TV.jpg", E! ENTERTAINMENT TV
 http://38.210.3.64:8090/play/a0js/index.m3u8
-#EXTINF:0 tvg-logo="", EWTN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/EWTN.png", EWTN
 http://38.210.3.64:8090/play/a0l5/index.m3u8
-#EXTINF:0 tvg-logo="", EXITOSA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/EXITOSA.jpg", EXITOSA
 http://38.210.3.64:8090/play/a07y/index.m3u8
-#EXTINF:0 tvg-logo="", EL GOURMET
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/EL%20GOURMET.png", EL GOURMET
 http://38.210.3.64:8090/play/a0nl/index.m3u8
-#EXTINF:0 tvg-logo="", ENLACE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/ENLACE.jpg", ENLACE
 http://38.210.3.64:8090/play/a0jw/index.m3u8
-#EXTINF:0 tvg-logo="", EUROPA EUROPA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/EUROPA%20EUROPA.jpg", EUROPA EUROPA
 http://38.210.3.64:8090/play/a0ks/index.m3u8
-#EXTINF:0 tvg-logo="", EXITOSA TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Exitosa%20TV.png", EXITOSA TV
 http://38.210.3.64:8090/play/a0ms/index.m3u8
-#EXTINF:0 tvg-logo="", FMH FAMILY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/FMH%20FAMILY.jpg", FMH FAMILY
 http://38.210.3.64:8090/play/a0gj/index.m3u8
-#EXTINF:0 tvg-logo="", FMH FAMILY KIDS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/FMH%20FAMILY%20KIDS.jpg", FMH FAMILY KIDS
 http://38.210.3.64:8090/play/a0gk/index.m3u8
-#EXTINF:0 tvg-logo="", FMH FAMILY MOVIE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/FMH%20FAMILY%20MOVIE.png", FMH FAMILY MOVIE
 http://38.210.3.64:8090/play/a0gl/index.m3u8
-#EXTINF:0 tvg-logo="", FILM&ARTS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/FILM%26ARTS.jpg", FILM&ARTS
 http://38.210.3.64:8090/play/a0nj/index.m3u8
-#EXTINF:0 tvg-logo="", FOOD NETWORK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/FOOD%20NETWORK.png", FOOD NETWORK
 http://38.210.3.64:8090/play/a0nq/index.m3u8
-#EXTINF:0 tvg-logo="", FRANCE 24
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/FRANCE%2024.png", FRANCE 24
 http://38.210.3.64:8090/play/a0kj/index.m3u8
-#EXTINF:0 tvg-logo="", GLOBAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/GLOBAL.png", GLOBAL
 http://38.210.3.64:8090/play/a0dc/index.m3u8
-#EXTINF:0 tvg-logo="", GOLDEN EDGE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/GOLDEN%20EDGE.jpg", GOLDEN EDGE
 http://38.210.3.64:8090/play/a0co/index.m3u8
-#EXTINF:0 tvg-logo="", GOLDEN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/GOLDEN.jpg", GOLDEN
 http://38.210.3.64:8090/play/a0kp/index.m3u8
-#EXTINF:0 tvg-logo="", HTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HTV.jpg", HTV
 http://38.210.3.64:8090/play/a0nk/index.m3u8
-#EXTINF:0 tvg-logo="", HISTORY 2
-http://38.210.3.64:8090/play/a0c6/index.m3u8
-#EXTINF:0 tvg-logo="", HISTORY CHANNEL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HISTORY%20CHANNEL.png", HISTORY CHANNEL
 http://38.210.3.64:8090/play/a0j6/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/HISTORY%202.png", HISTORY 2
+http://38.210.3.64:8090/play/a0c6/index.m3u8
 #EXTINF:0 tvg-logo="", HOME & HEALTH
 http://38.210.3.64:8090/play/a0mk/index.m3u8
 #EXTINF:0 tvg-logo="", ID
