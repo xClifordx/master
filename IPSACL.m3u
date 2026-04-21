@@ -324,88 +324,89 @@ http://38.210.3.64:8090/play/a0ju/index.m3u8
 http://38.210.3.64:8090/play/a0cn/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="OTROS", VENE VISION
 http://38.210.3.64:8090/play/a0ls/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", america tv
+#EXTINF:0 tvg-logo="" group-title="OTROS", AMERICA TV
 http://38.210.3.64:8090/play/a0ma/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", willax
+#EXTINF:0 tvg-logo="" group-title="OTROS", WILLAX
 http://38.210.3.64:8090/play/a0my/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="OTROS", XHDF
 http://45.5.117.179:9999/play/a001/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Retro Plus TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Retro Plus TV Seńal 2
+#EXTINF:0 tvg-logo="" group-title="OTROS", RETRO PLUS TV SEÑAL 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Retro Plus TV Seńal 3
+#EXTINF:0 tvg-logo="" group-title="OTROS", RETRO PLUS TV SEÑAL 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", VClassicTV
+#EXTINF:0 tvg-logo="" group-title="OTROS", VCLASSICTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", VClassicTV Tropical
+#EXTINF:0 tvg-logo="" group-title="OTROS", VCLASSICTV TROPICAL
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Recuerdos Retro Radio TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", RECUERDOS RETRO RADIO TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Radio Fin Del Mundo TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", RADIO FIN DEL MUNDO TV
 https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Radio Puangue Curacavi
+#EXTINF:0 tvg-logo="" group-title="OTROS", RADIO PUANGUE CURACAVI
 https://tv.arkeo.cl:1936/puanguetv/puanguetv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", PRIDEtv Latam
+#EXTINF:0 tvg-logo="" group-title="OTROS", PRIDETV LATAM
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-logo="" group-title="OTROS", Kanade TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", KANADE TV
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-logo="" group-title="OTROS", EnerGeek FAN
+#EXTINF:0 tvg-logo="" group-title="OTROS", ENERGEEK FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-logo="" group-title="OTROS", EnerGeek Retro
+#EXTINF:0 tvg-logo="" group-title="OTROS", ENERGEEK RETRO
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-logo="" group-title="OTROS", EnerGeek Radio
+#EXTINF:0 tvg-logo="" group-title="OTROS", ENERGEEK RADIO
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-logo="" group-title="OTROS", Portal FoxMix
+#EXTINF:0 tvg-logo="" group-title="OTROS", PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Ruidos TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", RUIDOS TV
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Ruidos FM
+#EXTINF:0 tvg-logo="" group-title="OTROS", RUIDOS FM
 https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Eternal Metal
+#EXTINF:0 tvg-logo="" group-title="OTROS", ETERNAL METAL
 https://stmv7.voxtvhd.com.br/eternaltv/eternaltv/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Latinos TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", LATINOS TV
 https://v4.tustreaming.cl/latinostv/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", PlanetaTV
+#EXTINF:0 tvg-logo="" group-title="OTROS", PLANETATV
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Parentesis TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", PARENTESIS TV
 https://freya.mivideo.pro/parentesistv/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Central TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", CENTRAL TV
 https://freya.mivideo.pro/centraltv/video.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Radio Favorita
+#EXTINF:0 tvg-logo="" group-title="OTROS", RADIO FAVORITA
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Mundo de la Musica TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", MUNDO DE LA MUSICA TV
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Suyai TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", SUYAI TV
 https://signal.suyaitv.cl/live/36/playlist.m3u8?username=zzwebSuyai&password=zzwebSuyai96&PlaylistM3UCL
-#EXTINF:0 tvg-logo="" group-title="OTROS", Suyai Radio
+#EXTINF:0 tvg-logo="" group-title="OTROS", SUYAI RADIO
 https://signal.suyaitv.cl/live/37/playlist.m3u8?username=zzwebSuyai&password=zzwebSuyai96&PlaylistM3UCL
 #EXTINF:0 tvg-logo="" group-title="OTROS", CRTV
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Lila TV Pencahue
+#EXTINF:0 tvg-logo="" group-title="OTROS", LILA TV PENCAHUE
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Guns n Roses Fans
+#EXTINF:0 tvg-logo="" group-title="OTROS", GUNS N ROSES FANS
 https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Onda Fiesta
+#EXTINF:0 tvg-logo="" group-title="OTROS", ONDA FIESTA
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Factor 80
+#EXTINF:0 tvg-logo="" group-title="OTROS", FACTOR 80
 https://5e3483cba9114.streamlock.net:443/8044/8044/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Pasion Ranchera
+#EXTINF:0 tvg-logo="" group-title="OTROS", PASION RANCHERA
 https://tv.arkeo.cl:19360/8068/8068.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Uniregion TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", UNIREGION TV
 https://5ff3d9babae13.streamlock.net:443/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Radio FM TOP
+#EXTINF:0 tvg-logo="" group-title="OTROS", RADIO FM TOP
 https://tv.arkeo.cl:19360/8132/8132.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", TuTV
+#EXTINF:0 tvg-logo="" group-title="OTROS", TUTV
 https://vdochile.com:3775/hybrid/play.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", San Nicolas TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", SAN NICOLAS TV
 https://v4.tustreaming.cl/sannicolastv/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", La Comarca TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", LA COMARCA TV
 https://v2.tustreaming.cl/lcomarcatv/index.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Abajo e la linea TV
+#EXTINF:0 tvg-logo="" group-title="OTROS", ABAJO E LA LINEA TV
 https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", El Canal Feliz
+#EXTINF:0 tvg-logo="" group-title="OTROS", EL CANAL FELIZ
 http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="OTROS", Frecuencia Cultural
 https://v2.tustreaming.cl/frecuenciacultural/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="OTROS", RitoqueFM TV
