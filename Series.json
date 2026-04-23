@@ -1,11 +1,11 @@
 {
   "series": [
     {
-      "title": "Breaking Bad",
-      "HDPosterUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/images/breaking_bad.jpg",
+      "title": "12 MONKEYS",
+      "HDPosterUrl": "https://m.media-amazon.com/images/M/MV5BMTkwOTcxNzMzOV5BMl5BanBnXkFtZTgwODYxNjg0ODE@._V1_FMjpg_UX1000_.jpg",
       "episodes": [
-        { "title": "Episodio 1: Piloto", "url": "URL_DEL_VIDEO_1.m3u8" },
-        { "title": "Episodio 2: El gato", "url": "URL_DEL_VIDEO_2.m3u8" }
+        { "title": "Episodio 1: Pilot", "url": "http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP01.mp4" },
+        { "title": "Episodio 2: Mentally Divergent", "url": "http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/12MONKS01EP02.mp4" }
       ]
     },
     {
