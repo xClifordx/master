@@ -1,0 +1,19 @@
+{
+  "series": [
+    {
+      "title": "Breaking Bad",
+      "HDPosterUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/images/breaking_bad.jpg",
+      "episodes": [
+        { "title": "Episodio 1: Piloto", "url": "URL_DEL_VIDEO_1.m3u8" },
+        { "title": "Episodio 2: El gato", "url": "URL_DEL_VIDEO_2.m3u8" }
+      ]
+    },
+    {
+      "title": "The Mandalorian",
+      "HDPosterUrl": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/images/mandalorian.jpg",
+      "episodes": [
+        { "title": "Capítulo 1", "url": "URL_DEL_VIDEO_1.m3u8" }
+      ]
+    }
+  ]
+}
