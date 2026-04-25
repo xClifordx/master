@@ -33,8 +33,8 @@ http://38.210.3.64:8090/play/a0lg/index.m3u8
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/D13.png" group-title="TELEVISION CHILENA", D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CNN%20Chile.png" group-title="TELEVISION CHILENA", CNN Chile
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CNN%20Chile.png" group-title="TELEVISION CHILENA", CNN CHILE
+http://190.151.80.242:9990/play/a0l2/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Cultura.png" group-title="TELEVISION CHILENA", 13 Cultura
 https://redirector.dps.live/hls/13cultura/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/13%20Cocina.png" group-title="TELEVISION CHILENA", 13 Cocina
