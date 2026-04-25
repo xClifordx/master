@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/BIOBIOTV.jpg" group-title="TELEVISION CHILENA", BIO BIO TV
+#EXTGRP:ONLINE
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/LA%20RED.jpg" group-title="TELEVISION CHILENA", LA RED
 http://38.210.3.64:8090/play/a0li/index.m3u8
