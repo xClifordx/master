@@ -226,7 +226,7 @@ https://tv.telselec.cl:3780/live/jesuslive.m3u8
 https://radioxxx.ddns.net/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TELEZETA%20TROPICAL.png" group-title="4 - RADIOS/MUSICA", TELEZETA TROPICAL
 https://stream.telezeta.cl/live/index.m3u8
-#EXTINF:0 tvg-logo="http://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EPA!%20TV.jpg" group-title="4 - RADIOS/MUSICA", EPA! TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EPA!%20TV.jpg" group-title="4 - RADIOS/MUSICA", EPA! TV
 https://v4.tustreaming.cl/edusauriotv/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RADIO%20LABRAR%20TV.png" group-title="4 - RADIOS/MUSICA", RADIO LABRAR TV
 https://live20.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
