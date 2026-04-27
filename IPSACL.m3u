@@ -13,6 +13,14 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/MEGA.png" group-title="1 - TELEVISION CHILENA", MEGA
 http://38.210.3.64:8090/play/a0mi/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%202.png" group-title="1 - TELEVISION CHILENA", MEGA 2
+http://38.7.195.43:8000/play/a003/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%20NOTICIAS.png" group-title="1 - TELEVISION CHILENA", MEGA NOTICIAS
+http://38.7.195.43:8000/play/a00h/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%20TIEMPO.png" group-title="1 - TELEVISION CHILENA", MEGA TIEMPO
+http://38.7.195.43:8000/play/a00i/index.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%20FICCION.png" group-title="1 - TELEVISION CHILENA", MEGA FICCION
+http://38.7.195.43:8000/play/a004/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CHV%20Noticias.jpg" group-title="1 - TELEVISION CHILENA", CHV Noticias
 http://38.7.223.20:8000/play/a0hh
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/CHV.png" group-title="1 - TELEVISION CHILENA", CHV
@@ -26,7 +34,7 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/T13.png" group-title="1 - TELEVISION CHILENA", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/REC%20TV.png" group-title="1 - TELEVISION CHILENA", 13 REC TV
-http://38.210.3.64:8090/play/a0lg/index.m3u8
+http://38.7.195.43:8000/play/a002/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/T13%20Radio.jpg" group-title="1 - TELEVISION CHILENA", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/D13.png" group-title="1 - TELEVISION CHILENA", D13
