@@ -819,7 +819,7 @@ https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="OTROS", Radio Presidente Ibańez | CL
 https://ibanez.servercl.com/hls/live.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Radio Portales 89.5FM | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%2089.5FM.png" group-title="RADIOS", Radio Portales 89.5FM | CL
 https://stream.mediaradio.cl/8106/stream
 #EXTINF:0 tvg-logo="" group-title="OTROS", Radio Portales 840AM | CL
 https://stream.mediaradio.cl/8108/stream
