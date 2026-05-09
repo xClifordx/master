@@ -99,7 +99,7 @@ http://38.210.3.64:8090/play/a0i3/index.m3u8
 http://45.167.1.136:8000/play/a00d
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/Claro%20Sports%202.png" group-title="2 - DEPORTES", Claro Sports 2
 http://45.167.1.136:8000/play/a00e
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/PARAMOUNT.png" group-title="3 - PELICULAS", PARAMOUNT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CINE%20PREMIUM.jpg" group-title="3 - PELICULAS", CINE PREMIUM
 http://45.167.1.136:8000/play/a06f
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-180x180px/refs/heads/main/STAR%20TVE.jpg" group-title="3 - PELICULAS", STAR TVE
 http://45.167.1.136:8000/play/a05r
