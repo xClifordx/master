@@ -677,6 +677,8 @@ https://video.ipstream.cl:3710/hybrid/play.m3u8
 https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="OTROS", Teleangol Radio | CL
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HIEL%20MUSIC.jpg" group-title="MUSICA STREAM", HIEL MUSIC
+https://live.obslivestream.com/hielmusic/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="OTROS", CRadio.cl | CL
 https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
 #EXTINF:0 tvg-logo="" group-title="OTROS", Pucon TV | CL
