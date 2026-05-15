@@ -1,17 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Scream%20VI%20(2023).jpg" group-title="MOVIES",Scream VI (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Scream%20VI%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Siete%20reyes%20deben%20morir%20(2023).jpg" group-title="MOVIES",Siete reyes deben morir (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Siete%20reyes%20deben%20morir%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/El%20hijo%20(2022).jpg" group-title="MOVIES",El hijo (2022)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20El%20hijo%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Hambre%20(2023).jpg" group-title="MOVIES",Hambre (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20Hambre%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/65%20(2023).jpg" group-title="MOVIES",65 (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%2065%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Llaman%20a%20la%20Puerta%20(2023).jpg" group-title="MOVIES",Llaman a la Puerta (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Ffeb%2FVer%20Llaman%20a%20la%20puerta%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Black%20Panther%20Wakanda%20por%20siempre%20(2022).jpg" group-title="MOVIES",Black Panther: Wakanda por siempre (2022)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Black%20Panther-%20Wakanda%20Forever%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Teen%20Wolf%20The%20Movie%20(2023).jpg" group-title="MOVIES",Teen Wolf: The Movie (2023)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fene%2FVer%20Teen%20Wolf-%20The%20Movie%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+#EXTINF:0 tvg-logo="" group-title="Dragon Ball Z",1 Dragon Ball Z - Episode 001
+https://archive.org/details/DBZ-Cloverway-Episodes/Dragon+Ball+Z+(Cloverway+LATAM+dub)+-+Episode+001.mp4
+#EXTINF:0 tvg-logo="" group-title="Dragon Ball Z",1 Dragon Ball Z - Episode 002
+https://archive.org/details/DBZ-Cloverway-Episodes/Dragon+Ball+Z+(Cloverway+LATAM+dub)+-+Episode+146.mp4
+#EXTINF:0 tvg-logo="" group-title="Dragon Ball Z",1 Dragon Ball Z - Episode 003
+https://archive.org/details/DBZ-Cloverway-Episodes/Dragon+Ball+Z+(Cloverway+LATAM+dub)+-+Episode+148.mp4
