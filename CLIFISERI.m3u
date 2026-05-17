@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-seri/refs/heads/main/DRAGON%20BALL%20Z.jpg" group-title="ANIME", DRAGON BALL Z
+https://raw.githubusercontent.com/xClifordx/master/refs/heads/main/DBZ.m3u
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-seri/refs/heads/main/DRAGON%20BALL%20SUPER.jpg" group-title="ANIME", DRAGON BALL SUPER
 https://raw.githubusercontent.com/xClifordx/master/refs/heads/main/DBS.m3u
