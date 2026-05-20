@@ -280,7 +280,7 @@ http://38.210.3.64:8090/play/a0jm/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CARTOONITO.png" group-title="OTROS", CARTOONITO
 http://38.210.3.64:8090/play/a0nh/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/COMEDY%20CENTRAL.png" group-title="OTROS", COMEDY CENTRAL
-http://38.210.3.64:8090/play/a0do/index.m3u8
+http://38.199.4.105:9999/play/a0av/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DAYSTAR.jpg" group-title="OTROS", DAYSTAR
 http://38.210.3.64:8090/play/a0ni/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DW%20ESPA%C3%91OL.jpg" group-title="OTROS", DW ESPAÑOL
