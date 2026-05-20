@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images-seri@main/DRAGON%20BALL.jpg" group-title="ANIME", DRAGON BALL
+#EXTINF:0 tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/q_auto/f_auto/v1779274554/DRAGON_BALL_wedpwz.jpg" group-title="ANIME", DRAGON BALL
 https://raw.githubusercontent.com/xClifordx/master/refs/heads/main/DB.m3u
 #EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images-seri@main/DRAGON%20BALL%20Z.jpg" group-title="ANIME", DRAGON BALL Z
 https://raw.githubusercontent.com/xClifordx/master/refs/heads/main/DBZ.m3u
