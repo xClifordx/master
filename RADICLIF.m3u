@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%2089.5FM.png" group-title="RADIOS", Radio Portales 89.5FM | CL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%2089.5FM.png" group-title="RADIOS", Radio Portales 89.5 FM
 https://stream.mediaradio.cl/8106/stream
-#EXTINF:0 tvg-logo="" group-title="OTROS", Radio Portales 840AM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%20840AM.png" group-title="OTROS", Radio Portales 840 AM
 https://stream.mediaradio.cl/8108/stream
-#EXTINF:0 tvg-logo="" group-title="OTROS", Radio Rancagu
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Rancagua%2099.5.png" group-title="OTROS", Radio Rancagua 99.5 FM
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
-#EXTINF:0 tvg-logo="" group-title="OTROS", Radio Presidente Ibanez
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Presidente%20Ibanez%2088.5.jpg" group-title="OTROS", Radio Presidente Ibanez 88.5
 https://ibanez.servercl.com/hls/live.m3u8
