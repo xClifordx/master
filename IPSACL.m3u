@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/LA%20RED.jpg" group-title="1 - TELEVISION CHILENA", LA RED
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LA%20RED.jpg" group-title="1 - TELEVISION CHILENA", LA RED
 http://38.210.3.64:8090/play/a0li/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TV%2B.jpg" group-title="1 - TELEVISION CHILENA", TV+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TV%2B.jpg" group-title="1 - TELEVISION CHILENA", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TVN.png" group-title="1 - TELEVISION CHILENA", TVN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVN.png" group-title="1 - TELEVISION CHILENA", TVN
 http://190.151.80.242:9990/play/a0kc/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/NTV.jpg" group-title="1 - TELEVISION CHILENA", NTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/NTV.jpg" group-title="1 - TELEVISION CHILENA", NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TVN3.png" group-title="1 - TELEVISION CHILENA", TVN3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVN3.png" group-title="1 - TELEVISION CHILENA", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TVN%2024%20Horas.png" group-title="1 - TELEVISION CHILENA", TVN 24 Horas
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVN%2024%20Horas.png" group-title="1 - TELEVISION CHILENA", TVN 24 Horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/MEGA.png" group-title="1 - TELEVISION CHILENA", MEGA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA.png" group-title="1 - TELEVISION CHILENA", MEGA
 http://38.210.3.64:8090/play/a0mi/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%202.png" group-title="1 - TELEVISION CHILENA", MEGA 2
 http://38.7.195.43:8000/play/a003/index.m3u8
@@ -21,148 +21,148 @@ http://38.7.195.43:8000/play/a00h/index.m3u8
 http://38.7.195.43:8000/play/a00i/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%20FICCION.png" group-title="1 - TELEVISION CHILENA", MEGA FICCION
 http://38.7.195.43:8000/play/a004/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CHV%20Noticias.jpg" group-title="1 - TELEVISION CHILENA", CHV Noticias
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CHV%20Noticias.jpg" group-title="1 - TELEVISION CHILENA", CHV Noticias
 http://38.7.223.20:8000/play/a0hh
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CHV.png" group-title="1 - TELEVISION CHILENA", CHV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CHV.png" group-title="1 - TELEVISION CHILENA", CHV
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Canal%2013.png" group-title="1 - TELEVISION CHILENA", Canal 13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Canal%2013.png" group-title="1 - TELEVISION CHILENA", Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Canal%2013.png" group-title="1 - TELEVISION CHILENA", Canal 13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Canal%2013.png" group-title="1 - TELEVISION CHILENA", Canal 13
 https://m3u.cl/channel/c13.php
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20GO.png" group-title="1 - TELEVISION CHILENA", 13 GO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20GO.png" group-title="1 - TELEVISION CHILENA", 13 GO
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/T13.png" group-title="1 - TELEVISION CHILENA", T13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/T13.png" group-title="1 - TELEVISION CHILENA", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/REC%20TV.png" group-title="1 - TELEVISION CHILENA", 13 REC TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/REC%20TV.png" group-title="1 - TELEVISION CHILENA", 13 REC TV
 http://38.7.195.43:8000/play/a002/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/T13%20Radio.jpg" group-title="1 - TELEVISION CHILENA", T13 Radio
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/T13%20Radio.jpg" group-title="1 - TELEVISION CHILENA", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/D13.png" group-title="1 - TELEVISION CHILENA", D13
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/D13.png" group-title="1 - TELEVISION CHILENA", D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CNN%20Chile.png" group-title="1 - TELEVISION CHILENA", CNN CHILE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CNN%20Chile.png" group-title="1 - TELEVISION CHILENA", CNN CHILE
 http://190.151.80.242:9990/play/a0l2/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20Cultura.png" group-title="1 - TELEVISION CHILENA", 13 Cultura
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20Cultura.png" group-title="1 - TELEVISION CHILENA", 13 Cultura
 https://redirector.dps.live/hls/13cultura/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20Cocina.png" group-title="1 - TELEVISION CHILENA", 13 Cocina
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20Cocina.png" group-title="1 - TELEVISION CHILENA", 13 Cocina
 https://redirector.dps.live/hls/13cocina/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20Pop.png" group-title="1 - TELEVISION CHILENA", 13 Pop
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20Pop.png" group-title="1 - TELEVISION CHILENA", 13 Pop
 https://redirector.dps.live/hls/13pop/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20Teleseries.png" group-title="1 - TELEVISION CHILENA", 13 Teleseries
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20Teleseries.png" group-title="1 - TELEVISION CHILENA", 13 Teleseries
 https://redirector.dps.live/hls/13t/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20Festival.png" group-title="1 - TELEVISION CHILENA", 13 Festival
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20Festival.png" group-title="1 - TELEVISION CHILENA", 13 Festival
 https://redirector.dps.live/hls/13festival/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20Realities.jpg" group-title="1 - TELEVISION CHILENA", 13 Realities
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20Realities.jpg" group-title="1 - TELEVISION CHILENA", 13 Realities
 https://redirector.dps.live/hls/13realities/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20Viajes.png" group-title="1 - TELEVISION CHILENA", 13 Viajes
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20Viajes.png" group-title="1 - TELEVISION CHILENA", 13 Viajes
 https://redirector.dps.live/hls/13viajes/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/13%20Internacional.png" group-title="1 - TELEVISION CHILENA", 13 Internacional
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20Internacional.png" group-title="1 - TELEVISION CHILENA", 13 Internacional
 https://redirector.dps.live/hls/13intav/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/U%20Chile%20TV.png" group-title="1 - TELEVISION CHILENA", U Chile TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/U%20Chile%20TV.png" group-title="1 - TELEVISION CHILENA", U Chile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UCV.png" group-title="1 - TELEVISION CHILENA", UCV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UCV.png" group-title="1 - TELEVISION CHILENA", UCV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UCV%202.png" group-title="1 - TELEVISION CHILENA", UCV 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UCV%202.png" group-title="1 - TELEVISION CHILENA", UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TV%20USACH.png" group-title="1 - TELEVISION CHILENA", TV USACH
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TV%20USACH.png" group-title="1 - TELEVISION CHILENA", TV USACH
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Valparaiso%20Sporting.png" group-title="2 - DEPORTES", VALPARAISO SPORTING
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Valparaiso%20Sporting.png" group-title="2 - DEPORTES", VALPARAISO SPORTING
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UFC.png" group-title="2 - DEPORTES", UFC
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UFC.png" group-title="2 - DEPORTES", UFC
 http://38.210.3.64:8090/play/A01E/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN.png" group-title="2 - DEPORTES",ESPN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN.png" group-title="2 - DEPORTES",ESPN
 http://38.210.3.64:8090/play/a0np/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN.png" group-title="2 - DEPORTES",ESPN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN.png" group-title="2 - DEPORTES",ESPN
 http://38.210.3.64:8090/play/a0bu/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN%20Premium.jpg" group-title="2 - DEPORTES",ESPN Premium
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%20Premium.jpg" group-title="2 - DEPORTES",ESPN Premium
 http://38.210.3.64:8090/play/a0ke/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN%202.png" group-title="2 - DEPORTES",ESPN 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%202.png" group-title="2 - DEPORTES",ESPN 2
 http://38.210.3.64:8090/play/a0cm/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN%202.png" group-title="2 - DEPORTES",ESPN 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%202.png" group-title="2 - DEPORTES",ESPN 2
 http://38.210.3.64:8090/play/a0k8/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN%203.jpg" group-title="2 - DEPORTES",ESPN 3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%203.jpg" group-title="2 - DEPORTES",ESPN 3
 http://38.210.3.64:8090/play/a0jb/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN%204.png" group-title="2 - DEPORTES",ESPN 4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%204.png" group-title="2 - DEPORTES",ESPN 4
 http://38.210.3.64:8090/play/a0jc/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN%205.png" group-title="2 - DEPORTES",ESPN 5
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%205.png" group-title="2 - DEPORTES",ESPN 5
 http://38.210.3.64:8090/play/a0jd/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN%206.png" group-title="2 - DEPORTES",ESPN 6
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%206.png" group-title="2 - DEPORTES",ESPN 6
 http://38.210.3.64:8090/play/a0dj/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ESPN%207.png" group-title="2 - DEPORTES",ESPN 7
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%207.png" group-title="2 - DEPORTES",ESPN 7
 http://38.210.3.64:8090/play/a0e6/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/FOX%20SPORT%20PREMIUM.jpg" group-title="2 - DEPORTES",FOX SPORT PREMIUM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FOX%20SPORT%20PREMIUM.jpg" group-title="2 - DEPORTES",FOX SPORT PREMIUM
 http://38.210.3.64:8090/play/a083/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TNT%20Sports%20Premiun.jpg" group-title="2 - DEPORTES",TNT Sports Premiun
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT%20Sports%20Premiun.jpg" group-title="2 - DEPORTES",TNT Sports Premiun
 http://38.210.3.64:8090/play/a0kl/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Via%20X%20Esports.jpg" group-title="2 - DEPORTES",Via X Esports
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Via%20X%20Esports.jpg" group-title="2 - DEPORTES",Via X Esports
 http://38.210.3.64:8090/play/a0i3/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Claro%20Sports%201.png" group-title="2 - DEPORTES", Claro Sports 1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Claro%20Sports%201.png" group-title="2 - DEPORTES", Claro Sports 1
 http://45.167.1.136:8000/play/a00d
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Claro%20Sports%202.png" group-title="2 - DEPORTES", Claro Sports 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Claro%20Sports%202.png" group-title="2 - DEPORTES", Claro Sports 2
 http://45.167.1.136:8000/play/a00e
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CINE%20PREMIUM.jpg" group-title="3 - PELICULAS", CINE PREMIUM
 http://45.167.1.136:8000/play/a06f
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/STAR%20TVE.jpg" group-title="3 - PELICULAS", STAR TVE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/STAR%20TVE.jpg" group-title="3 - PELICULAS", STAR TVE
 http://45.167.1.136:8000/play/a05r
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UNIVERSAL%20CINEMA%20ESTE.png" group-title="3 - PELICULAS", UNIVERSAL CINEMA ESTE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL%20CINEMA%20ESTE.png" group-title="3 - PELICULAS", UNIVERSAL CINEMA ESTE
 http://45.167.1.136:8000/play/a06m
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/WARNER%20TV.jpg" group-title="3 - PELICULAS", WARNER TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/WARNER%20TV.jpg" group-title="3 - PELICULAS", WARNER TV
 http://45.167.1.136:8000/play/a03q
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/AMC.png" group-title="3 - PELICULAS", AMC
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/AMC.png" group-title="3 - PELICULAS", AMC
 http://38.210.3.64:8090/play/a0hp/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/AXN.png" group-title="3 - PELICULAS", AXN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/AXN.png" group-title="3 - PELICULAS", AXN
 http://38.210.3.64:8090/play/a0iz/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CINECANAL.png" group-title="3 - PELICULAS", CINECANAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CINECANAL.png" group-title="3 - PELICULAS", CINECANAL
 http://38.210.3.64:8090/play/a0iy/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CINEMAX.png" group-title="3 - PELICULAS", CINEMAX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CINEMAX.png" group-title="3 - PELICULAS", CINEMAX
 http://38.210.3.64:8090/play/a0gt/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/De%20Pel%C3%ADcula.png" group-title="3 - PELICULAS", De Película
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/De%20Pel%C3%ADcula.png" group-title="3 - PELICULAS", De Película
 http://38.210.3.64:8090/play/a0m8/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/FX.png" group-title="3 - PELICULAS", FX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FX.png" group-title="3 - PELICULAS", FX
 http://38.210.3.64:8090/play/a0kv/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HBO.jpg" group-title="3 - PELICULAS", HBO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO.jpg" group-title="3 - PELICULAS", HBO
 http://38.210.3.64:8090/play/a0h9/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HBO%202.png" group-title="3 - PELICULAS", HBO 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%202.png" group-title="3 - PELICULAS", HBO 2
 http://38.210.3.64:8090/play/a0ct/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HBO%20Family.png" group-title="3 - PELICULAS", HBO FAMILY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20Family.png" group-title="3 - PELICULAS", HBO FAMILY
 http://38.210.3.64:8090/play/a0h5/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HBO%20Plus.jpg" group-title="3 - PELICULAS", HBO PLUS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20Plus.jpg" group-title="3 - PELICULAS", HBO PLUS
 http://38.210.3.64:8090/play/a0cs/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HBO%20Signature.png" group-title="3 - PELICULAS", HBO SIGNATURE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20Signature.png" group-title="3 - PELICULAS", HBO SIGNATURE
 http://38.210.3.64:8090/play/a0ht/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HBO%20XTREME.png" group-title="3 - PELICULAS", HBO XTREME
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20XTREME.png" group-title="3 - PELICULAS", HBO XTREME
 http://38.210.3.64:8090/play/a0j0/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/STAR%20CHANNEL.jpg" group-title="3 - PELICULAS", STAR CHANNEL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/STAR%20CHANNEL.jpg" group-title="3 - PELICULAS", STAR CHANNEL
 http://38.210.3.64:8090/play/a0iw/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/SONY.jpg" group-title="3 - PELICULAS", SONY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SONY.jpg" group-title="3 - PELICULAS", SONY
 http://38.210.3.64:8090/play/a0it/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/SONY%20MOVIES.png" group-title="3 - PELICULAS", SONY MOVIES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SONY%20MOVIES.png" group-title="3 - PELICULAS", SONY MOVIES
 http://38.210.3.64:8090/play/a0en/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/SPACE.png" group-title="3 - PELICULAS", SPACE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SPACE.png" group-title="3 - PELICULAS", SPACE
 http://38.210.3.64:8090/play/a0iu/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/STUDIO%20UNIVERSAL.png" group-title="3 - PELICULAS", STUDIO UNIVERSAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/STUDIO%20UNIVERSAL.png" group-title="3 - PELICULAS", STUDIO UNIVERSAL
 http://38.210.3.64:8090/play/a0bt/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TCM.png" group-title="3 - PELICULAS", TCM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TCM.png" group-title="3 - PELICULAS", TCM
 http://38.210.3.64:8090/play/a0kr/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TNT.png" group-title="3 - PELICULAS", TNT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT.png" group-title="3 - PELICULAS", TNT
 http://38.210.3.64:8090/play/a0is/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UNIVERSAL.png" group-title="3 - PELICULAS", UNIVERSAL TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL.png" group-title="3 - PELICULAS", UNIVERSAL TV
 http://190.60.48.151:8010/play/a03k/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/WARNER%20CHANNEL.png" group-title="3 - PELICULAS", WARNER CHANNEL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/WARNER%20CHANNEL.png" group-title="3 - PELICULAS", WARNER CHANNEL
 http://38.210.3.64:8090/play/a0j1/index.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/BIOBIOTV.jpg" group-title="4 - RADIOS/MUSICA", BIO BIO TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/BIOBIOTV.jpg" group-title="4 - RADIOS/MUSICA", BIO BIO TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Radio%20Agricultura.jpeg" group-title="4 - RADIOS/MUSICA", RADIO AGRICULTURA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Agricultura.jpeg" group-title="4 - RADIOS/MUSICA", RADIO AGRICULTURA
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Radio%20Agricultura%202.jpg" group-title="4 - RADIOS/MUSICA", RADIO AGRICULTURA 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Agricultura%202.jpg" group-title="4 - RADIOS/MUSICA", RADIO AGRICULTURA 2
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Radio%20Duna.png" group-title="4 - RADIOS/MUSICA", RADIO DUNA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Duna.png" group-title="4 - RADIOS/MUSICA", RADIO DUNA
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Pudahuel%20FM.png" group-title="4 - RADIOS/MUSICA", RADIO PUDAHUEL FM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Pudahuel%20FM.png" group-title="4 - RADIOS/MUSICA", RADIO PUDAHUEL FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Cooperativa.png" group-title="4 - RADIOS/MUSICA", RADIO COOPERATIVA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Cooperativa.png" group-title="4 - RADIOS/MUSICA", RADIO COOPERATIVA
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ADN.png" group-title="4 - RADIOS/MUSICA", ADN RADIO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ADN.png" group-title="4 - RADIOS/MUSICA", ADN RADIO
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/WILLAX.png" group-title="4 - RADIOS/MUSICA", WILLAX
 http://38.210.3.64:8090/play/a0my/index.m3u8
@@ -241,167 +241,167 @@ https://vdochile.com:3131/live/redupxprlive.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ONDA%20RADIO%20TV.png" group-title="4 - RADIOS/MUSICA", ONDA RADIO TV
 https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CANAL%20CLARO.png" group-title="OTROS", CANAL CLARO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CANAL%20CLARO.png" group-title="OTROS", CANAL CLARO
 http://45.167.1.136:8000/play/a00f
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UNIVERSAL%20COMEDY.jpg" group-title="OTROS", UNIVERSAL COMEDY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL%20COMEDY.jpg" group-title="OTROS", UNIVERSAL COMEDY
 http://45.167.1.136:8000/play/a067
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UNIVERSAL%20CRIME.jpg" group-title="OTROS", UNIVERSAL CRIME
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL%20CRIME.jpg" group-title="OTROS", UNIVERSAL CRIME
 http://45.167.1.136:8000/play/a066
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UNIVERSAL%2B.jpg" group-title="OTROS", UNIVERSAL+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL%2B.jpg" group-title="OTROS", UNIVERSAL+
 http://45.167.1.136:8000/play/a063
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UNIVERSAL%20PREMIERE.png" group-title="OTROS", UNIVERSAL PREMIERE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL%20PREMIERE.png" group-title="OTROS", UNIVERSAL PREMIERE
 http://45.167.1.136:8000/play/a064
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UNIVERSAL%20REALITY.png" group-title="OTROS", UNIVERSAL REALITY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL%20REALITY.png" group-title="OTROS", UNIVERSAL REALITY
 http://45.167.1.136:8000/play/a065
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/UNIVISION.png" group-title="OTROS", UNIVISION
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVISION.png" group-title="OTROS", UNIVISION
 http://45.167.1.136:8000/play/a06k
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/A%26E.png" group-title="OTROS", A&E
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/A%26E.png" group-title="OTROS", A&E
 http://38.210.3.64:8090/play/a0nn/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ATV.jpg" group-title="OTROS", ATV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ATV.jpg" group-title="OTROS", ATV
 http://38.210.3.64:8090/play/a0da/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ATV%2B.jpg" group-title="OTROS", ATV+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ATV%2B.jpg" group-title="OTROS", ATV+
 http://38.252.215.33:8000/play/a08n/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ADULT%20SWIM.jpg" group-title="OTROS", ADULT SWIM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ADULT%20SWIM.jpg" group-title="OTROS", ADULT SWIM
 http://38.210.3.64:8090/play/a0jx/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/AMERICA%20TV.png" group-title="OTROS", AMERICA TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/AMERICA%20TV.png" group-title="OTROS", AMERICA TV
 http://38.210.3.64:8090/play/a0bw/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ANIMAL%20PLANET.jpg" group-title="OTROS", ANIMAL PLANET
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ANIMAL%20PLANET.jpg" group-title="OTROS", ANIMAL PLANET
 http://38.210.3.64:8090/play/a0j4/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/BETHEL%20TV.jpg" group-title="OTROS", BETHEL TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/BETHEL%20TV.jpg" group-title="OTROS", BETHEL TV
 http://38.210.3.64:8090/play/a0dy/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/BABY%20TV.png" group-title="OTROS", BABY TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/BABY%20TV.png" group-title="OTROS", BABY TV
 http://38.210.3.64:8090/play/a0km/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CNN%20ESPA%C3%91OL.png" group-title="OTROS", CNN ESPAÑOL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CNN%20ESPA%C3%91OL.png" group-title="OTROS", CNN ESPAÑOL
 http://38.210.3.64:8090/play/a0el/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CNN%20INTERNACIONAL.png" group-title="OTROS", CNN INTERNACIONAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CNN%20INTERNACIONAL.png" group-title="OTROS", CNN INTERNACIONAL
 http://38.210.3.64:8090/play/a0ek/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CARTOON%20NETWORK.png" group-title="OTROS", CARTOON NETWORK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CARTOON%20NETWORK.png" group-title="OTROS", CARTOON NETWORK
 http://38.210.3.64:8090/play/a0jm/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/CARTOONITO.png" group-title="OTROS", CARTOONITO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CARTOONITO.png" group-title="OTROS", CARTOONITO
 http://38.210.3.64:8090/play/a0nh/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/COMEDY%20CENTRAL.png" group-title="OTROS", COMEDY CENTRAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/COMEDY%20CENTRAL.png" group-title="OTROS", COMEDY CENTRAL
 http://38.199.4.105:9999/play/a0av/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DAYSTAR.jpg" group-title="OTROS", DAYSTAR
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DAYSTAR.jpg" group-title="OTROS", DAYSTAR
 http://38.210.3.64:8090/play/a0ni/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DW%20ESPA%C3%91OL.jpg" group-title="OTROS", DW ESPAÑOL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DW%20ESPA%C3%91OL.jpg" group-title="OTROS", DW ESPAÑOL
 http://38.210.3.64:8090/play/a0kk/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DISCOVERY%20CHANNEL.png" group-title="OTROS", DISCOVERY CHANNEL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DISCOVERY%20CHANNEL.png" group-title="OTROS", DISCOVERY CHANNEL
 http://38.210.3.64:8090/play/a0j5/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DISCOVERY%20H%26H.jpg" group-title="OTROS", DISCOVERY H&H
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DISCOVERY%20H%26H.jpg" group-title="OTROS", DISCOVERY H&H
 http://45.171.64.30:2000/play/a03g/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DISCOVERY%20KIDS.png" group-title="OTROS", DISCOVERY KIDS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DISCOVERY%20KIDS.png" group-title="OTROS", DISCOVERY KIDS
 http://170.82.113.51:8899/play/a0lm/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DISCOVERY%20THEATER.jpg" group-title="OTROS", DISCOVERY THEATER
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DISCOVERY%20THEATER.jpg" group-title="OTROS", DISCOVERY THEATER
 http://38.210.3.64:8090/play/a0cx/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DISNEY.jpg" group-title="OTROS", DISNEY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DISNEY.jpg" group-title="OTROS", DISNEY
 http://38.210.3.64:8090/play/a0j9/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DISNEY%20JUNIOR.jpg" group-title="OTROS", DISNEY JUNIOR
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DISNEY%20JUNIOR.jpg" group-title="OTROS", DISNEY JUNIOR
 http://38.210.3.64:8090/play/a0eo/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/DISTRITO%20COMEDIA.png" group-title="OTROS", DISTRITO COMEDIA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DISTRITO%20COMEDIA.png" group-title="OTROS", DISTRITO COMEDIA
 http://38.210.3.64:8090/play/a0cu/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/E!%20ENTERTAINMENT%20TV.jpg" group-title="OTROS", E! ENTERTAINMENT TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/E!%20ENTERTAINMENT%20TV.jpg" group-title="OTROS", E! ENTERTAINMENT TV
 http://38.210.3.64:8090/play/a0js/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/EWTN.png" group-title="OTROS", EWTN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EWTN.png" group-title="OTROS", EWTN
 http://38.210.3.64:8090/play/a0l5/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/EXITOSA.jpg" group-title="OTROS", EXITOSA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EXITOSA.jpg" group-title="OTROS", EXITOSA
 http://38.210.3.64:8090/play/a07y/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/EL%20GOURMET.png" group-title="OTROS", EL GOURMET
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EL%20GOURMET.png" group-title="OTROS", EL GOURMET
 http://38.210.3.64:8090/play/a0nl/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ENLACE.jpg" group-title="OTROS", ENLACE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ENLACE.jpg" group-title="OTROS", ENLACE
 http://38.210.3.64:8090/play/a0jw/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/EUROPA%20EUROPA.jpg" group-title="OTROS", EUROPA EUROPA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EUROPA%20EUROPA.jpg" group-title="OTROS", EUROPA EUROPA
 http://38.210.3.64:8090/play/a0ks/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/Exitosa%20TV.png" group-title="OTROS", EXITOSA TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Exitosa%20TV.png" group-title="OTROS", EXITOSA TV
 http://38.210.3.64:8090/play/a0ms/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/FMH%20FAMILY.jpg" group-title="OTROS", FMH FAMILY
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FMH%20FAMILY.jpg" group-title="OTROS", FMH FAMILY
 http://38.210.3.64:8090/play/a0gj/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/FMH%20FAMILY%20KIDS.jpg" group-title="OTROS", FMH FAMILY KIDS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FMH%20FAMILY%20KIDS.jpg" group-title="OTROS", FMH FAMILY KIDS
 http://38.210.3.64:8090/play/a0gk/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/FMH%20FAMILY%20MOVIE.png" group-title="OTROS", FMH FAMILY MOVIE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FMH%20FAMILY%20MOVIE.png" group-title="OTROS", FMH FAMILY MOVIE
 http://38.210.3.64:8090/play/a0gl/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/FILM%26ARTS.jpg" group-title="OTROS", FILM&ARTS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FILM%26ARTS.jpg" group-title="OTROS", FILM&ARTS
 http://38.210.3.64:8090/play/a0nj/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/FOOD%20NETWORK.png" group-title="OTROS", FOOD NETWORK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FOOD%20NETWORK.png" group-title="OTROS", FOOD NETWORK
 http://179.60.51.134:8888/FOOD/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/FRANCE%2024.png" group-title="OTROS", FRANCE 24
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FRANCE%2024.png" group-title="OTROS", FRANCE 24
 http://38.210.3.64:8090/play/a0kj/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/GLOBAL.png" group-title="OTROS", GLOBAL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/GLOBAL.png" group-title="OTROS", GLOBAL
 http://38.210.3.64:8090/play/a0dc/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/GOLDEN%20EDGE.jpg" group-title="OTROS", GOLDEN EDGE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/GOLDEN%20EDGE.jpg" group-title="OTROS", GOLDEN EDGE
 http://38.210.3.64:8090/play/a0co/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/GOLDEN.jpg" group-title="OTROS", GOLDEN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/GOLDEN.jpg" group-title="OTROS", GOLDEN
 http://38.210.3.64:8090/play/a0kp/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HTV.jpg" group-title="OTROS", HTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HTV.jpg" group-title="OTROS", HTV
 http://38.210.3.64:8090/play/a0nk/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HISTORY%20CHANNEL.png" group-title="OTROS", HISTORY CHANNEL
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HISTORY%20CHANNEL.png" group-title="OTROS", HISTORY CHANNEL
 http://38.210.3.64:8090/play/a0j6/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HISTORY%202.png" group-title="OTROS", HISTORY 2
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HISTORY%202.png" group-title="OTROS", HISTORY 2
 http://38.210.3.64:8090/play/a0c6/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/HOME%20%26%20HEALTH.jpg" group-title="OTROS", HOME & HEALTH
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HOME%20%26%20HEALTH.jpg" group-title="OTROS", HOME & HEALTH
 http://38.210.3.64:8090/play/a0mk/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/ID.jpg" group-title="OTROS", ID
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ID.jpg" group-title="OTROS", ID
 http://38.210.3.64:8090/play/a0j8/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/KANAL%20D%20DRAMA.jpg" group-title="OTROS", KANAL D DRAMA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/KANAL%20D%20DRAMA.jpg" group-title="OTROS", KANAL D DRAMA
 http://181.65.207.51:8000/play/a047
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/KARIBE%C3%91A.png" group-title="OTROS", KARIBEÑA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/KARIBE%C3%91A.png" group-title="OTROS", KARIBEÑA
 http://38.210.3.64:8090/play/a08c/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/LIGA%201%20MAX.png" group-title="OTROS", LIGA 1 MAX
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LIGA%201%20MAX.png" group-title="OTROS", LIGA 1 MAX
 http://38.210.3.64:8090/play/a08q/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/LAS%20ESTRELLAS.png" group-title="OTROS", LAS ESTRELLAS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LAS%20ESTRELLAS.png" group-title="OTROS", LAS ESTRELLAS
 http://38.210.3.64:8090/play/a0ng/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/LATINA.png" group-title="OTROS", LATINA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LATINA.png" group-title="OTROS", LATINA
 http://38.210.3.64:8090/play/a0c0/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/LIFETIME.png" group-title="OTROS", LIFETIME
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LIFETIME.png" group-title="OTROS", LIFETIME
 http://38.210.3.64:8090/play/a0ly/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/MI%20MUSICA%20HITS.png" group-title="OTROS", MI MUSICA HITS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MI%20MUSICA%20HITS.png" group-title="OTROS", MI MUSICA HITS
 http://38.210.3.64:8090/play/a0ge/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/MI%20MUSICA%20PERU.png" group-title="OTROS", MI MUSICA PERU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MI%20MUSICA%20PERU.png" group-title="OTROS", MI MUSICA PERU
 http://38.210.3.64:8090/play/a0gg/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/MTV.png" group-title="OTROS", MTV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MTV.png" group-title="OTROS", MTV
 http://38.210.3.64:8090/play/a0ew/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/MUNDO%20DE%20LA%20MUSICA.jpg" group-title="OTROS", MUNDO DE LA MUSICA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MUNDO%20DE%20LA%20MUSICA.jpg" group-title="OTROS", MUNDO DE LA MUSICA
 http://38.210.3.64:8090/play/a0lt/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/NUEVO%20TIEMPO.png" group-title="OTROS", NUEVO TIEMPO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/NUEVO%20TIEMPO.png" group-title="OTROS", NUEVO TIEMPO
 http://38.44.109.41:8003/play/a01n/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/NAT%20GEO.png" group-title="OTROS", NAT GEO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/NAT%20GEO.png" group-title="OTROS", NAT GEO
 http://38.210.3.64:8090/play/a0j7/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/NICK.png" group-title="OTROS", NICK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/NICK.png" group-title="OTROS", NICK
 http://38.210.3.64:8090/play/a0d3/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/NICK%20JR.png" group-title="OTROS", NICK JR
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/NICK%20JR.png" group-title="OTROS", NICK JR
 http://190.60.48.151:8010/play/a0d3/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/NUESTRA%20TELE.jpg" group-title="OTROS", NUESTRA TELE
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/NUESTRA%20TELE.jpg" group-title="OTROS", NUESTRA TELE
 http://38.210.3.64:8090/play/a0mj/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/PANAMERICANA.png" group-title="OTROS", PANAMERICANA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/PANAMERICANA.png" group-title="OTROS", PANAMERICANA
 http://38.210.3.64:8090/play/a0d8/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/PASIONES.jpg" group-title="OTROS", PASIONES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/PASIONES.jpg" group-title="OTROS", PASIONES
 http://38.210.3.64:8090/play/a0kb/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/RAI%20ITALIA.png" group-title="OTROS", RAI ITALIA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RAI%20ITALIA.png" group-title="OTROS", RAI ITALIA
 http://38.210.3.64:8090/play/a0l0/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/RPP.png" group-title="OTROS", RPP
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RPP.png" group-title="OTROS", RPP
 http://38.210.3.64:8090/play/a0db/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/STINGRAY%20ICONCERTS.png" group-title="OTROS", STINGRAY ICONCERTS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/STINGRAY%20ICONCERTS.png" group-title="OTROS", STINGRAY ICONCERTS
 http://38.210.3.64:8090/play/a0n8/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TC%20TELEVISION.png" group-title="OTROS", TC TELEVISION
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TC%20TELEVISION.png" group-title="OTROS", TC TELEVISION
 http://170.244.209.30:8000/play/a0uc/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TNT%20NOVELAS.jpg" group-title="OTROS", TNT NOVELAS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT%20NOVELAS.jpg" group-title="OTROS", TNT NOVELAS
 http://38.210.3.64:8090/play/a0ir/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TNT%20SERIES.png" group-title="OTROS", TNT SERIES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT%20SERIES.png" group-title="OTROS", TNT SERIES
 http://38.210.3.64:8090/play/a0ix/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TOP%20LATINO.png" group-title="OTROS", TOP LATINO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TOP%20LATINO.png" group-title="OTROS", TOP LATINO
 http://38.210.3.64:8090/play/a0lm/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TV%20ARAGUA.png" group-title="OTROS", TV ARAGUA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TV%20ARAGUA.png" group-title="OTROS", TV ARAGUA
 http://38.210.3.64:8090/play/a0lu/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TVPERU.png" group-title="OTROS", TVPERU
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVPERU.png" group-title="OTROS", TVPERU
 http://38.224.175.2:8000/play/a0dt/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TEEN%20NICK.png" group-title="OTROS", TEEN NICK
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TEEN%20NICK.png" group-title="OTROS", TEEN NICK
 http://38.210.3.64:8090/play/a0et/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TELEMUNDO.png" group-title="OTROS", TELEMUNDO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TELEMUNDO.png" group-title="OTROS", TELEMUNDO
 http://38.210.3.64:8090/play/a0jt/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TELEVICENTRO.png" group-title="OTROS", TELEVICENTRO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TELEVICENTRO.png" group-title="OTROS", TELEVICENTRO
 http://38.210.3.64:8090/play/a0hh/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TLNOVELAS.jpg" group-title="OTROS", TLNOVELAS
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TLNOVELAS.jpg" group-title="OTROS", TLNOVELAS
 http://38.210.3.64:8090/play/a0m7/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.jsdelivr.net/gh/xClifordx/images@main/TOONCAST.png" group-title="OTROS", TOONCAST
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TOONCAST.png" group-title="OTROS", TOONCAST
 http://38.210.3.64:8090/play/a0ju/index.m3u8
 #EXTINF:0 tvg-logo="" group-title="OTROS", USA
 http://38.210.3.64:8090/play/a0cn/index.m3u8
