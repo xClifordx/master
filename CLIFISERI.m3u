@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/w_250,c_scale,q_auto/v1779274554/DRAGON_BALL_wedpwz.jpg" group-title="ANIME", DRAGON BALL
+#EXTINF:0 tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/w_250,c_scale,q_auto/v1779274554/DRAGON_BALL_wedpwz.jpg" tvg-desc="La historia original comienza cuando Goku conoce a Bulma, una brillante adolescente que busca reunir las siete Esferas del Dragón para pedir un deseo. Al juntarlas todas, el dragón sagrado Shenlong es invocado para conceder dicho deseo." group-title="ANIME", DRAGON BALL
 https://raw.githubusercontent.com/xClifordx/master/refs/heads/main/DB.m3u
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-seri/refs/heads/main/DRAGON%20BALL%20Z.jpg" group-title="ANIME", DRAGON BALL Z
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-seri/refs/heads/main/DRAGON%20BALL%20Z.jpg" tvg-desc="Dragon Ball Z sigue la vida adulta de Son Goku y su hijo Gohan. Junto a sus aliados, defienden la Tierra de amenazas extraterrestres, androides y seres mágicos. La trama se divide en cuatro grandes sagas cargadas de combates, entrenamiento y evolución personal de los personajes." group-title="ANIME", DRAGON BALL Z
 https://raw.githubusercontent.com/xClifordx/master/refs/heads/main/DBZ.m3u
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-seri/refs/heads/main/DRAGON%20BALL%20GT.jpg" group-title="ANIME", DRAGON BALL GT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-seri/refs/heads/main/DRAGON%20BALL%20GT.jpg" tvg-desc="Dragon Ball GT sigue a Gokú, convertido en niño por un deseo accidental de Pilaf con las Esferas del Dragón Definitivas. Para salvar a la Tierra de la destrucción en un año, emprende un viaje espacial con Trunks y Pan, enfrentando amenazas galácticas, androides y dragones oscuros." group-title="ANIME", DRAGON BALL GT
 https://raw.githubusercontent.com/xClifordx/master/refs/heads/main/DBGT.m3u
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-seri/refs/heads/main/DRAGON%20BALL%20SUPER.jpg" group-title="ANIME", DRAGON BALL SUPER
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/xClifordx/images-seri/refs/heads/main/DRAGON%20BALL%20SUPER.jpg" tvg-desc="Dragon Ball Super continúa las aventuras de Goku tras derrotar a Majin Boo" group-title="ANIME", DRAGON BALL SUPER
 https://raw.githubusercontent.com/xClifordx/master/refs/heads/main/DBS.m3u
