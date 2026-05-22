@@ -35,7 +35,7 @@ def procesar_m3u(archivo):
                 is_online = check_url(url)
                 status = "online" if is_online else "offline"
                 
-                linea_final = linea_limpia.replace('#EXTINF:-1', f'#EXTINF:-1 tvg-status="{status}"', 1)
+                linea_final = re.sub(r'^(#EXTINF:\s*[-]?\d+)', rf'\1 tvg-status="{status}"', linea_limpia)
                 nuevas_lineas.append(linea_final + '\n')
             else:
                 nuevas_lineas.append(linea)
