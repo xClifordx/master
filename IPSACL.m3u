@@ -6,11 +6,11 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVN.png" group-title="1 - TELEVISION CHILENA", TVN
 http://190.151.80.242:9990/play/a0kc/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/NTV.jpg" group-title="1 - TELEVISION CHILENA", NTV
-https://marine2.miplay.cl/ntv/playlist.m3u8
+http://138.36.253.106:8066/play/a00b/index.m3u8?hls
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVN3.png" group-title="1 - TELEVISION CHILENA", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVN%2024%20Horas.png" group-title="1 - TELEVISION CHILENA", TVN 24 Horas
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+http://138.36.253.106:8066/play/a01t/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA.png" group-title="1 - TELEVISION CHILENA", MEGA
 http://38.210.3.64:8090/play/a0mi/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%202.png" group-title="1 - TELEVISION CHILENA", MEGA 2
@@ -27,8 +27,6 @@ http://38.7.223.20:8000/play/a0hh
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Canal%2013.png" group-title="1 - TELEVISION CHILENA", Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Canal%2013.png" group-title="1 - TELEVISION CHILENA", Canal 13
-https://m3u.cl/channel/c13.php
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/13%20GO.png" group-title="1 - TELEVISION CHILENA", 13 GO
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/T13.png" group-title="1 - TELEVISION CHILENA", T13
@@ -69,26 +67,22 @@ https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UFC.png" group-title="2 - DEPORTES", UFC
 http://38.210.3.64:8090/play/A01E/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN.png" group-title="2 - DEPORTES",ESPN
-http://38.210.3.64:8090/play/a0np/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN.png" group-title="2 - DEPORTES",ESPN
-http://38.210.3.64:8090/play/a0bu/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%20Premium.jpg" group-title="2 - DEPORTES",ESPN Premium
-http://38.210.3.64:8090/play/a0ke/index.m3u8
+http://170.247.204.9:8000/play/a04s/index.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN.png" group-title="2 - DEPORTES",ESPN
+http://45.173.74.2:2010/play/a08a/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%202.png" group-title="2 - DEPORTES",ESPN 2
-http://38.210.3.64:8090/play/a0cm/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%202.png" group-title="2 - DEPORTES",ESPN 2
-http://38.210.3.64:8090/play/a0k8/index.m3u8
+http://45.173.74.2:2010/play/a091/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%203.jpg" group-title="2 - DEPORTES",ESPN 3
-http://38.210.3.64:8090/play/a0jb/index.m3u8
+http://45.173.74.2:2010/play/a092/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%204.png" group-title="2 - DEPORTES",ESPN 4
-http://38.210.3.64:8090/play/a0jc/index.m3u8
+http://45.173.74.2:2010/play/a093/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%205.png" group-title="2 - DEPORTES",ESPN 5
-http://38.210.3.64:8090/play/a0jd/index.m3u8
+http://45.173.74.2:2010/play/a094/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%206.png" group-title="2 - DEPORTES",ESPN 6
-http://38.210.3.64:8090/play/a0dj/index.m3u8
+http://45.173.74.2:2010/play/a095/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%207.png" group-title="2 - DEPORTES",ESPN 7
-http://38.210.3.64:8090/play/a0e6/index.m3u8
+http://45.173.74.2:2010/play/a096/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FOX%20SPORT%20PREMIUM.jpg" group-title="2 - DEPORTES",FOX SPORT PREMIUM
 http://38.210.3.64:8090/play/a083/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT%20Sports%20Premiun.jpg" group-title="2 - DEPORTES",TNT Sports Premiun
@@ -122,7 +116,7 @@ http://38.210.3.64:8090/play/a0kv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO.jpg" group-title="3 - PELICULAS", HBO
 http://38.210.3.64:8090/play/a0h9/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%202.png" group-title="3 - PELICULAS", HBO 2
-http://38.210.3.64:8090/play/a0ct/index.m3u8
+http://186.33.25.234:8125/play/a00u/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20Family.png" group-title="3 - PELICULAS", HBO FAMILY
 http://38.210.3.64:8090/play/a0h5/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20Plus.jpg" group-title="3 - PELICULAS", HBO PLUS
@@ -136,7 +130,7 @@ http://38.210.3.64:8090/play/a0iw/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SONY.jpg" group-title="3 - PELICULAS", SONY
 http://38.210.3.64:8090/play/a0it/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SONY%20MOVIES.png" group-title="3 - PELICULAS", SONY MOVIES
-http://38.210.3.64:8090/play/a0en/index.m3u8
+http://209.14.108.65:8000/play/a08m/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SPACE.png" group-title="3 - PELICULAS", SPACE
 http://38.210.3.64:8090/play/a0iu/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/STUDIO%20UNIVERSAL.png" group-title="3 - PELICULAS", STUDIO UNIVERSAL
@@ -165,7 +159,7 @@ https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ADN.png" group-title="4 - RADIOS/MUSICA", ADN RADIO
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/WILLAX.png" group-title="4 - RADIOS/MUSICA", WILLAX
-http://38.210.3.64:8090/play/a0my/index.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(b3Z1ApEgVx9fSo3rqJEmJ9K7Yr3YYMRa-EPYlS0VKnFaAZpvluchPwQRoBUkSRaSqQt6EaPw9ezCEDe5ZRPLj8yFRsWVu_lfDNjWZIHBqP97OKG9kcFvRx1Earw45WXf)/cloud/3/xa63dow/s/live-480.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RETRO%20PLUS%20TV.png" group-title="4 - RADIOS/MUSICA", RETRO PLUS TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RETRO%20PLUS%20TV%20SE%C3%91AL%202.png" group-title="4 - RADIOS/MUSICA", RETRO PLUS TV SEÑAL 2
@@ -199,7 +193,7 @@ https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MUNDO%20DE%20LA%20MUSICA%20TV.png" group-title="4 - RADIOS/MUSICA", MUNDO DE LA MUSICA TV
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SUYAI%20RADIO.jpg" group-title="4 - RADIOS/MUSICA", SUYAI RADIO
-https://signal.suyaitv.cl/live/37/playlist.m3u8?username=zzwebSuyai&password=zzwebSuyai96&PlaylistM3UCL
+https://stream-286.zeno.fm/pbf4jhfesyvuv
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LILA%20TV%20PENCAHUE.png" group-title="4 - RADIOS/MUSICA", LILA TV PENCAHUE
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/GUNS%20N%20ROSES%20FANS.jpg" group-title="4 - RADIOS/MUSICA", GUNS N ROSES FANS
@@ -207,7 +201,7 @@ https://stmv6.voxtvhd.com.br/gunsrosesfans/gunsrosesfans/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ONDA%20FIESTA.png" group-title="4 - RADIOS/MUSICA", ONDA FIESTA
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FACTOR%2080.jpg" group-title="4 - RADIOS/MUSICA", FACTOR 80
-https://5e3483cba9114.streamlock.net:443/8044/8044/playlist.m3u8
+https://5ff3d9babae13.streamlock.net/mjtdyftskj/mjtdyftskj/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/PASION%20RANCHERA.jpg" group-title="4 - RADIOS/MUSICA", PASION RANCHERA
 https://tv.arkeo.cl:19360/8068/8068.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RADIO%20FM%20TOP.png" group-title="4 - RADIOS/MUSICA", RADIO FM TOP
@@ -217,7 +211,7 @@ https://v2.tustreaming.cl/frecuenciacultural/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RITOQUEFM%20TV.png" group-title="4 - RADIOS/MUSICA", RITOQUE FM
 https://streaming.purum.cl/ritoquetv/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HD%20RADIO.png" group-title="4 - RADIOS/MUSICA", HD RADIO
-https://vdo.bitsur.cl:3029/live/hdradiolive.m3u8
+https://streaming.bitsur.cl:3029/live/hdradiolive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RADIO%20AMIGA%20VALLENAR.jpg" group-title="4 - RADIOS/MUSICA", RADIO AMIGA VALLENAR
 https://5eaccbab48461.streamlock.net:1936/8176/8176/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/OMEGA%20RADIO.jpg" group-title="4 - RADIOS/MUSICA", OMEGA RADIO
@@ -228,8 +222,8 @@ https://unlimited1-cl-isp.dps.live/interactivatv/interactivatv.smil/playlist.m3u
 https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/RADIO%20ZONA.jpg" group-title="4 - RADIOS/MUSICA", RADIO ZONA
 https://tv.telselec.cl:3780/live/jesuslive.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TROPICAL%20RANCHERO.png" group-title="4 - RADIOS/MUSICA", TROPICAL RANCHERO
-https://radioxxx.ddns.net/hls/stream.m3u8
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TROPICAL%20RANCHERO.png" group-title="4 - RADIOS/MUSICA", TROPIKAL RANCHERO
+https://streaming.viphosting.cl/8034/stream
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TELEZETA%20TROPICAL.png" group-title="4 - RADIOS/MUSICA", TELEZETA TROPICAL
 https://stream.telezeta.cl/live/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EPA!%20TV.jpg" group-title="4 - RADIOS/MUSICA", EPA! TV
@@ -274,11 +268,11 @@ http://38.210.3.64:8090/play/a0km/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CNN%20ESPA%C3%91OL.png" group-title="OTROS", CNN ESPAÑOL
 http://38.210.3.64:8090/play/a0el/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CNN%20INTERNACIONAL.png" group-title="OTROS", CNN INTERNACIONAL
-http://38.210.3.64:8090/play/a0ek/index.m3u8
+http://201.190.41.246:8822/play/a02k/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CARTOON%20NETWORK.png" group-title="OTROS", CARTOON NETWORK
-http://38.210.3.64:8090/play/a0jm/index.m3u8
+http://201.190.41.246:8822/play/a03d/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CARTOONITO.png" group-title="OTROS", CARTOONITO
-http://38.210.3.64:8090/play/a0nh/index.m3u8
+http://186.33.25.234:8125/play/a01c/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/COMEDY%20CENTRAL.png" group-title="OTROS", COMEDY CENTRAL
 http://38.199.4.105:9999/play/a0av/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/DAYSTAR.jpg" group-title="OTROS", DAYSTAR
@@ -304,9 +298,9 @@ http://38.210.3.64:8090/play/a0js/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EWTN.png" group-title="OTROS", EWTN
 http://38.210.3.64:8090/play/a0l5/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EXITOSA.jpg" group-title="OTROS", EXITOSA
-http://38.210.3.64:8090/play/a07y/index.m3u8
+https://audio3.tustreaming.cl/7330/stream
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EL%20GOURMET.png" group-title="OTROS", EL GOURMET
-http://38.210.3.64:8090/play/a0nl/index.m3u8
+http://186.33.25.234:8125/play/a03b/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ENLACE.jpg" group-title="OTROS", ENLACE
 http://38.210.3.64:8090/play/a0jw/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/EUROPA%20EUROPA.jpg" group-title="OTROS", EUROPA EUROPA
@@ -337,18 +331,18 @@ http://38.210.3.64:8090/play/a0nk/index.m3u8
 http://38.210.3.64:8090/play/a0j6/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HISTORY%202.png" group-title="OTROS", HISTORY 2
 http://38.210.3.64:8090/play/a0c6/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HOME%20%26%20HEALTH.jpg" group-title="OTROS", HOME & HEALTH
-http://38.210.3.64:8090/play/a0mk/index.m3u8
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HOME%20%26%20HEALTH.jpg" group-title="OTROS", DISCOVERY HOME & HEALTH
+http://201.190.41.246:8822/play/a00i/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ID.jpg" group-title="OTROS", ID
 http://38.210.3.64:8090/play/a0j8/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/KANAL%20D%20DRAMA.jpg" group-title="OTROS", KANAL D DRAMA
 http://181.65.207.51:8000/play/a047
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/KARIBE%C3%91A.png" group-title="OTROS", KARIBEÑA
-http://38.210.3.64:8090/play/a08c/index.m3u8
+https://centova.neonetwork.cl:9028/sanvicente
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LIGA%201%20MAX.png" group-title="OTROS", LIGA 1 MAX
-http://38.210.3.64:8090/play/a08q/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LAS%20ESTRELLAS.png" group-title="OTROS", LAS ESTRELLAS
-http://38.210.3.64:8090/play/a0ng/index.m3u8
+http://38.252.213.215:8010/play/a022
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LAS%20ESTRELLAS.png" group-title="OTROS", CANAL LAS ESTRELLAS
+http://201.190.41.246:8822/play/a021/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LATINA.png" group-title="OTROS", LATINA
 http://38.210.3.64:8090/play/a0c0/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LIFETIME.png" group-title="OTROS", LIFETIME
