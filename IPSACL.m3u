@@ -86,7 +86,7 @@ http://45.173.74.2:2010/play/a096/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FOX%20SPORT%20PREMIUM.jpg" group-title="2 - DEPORTES",FOX SPORT PREMIUM
 http://187.245.231.226:8000/play/a0uy/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT%20Sports%20Premiun.jpg" group-title="2 - DEPORTES",TNT SPORT PREMIUM
-http://38.199.4.105:9999/play/a0hy/index.m3u8
+http://190.60.48.151:8010/play/a0at/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Via%20X%20Esports.jpg" group-title="2 - DEPORTES",VIA X ESPORTS
 http://38.199.4.105:9999/play/a0wj/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Claro%20Sports%201.png" group-title="2 - DEPORTES", Claro Sports 1
