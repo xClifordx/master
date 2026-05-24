@@ -66,7 +66,7 @@ https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Valparaiso%20Sporting.png" group-title="2 - DEPORTES", VALPARAISO SPORTING
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UFC.png" group-title="2 - DEPORTES", UFC
-http://38.210.3.64:8090/play/A01E/index.m3u8
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%20Premium.jpg" group-title="2 - DEPORTES",ESPN Premium
 http://170.247.204.9:8000/play/a04s/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN.png" group-title="2 - DEPORTES",ESPN
@@ -84,11 +84,11 @@ http://45.173.74.2:2010/play/a095/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/ESPN%207.png" group-title="2 - DEPORTES",ESPN 7
 http://45.173.74.2:2010/play/a096/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FOX%20SPORT%20PREMIUM.jpg" group-title="2 - DEPORTES",FOX SPORT PREMIUM
-http://38.210.3.64:8090/play/a083/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT%20Sports%20Premiun.jpg" group-title="2 - DEPORTES",TNT Sports Premiun
-http://38.210.3.64:8090/play/a0kl/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Via%20X%20Esports.jpg" group-title="2 - DEPORTES",Via X Esports
-http://38.210.3.64:8090/play/a0i3/index.m3u8
+http://187.245.231.226:8000/play/a0uy/index.m3u8
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT%20Sports%20Premiun.jpg" group-title="2 - DEPORTES",TNT SPORT PREMIUM
+http://170.247.204.9:8000/play/a048/index.m3u8
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Via%20X%20Esports.jpg" group-title="2 - DEPORTES",VIA X ESPORTS
+http://38.199.4.105:9999/play/a0wj/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Claro%20Sports%201.png" group-title="2 - DEPORTES", Claro Sports 1
 http://45.167.1.136:8000/play/a00d
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Claro%20Sports%202.png" group-title="2 - DEPORTES", Claro Sports 2
