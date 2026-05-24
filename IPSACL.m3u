@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/LA%20RED.jpg" group-title="1 - TELEVISION CHILENA", LA RED
-http://38.210.3.64:8090/play/a0li/index.m3u8
+http://138.36.253.106:8066/play/a006/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TV%2B.jpg" group-title="1 - TELEVISION CHILENA", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVN.png" group-title="1 - TELEVISION CHILENA", TVN
@@ -12,7 +12,7 @@ https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TVN%2024%20Horas.png" group-title="1 - TELEVISION CHILENA", TVN 24 Horas
 http://138.36.253.106:8066/play/a01t/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA.png" group-title="1 - TELEVISION CHILENA", MEGA
-http://38.210.3.64:8090/play/a0mi/index.m3u8
+http://138.36.253.106:8066/play/a008/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%202.png" group-title="1 - TELEVISION CHILENA", MEGA 2
 http://38.7.195.43:8000/play/a003/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/MEGA%20NOTICIAS.png" group-title="1 - TELEVISION CHILENA", MEGA NOTICIAS
