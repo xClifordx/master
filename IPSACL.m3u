@@ -93,55 +93,55 @@ http://38.199.4.105:9999/play/a0wj/index.m3u8
 http://45.167.1.136:8000/play/a00d
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721652/Claro_Sports_2_btj8u5.png" group-title="2 - DEPORTES", Claro Sports 2
 http://45.167.1.136:8000/play/a00e
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CINE%20PREMIUM.jpg" group-title="3 - PELICULAS", CINE PREMIUM
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723840/CINE_PREMIUM_hrgt1y.jpg" group-title="3 - PELICULAS", CINE PREMIUM
 http://45.167.1.136:8000/play/a06f
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/STAR%20TVE.jpg" group-title="3 - PELICULAS", STAR TVE
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723878/STAR_TVE_madfme.jpg" group-title="3 - PELICULAS", STAR TVE
 http://45.167.1.136:8000/play/a05r
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL%20CINEMA%20ESTE.png" group-title="3 - PELICULAS", UNIVERSAL CINEMA ESTE
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723908/UNIVERSAL_CINEMA_ESTE_xbf6lq.png" group-title="3 - PELICULAS", UNIVERSAL CINEMA ESTE
 http://45.167.1.136:8000/play/a06m
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/WARNER%20TV.jpg" group-title="3 - PELICULAS", WARNER TV
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723932/WARNER_TV_s1lfbn.jpg" group-title="3 - PELICULAS", WARNER TV
 http://45.167.1.136:8000/play/a03q
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/AMC.png" group-title="3 - PELICULAS", AMC
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723952/AMC_mpbnq4.png" group-title="3 - PELICULAS", AMC
 http://38.199.4.105:9999/play/a0h8/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/AXN.png" group-title="3 - PELICULAS", AXN
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723990/AXN_r1ymfr.png" group-title="3 - PELICULAS", AXN
 http://45.173.74.2:2010/play/a08t/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CINECANAL.png" group-title="3 - PELICULAS", CINECANAL
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724003/CINECANAL_sp8cag.png" group-title="3 - PELICULAS", CINECANAL
 http://45.173.74.2:2010/play/a08v/index.
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/CINEMAX.png" group-title="3 - PELICULAS", CINEMAX
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724046/CINEMAX_dlc6ps.png" group-title="3 - PELICULAS", CINEMAX
 http://45.173.74.2:2010/play/a08w/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/De%20Pel%C3%ADcula.png" group-title="3 - PELICULAS", De Película
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724063/De_Pel%C3%ADcula_r4jygo.png" group-title="3 - PELICULAS", DE PELICULA
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/FX.png" group-title="3 - PELICULAS", FX
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724117/FX_rgzyct.png" group-title="3 - PELICULAS", FX
 http://45.173.74.2:2010/play/a098/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO.jpg" group-title="3 - PELICULAS", HBO
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724129/HBO_v012hm.jpg" group-title="3 - PELICULAS", HBO
 http://201.190.41.246:8822/play/a007/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%202.png" group-title="3 - PELICULAS", HBO 2
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724162/HBO_2_dpfbi6.png" group-title="3 - PELICULAS", HBO 2
 http://186.33.25.234:8125/play/a00u/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20Family.png" group-title="3 - PELICULAS", HBO FAMILY
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724189/HBO_Family_ftcsr5.png" group-title="3 - PELICULAS", HBO FAMILY
 http://201.190.41.246:8822/play/a00a/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20Plus.jpg" group-title="3 - PELICULAS", HBO PLUS
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724202/HBO_Plus_bximki.jpg" group-title="3 - PELICULAS", HBO PLUS
 http://201.190.41.246:8822/play/a009/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20Signature.png" group-title="3 - PELICULAS", HBO SIGNATURE
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724477/HBO_Signature_leedgg.png" group-title="3 - PELICULAS", HBO SIGNATURE
 http://38.199.4.105:9999/play/a0xr/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/HBO%20XTREME.png" group-title="3 - PELICULAS", HBO XTREME
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724506/HBO_XTREME_geckjy.png" group-title="3 - PELICULAS", HBO XTREME
 http://189.148.49.233:8000/play/a04y/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/STAR%20CHANNEL.jpg" group-title="3 - PELICULAS", STAR CHANNEL
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724538/STAR_CHANNEL_zd39g3.jpg" group-title="3 - PELICULAS", STAR CHANNEL
 http://45.173.74.2:2010/play/a0a6/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SONY.jpg" group-title="3 - PELICULAS", SONY
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724552/SONY_kodbct.jpg" group-title="3 - PELICULAS", SONY
 http://45.173.74.2:2010/play/a09h/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SONY%20MOVIES.png" group-title="3 - PELICULAS", SONY MOVIES
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724596/SONY_MOVIES_rdogy9.png" group-title="3 - PELICULAS", SONY MOVIES
 http://209.14.108.65:8000/play/a08m/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/SPACE.png" group-title="3 - PELICULAS", SPACE
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724615/SPACE_lcpuws.png" group-title="3 - PELICULAS", SPACE
 http://45.173.74.2:2010/play/a09i/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/STUDIO%20UNIVERSAL.png" group-title="3 - PELICULAS", STUDIO UNIVERSAL
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724620/STUDIO_UNIVERSAL_ky73zu.png" group-title="3 - PELICULAS", STUDIO UNIVERSAL
 http://45.173.74.2:2010/play/a07m/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TCM.png" group-title="3 - PELICULAS", TCM
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724668/TCM_ebyztl.png" group-title="3 - PELICULAS", TCM
 http://45.173.74.2:2010/play/a09j/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/TNT.png" group-title="3 - PELICULAS", TNT
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724684/TNT_gviqpa.png" group-title="3 - PELICULAS", TNT
 http://186.33.25.234:8125/play/a04r/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/UNIVERSAL.png" group-title="3 - PELICULAS", UNIVERSAL TV
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724688/UNIVERSAL_wat8g5.png" group-title="3 - PELICULAS", UNIVERSAL TV
 http://190.60.48.151:8010/play/a03k/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/WARNER%20CHANNEL.png" group-title="3 - PELICULAS", WARNER CHANNEL
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724701/WARNER_CHANNEL_jkulu2.png" group-title="3 - PELICULAS", WARNER CHANNEL
 http://186.33.25.234:8125/play/a04l/index.m3u8
 
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/BIOBIOTV.jpg" group-title="4 - RADIOS/MUSICA", BIO BIO TV
