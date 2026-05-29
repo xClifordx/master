@@ -368,7 +368,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Ninfoman%C3%ADaca%20-%20Vol.%201%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Nymphomaniac%20Volume%20II%20(2013).jpg" tvg-desc="" group-title="MOVIES",Nymphomaniac Volume II (2013)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Ninfoman%C3%ADaca%20-%20Vol.%202%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/6%20Balas%20(2012).jpg" tvg-desc="" group-title="MOVIES",6 Balas (2012)
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/6%20Balas%20(2012).jpg" tvg-desc="" group-title="MOVIES",6 Balas (2012)
 http://archive.org/download/pelicula-seis-balas-en-latino-completa-240-p-1/PELICULA%20SEIS%20BALAS%20EN%20LATINO%20COMPLETA%28240P%29_1.ia.mp4
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Alone%20in%20the%20Dark%20II%20El%20regreso%20de%20las%20sombras%20(2008).jpg" tvg-desc="" group-title="MOVIES",Alone in the Dark II: El regreso de las sombras (2008)
 
@@ -683,5 +683,5 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/No%20tengas%20miedo%20(2023).jpg" tvg-tags="terror,thriller" tvg-desc="" group-title="MOVIES",No tengas miedo (2023)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Toc%20toc%20toc%20online%20HD%20-%20Cuevana%202.ts
 
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/The%20Lord%20of%20the%20Rings%20(1978).jpg" tvg-tags="animacion,fantasia,aventura,clasico" group-title="VHS", The Lord of the Rings (1978) (Ingles)
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/The%20Lord%20of%20the%20Rings%20(1978).jpg" tvg-tags="animacion,fantasia,aventura,clasico" group-title="VHS", The Lord of the Rings (1978) (Ingles)
 https://archive.org/download/full-vhs-the-lord-of-the-rings-1978-thorn-emi-video-1981-vhs/FULL%20VHS%20The%20Lord%20of%20the%20Rings%20%281978%29%20%5BThorn%20EMI%20Video%5D%20%281981%20VHS%29.mp4
