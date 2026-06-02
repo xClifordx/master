@@ -226,11 +226,11 @@ https://tv.telselec.cl:3780/live/jesuslive.m3u8
 https://streaming.viphosting.cl/8034/stream
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735604/TELEZETA_TROPICAL_bjsdsx.png" group-title="4 - RADIOS/MUSICA", TELEZETA TROPICAL
 https://stream.telezeta.cl/live/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735622/EPA_TV_fnkbvn.jpg" group-title="4 - RADIOS/MUSICA", EPA! TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735622/EPA_TV_fnkbvn.jpg" group-title="4 - RADIOS/MUSICA", EPA! TV
 https://v4.tustreaming.cl/edusauriotv/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735639/RADIO_LABRAR_TV_uiqjqz.png" group-title="4 - RADIOS/MUSICA", RADIO LABRAR TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735639/RADIO_LABRAR_TV_uiqjqz.png" group-title="4 - RADIOS/MUSICA", RADIO LABRAR TV
 https://live20.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735658/MUSIC_PUQ_vun4h6.jpg" group-title="4 - RADIOS/MUSICA", MUSIC PUQ
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735658/MUSIC_PUQ_vun4h6.jpg" group-title="4 - RADIOS/MUSICA", MUSIC PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735677/ONDA_RADIO_TV_x2zmgg.png" group-title="4 - RADIOS/MUSICA", ONDA RADIO TV
 https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8
@@ -399,7 +399,7 @@ http://181.224.200.5:2277/play/a0d0/index.m3u8
 http://45.173.74.2:2010/play/a05b/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", USA
 http://45.173.74.2:2010/play/a053/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", VENE VISION
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", VENE VISION
 http://38.183.213.254:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", AMERICA TV
 http://199.188.103.176:8000/play/a05r/index.m3u8
@@ -475,7 +475,7 @@ https://marine2.miplay.cl/tateti/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", UNIVERSIDAD AUTONOMA TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", UNIVERSIDAD AUTONOMA TV
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TV UCT
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
@@ -503,9 +503,9 @@ https://video03.logicahost.com.br/arabtvchile/arabtvchile/playlist.m3u8
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CORCUBIO TV
 http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CARACOLA TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CARACOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", EGM TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", EGM TV
 https://vdochile.com:3922/live/egm20live.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RADIO LADO OSCURO TV
 https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
@@ -549,7 +549,7 @@ https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", ATACAMA TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", MADERO TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", MADERO TV
 https://v1.tustreaming.cl/maderoantofagasta/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", HUASCO TV
 https://paneltv.stream:19360/huasco/huasco.m3u8
@@ -575,7 +575,7 @@ https://panel.tvstream.cl:1936/campu/campu/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", VTV
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", MARGA MARGA TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", MARGA MARGA TV
 https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", ESTACION LIMACHE TV
 https://v4.tustreaming.cl/limachemovil/index.m3u8
@@ -601,7 +601,7 @@ https://streaming.bitsur.cl:3125/live/vdo522live.m3u8
 https://mc.servidor.stream:19360/8248/8248.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TENDENCIAS PRIME
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", TENDENCIAS PRIME
 https://v4.tustreaming.cl/tendenciastv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", VISION PLUS TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
@@ -613,15 +613,15 @@ https://bst.buin.cl/0.m3u8
 https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", PROVIDENCIA TELEVISION
 https://v2.tustreaming.cl/providenciatv/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", TELECANAL SANTA CRUZ
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TELECANAL SANTA CRUZ
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TVO SAN VICENTE
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SEXTAVISION
 https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", SANTA CRUZ
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SANTA CRUZ
 https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", RTV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RTV
 https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", TV LASCABRAS.NET
 https://vivo.solumedia.com:19360/lascabrastv/lascabrastv.m3u8
@@ -643,9 +643,9 @@ https://v2.tustreaming.cl/utv/index.m3u8
 https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", MAULE VISION
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", TELECAUQUENES
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TELECAUQUENES
 https://live20.bozztv.com/akamaissh101/ssh101/telecauquenestv/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", NOVA TV CANAL 7
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", NOVA TV CANAL 7
 https://freya.mivideo.pro/novatv/index.fmp4.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CANAL 1
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
@@ -653,7 +653,7 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", ÑUBLEVISION
 https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", SUPERSONIKA TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SUPERSONIKA TV
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CLICKTV
 https://v2.tustreaming.cl/clicktv/index.m3u8
@@ -663,7 +663,7 @@ https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8
 https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS",  CANAL 9 BIO BIO TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", PACIFICO TELEVISION
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", PACIFICO TELEVISION
 https://us.streaminghd.cl/pacificotelevision/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", San Pedro Conecta | CL
 https://video.ipstream.cl:3710/hybrid/play.m3u8
@@ -677,9 +677,9 @@ https://live.obslivestream.com/hielmusic/index.m3u8
 https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Pucon TV | CL
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Temuco TV | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Temuco TV | CL
 https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Canal Latino 54 | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Canal Latino 54 | CL
 https://videostream.chileservidores.com:8081/latina/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Los Sauces TV | CL
   http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8
@@ -691,7 +691,7 @@ https://us.streaminghd.cl/apocalipsistvd/video.m3u8
 https://live.mtna.tv/hls/atv/atv.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", MTNA | CL
 https://live.mtna.tv/hls/mtna/mtna.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Osorno TV+ | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Osorno TV+ | CL
 https://videostream.chileservidores.com:8081/osornotv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Decima TV | CL
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8
@@ -735,7 +735,7 @@ https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8
 https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", PinguinoTV | CL
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CTV35 | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CTV35 | CL
 https://vdochile.com:3697/live/ctv35live.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", TV Chile | CL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
@@ -791,7 +791,7 @@ https://tv.arkeo.cl:1936/ritmofm/ritmofm/playlist.m3u8
 https://v1.tustreaming.cl/emociontv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Zona Play Radio | CL
 https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Tributo Valentina | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Tributo Valentina | CL
 https://vdochile.com:3795/hybrid/play.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Patagonia Radio TV | CL
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8
@@ -801,7 +801,7 @@ https://live.tvcontrolcp.com:1936/8098/8098/chunklist_w1439138329.m3u8
 https://panel.tvstream.cl:1936/xauvahknbu/xauvahknbu/chunklist_w1222260493.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Via Libre 102.9 | CL
 https://sonic.portalfoxmix.club/8300/stream
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Universal | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio Universal | CL
 https://videostream.chileservidores.com:8081/universal/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Sabor TV | CL
 https://v2.tustreaming.cl/sabortv/tracks-v1a1/mono.ts.m3u8
@@ -859,7 +859,7 @@ https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Conquistador Concepcion | CL
 https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Sembrador | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", El Sembrador | CL
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", ChocolateFM | CL
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
@@ -917,5 +917,5 @@ https://v4.tustreaming.cl/adatvchile/index.m3u8
 https://vdochile.com:3182/hybrid/play.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", EstacionRadiotv | CL
 https://paneltv.stream:19360/estacion/estacion.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", NG Channel | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", NG Channel | CL
 https://vdochile.com:3222/live/ngchalive.m3u8
