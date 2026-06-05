@@ -317,8 +317,8 @@ http://45.173.74.2:2010/play/a09a/index.m3u8
 http://45.173.74.2:2010/play/a09m/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737468/HOME_HEALTH_bxrfmb.jpg" group-title="3 - CABLE", DISCOVERY HOME & HEALTH
 http://201.190.41.246:8822/play/a00i/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737494/ID_rmfvgj.jpg" group-title="3 - CABLE", ID
-http://38.65.175.116:8000/play/a0ch/index.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737494/ID_rmfvgj.jpg" group-title="3 - CABLE", INVESTIGATION DISCOVERY
+http://45.173.74.2:2010/play/a09c/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737702/MTV_kcwag2.png" group-title="3 - CABLE", MTV
 http://45.173.74.2:2010/play/a08j/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737777/NAT_GEO_x2h7do.png" group-title="3 - CABLE", NAT GEO
