@@ -33,8 +33,6 @@ https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720695/REC_TV_wgsra3.png" group-title="1 - TELEVISION CHILENA", 13 REC TV
 http://38.7.195.43:8000/play/a002/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720715/T13_Radio_s8bw1l.jpg" group-title="4 - RADIOS/MUSICA", T13 RADIO
-https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720905/D13_wkp4qz.png" group-title="1 - TELEVISION CHILENA", D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720925/CNN_Chile_fvirix.png" group-title="1 - TELEVISION CHILENA", CNN CHILE
@@ -63,6 +61,11 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721416/TV_USACH_lhc86c.png" group-title="1 - TELEVISION CHILENA", TV USACH
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
+
+
+
+
+
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721432/Valparaiso_Sporting_v6rtst.png" group-title="2 - DEPORTES", VALPARAISO SPORTING
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721457/UFC_adxnqc.png" group-title="2 - DEPORTES", UFC
@@ -93,6 +96,10 @@ http://38.199.4.105:9999/play/a0wj/index.m3u8
 http://45.167.1.136:8000/play/a00d
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721652/Claro_Sports_2_btj8u5.png" group-title="2 - DEPORTES", Claro Sports 2
 http://45.167.1.136:8000/play/a00e
+
+
+
+
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723840/CINE_PREMIUM_hrgt1y.jpg" group-title="3 - CABLE", CINE PREMIUM
 http://45.167.1.136:8000/play/a06f
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723878/STAR_TVE_madfme.jpg" group-title="3 - CABLE", STAR TVE
@@ -143,6 +150,27 @@ http://186.33.25.234:8125/play/a04r/index.m3u8
 http://190.60.48.151:8010/play/a03k/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724701/WARNER_CHANNEL_jkulu2.png" group-title="3 - CABLE", WARNER CHANNEL
 http://186.33.25.234:8125/play/a04l/index.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735729/CANAL_CLARO_twfj29.png" group-title="3 - CABLE", CANAL CLARO
+http://45.167.1.136:8000/play/a00f
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735739/UNIVERSAL_COMEDY_u42bei.jpg" group-title="3 - CABLE", UNIVERSAL COMEDY
+http://45.167.1.136:8000/play/a067
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735898/UNIVERSAL_CRIME_m62wnz.jpg" group-title="3 - CABLE", UNIVERSAL CRIME
+http://45.167.1.136:8000/play/a066
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735928/UNIVERSAL_cnduwn.jpg" group-title="3 - CABLE", UNIVERSAL+
+http://45.167.1.136:8000/play/a063
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736054/UNIVERSAL_PREMIERE_evio0t.png" group-title="3 - CABLE", UNIVERSAL PREMIERE
+http://45.167.1.136:8000/play/a064
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736069/UNIVERSAL_REALITY_zcextx.png" group-title="3 - CABLE", UNIVERSAL REALITY
+http://45.167.1.136:8000/play/a065
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736216/UNIVISION_hqxh2x.png" group-title="3 - CABLE", UNIVISION
+http://45.167.1.136:8000/play/a06k
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736243/A_E_hrtdug.png" group-title="3 - CABLE", A&E
+http://45.173.74.2:2010/play/a08r/index.m3u8
+
+
+
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720715/T13_Radio_s8bw1l.jpg" group-title="4 - RADIOS/MUSICA", T13 RADIO
+https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734659/BIOBIOTV_ubozlc.jpg" group-title="4 - RADIOS/MUSICA", BIO BIO TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734681/Radio_Agricultura_uqzxc8.jpg" group-title="4 - RADIOS/MUSICA", RADIO AGRICULTURA
@@ -233,22 +261,11 @@ https://live20.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
 https://vdochile.com:3131/live/redupxprlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735677/ONDA_RADIO_TV_x2zmgg.png" group-title="4 - RADIOS/MUSICA", ONDA RADIO TV
 https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735729/CANAL_CLARO_twfj29.png" group-title="3 - CABLE", CANAL CLARO
-http://45.167.1.136:8000/play/a00f
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735739/UNIVERSAL_COMEDY_u42bei.jpg" group-title="3 - CABLE", UNIVERSAL COMEDY
-http://45.167.1.136:8000/play/a067
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735898/UNIVERSAL_CRIME_m62wnz.jpg" group-title="3 - CABLE", UNIVERSAL CRIME
-http://45.167.1.136:8000/play/a066
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735928/UNIVERSAL_cnduwn.jpg" group-title="OTROS", UNIVERSAL+
-http://45.167.1.136:8000/play/a063
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736054/UNIVERSAL_PREMIERE_evio0t.png" group-title="3 - CABLE", UNIVERSAL PREMIERE
-http://45.167.1.136:8000/play/a064
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736069/UNIVERSAL_REALITY_zcextx.png" group-title="3 - CABLE", UNIVERSAL REALITY
-http://45.167.1.136:8000/play/a065
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736216/UNIVISION_hqxh2x.png" group-title="3 - CABLE", UNIVISION
-http://45.167.1.136:8000/play/a06k
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736243/A_E_hrtdug.png" group-title="3 - CABLE", A&E
-http://45.173.74.2:2010/play/a08r/index.m3u8
+
+
+
+
+
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736247/ATV_cqldxr.jpg" group-title="OTROS", ATV
 http://45.173.74.2:2010/play/a071/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736286/ATV_etarsc.jpg" group-title="OTROS", ATV+
