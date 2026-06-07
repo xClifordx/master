@@ -26,7 +26,7 @@ https://jireh-16-hls-video-cl-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720586/CHV_gkl7dp.png" group-title="1 - TELEVISION CHILENA", CHV
 http://138.36.253.106:8066/play/a009/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720646/Canal_13_udlt2m.png" group-title="1 - TELEVISION CHILENA", Canal 13
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/32c8ecdc-0de3-481c-8492-ba98417cf5a8:SCL2/master.m3u8
+http://38.7.197.119:4000/play/a00f/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720676/13_GO_fie40s.png" group-title="1 - TELEVISION CHILENA", 13 GO
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720678/T13_rt06nj.png" group-title="1 - TELEVISION CHILENA", T13
@@ -118,18 +118,18 @@ http://45.173.74.2:2010/play/a08w/index.m3u8
 http://181.224.200.5:2277/play/a0d1/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724117/FX_rgzyct.png" group-title="3 - CABLE", FX
 http://45.173.74.2:2010/play/a098/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724129/HBO_v012hm.jpg" group-title="3 - CABLE", HBO
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724129/HBO_v012hm.jpg" group-title="3 - CABLE", HBO
 http://201.190.41.246:8822/play/a007/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724162/HBO_2_dpfbi6.png" group-title="3 - CABLE", HBO 2
 http://186.33.25.234:8125/play/a00u/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724189/HBO_Family_ftcsr5.png" group-title="3 - CABLE", HBO FAMILY
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724189/HBO_Family_ftcsr5.png" group-title="3 - CABLE", HBO FAMILY
 http://201.190.41.246:8822/play/a00a/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724202/HBO_Plus_bximki.jpg" group-title="3 - CABLE", HBO PLUS
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724202/HBO_Plus_bximki.jpg" group-title="3 - CABLE", HBO PLUS
 http://201.190.41.246:8822/play/a009/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724477/HBO_Signature_leedgg.png" group-title="3 - CABLE", HBO SIGNATURE
 http://38.199.4.105:9999/play/a0xr/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724506/HBO_XTREME_geckjy.png" group-title="3 - CABLE", HBO XTREME
-http://38.65.175.116:8000/play/a096/index.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724506/HBO_XTREME_geckjy.png" group-title="3 - CABLE", HBO XTREME
+http://186.33.25.234:8125/play/a00x/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724538/STAR_CHANNEL_zd39g3.jpg" group-title="3 - CABLE", STAR CHANNEL
 http://45.173.74.2:2010/play/a0a6/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724552/SONY_kodbct.jpg" group-title="3 - CABLE", SONY
