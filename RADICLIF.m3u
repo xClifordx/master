@@ -49,7 +49,7 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735209/MUNDO_DE_LA_MUSICA_TV_gbz2re.png" group-title="RADIOS/MUSICA", MUNDO DE LA MUSICA TV
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735240/SUYAI_RADIO_nv8tvx.jpg" group-title="RADIOS/MUSICA", SUYAI RADIO
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735240/SUYAI_RADIO_nv8tvx.jpg" group-title="RADIOS/MUSICA", SUYAI RADIO
 https://stream-286.zeno.fm/pbf4jhfesyvuv
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735257/LILA_TV_PENCAHUE_d4ygbs.png" group-title="RADIOS/MUSICA", LILA TV PENCAHUE
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
@@ -65,7 +65,7 @@ https://tv.arkeo.cl:19360/8068/8068.m3u8
 https://tv.arkeo.cl:19360/8132/8132.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735390/FRECUENCIA_CULTURAL_kotaqi.jpg" group-title="RADIOS/MUSICA", FRECUENCIA CULTURAL
 https://v2.tustreaming.cl/frecuenciacultural/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735410/RITOQUEFM_TV_parglz.png" group-title="RADIOS/MUSICA", RITOQUE FM
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735410/RITOQUEFM_TV_parglz.png" group-title="RADIOS/MUSICA", RITOQUE FM
 https://streaming.purum.cl/ritoquetv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735435/HD_RADIO_v0m5qx.png" group-title="RADIOS/MUSICA", HD RADIO
 https://streaming.bitsur.cl:3029/live/hdradiolive.m3u8
@@ -83,7 +83,7 @@ https://tv.telselec.cl:3780/live/jesuslive.m3u8
 https://streaming.viphosting.cl/8034/stream
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735604/TELEZETA_TROPICAL_bjsdsx.png" group-title="RADIOS/MUSICA", TELEZETA TROPICAL
 https://stream.telezeta.cl/live/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735622/EPA_TV_fnkbvn.jpg" group-title="RADIOS/MUSICA", EPA! TV
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735622/EPA_TV_fnkbvn.jpg" group-title="RADIOS/MUSICA", EPA! TV
 https://v4.tustreaming.cl/edusauriotv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735639/RADIO_LABRAR_TV_uiqjqz.png" group-title="RADIOS/MUSICA", RADIO LABRAR TV
 https://live20.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
@@ -91,7 +91,7 @@ https://live20.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
 https://vdochile.com:3131/live/redupxprlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735677/ONDA_RADIO_TV_x2zmgg.png" group-title="RADIOS/MUSICA", ONDA RADIO TV
 https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%2089.5FM.png" group-title="RADIOS/MUSICA", Radio Portales 89.5 FM
+#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%2089.5FM.png" group-title="RADIOS/MUSICA", Radio Portales 89.5 FM
 https://radios.mediaradio.cl/listen/portalesfm/radio.mp3
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%20840AM.png" group-title="RADIOS/MUSICA", Radio Portales 840 AM
 https://stream.mediaradio.cl/8108/stream
@@ -110,7 +110,7 @@ http://190.14.249.223:17032/play/a05c/index.m3u8
 http://38.210.3.64:8090/play/a0gg/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737733/MUNDO_DE_LA_MUSICA_lihnnf.jpg" group-title="RADIOS/MUSICA", MUNDO DE LA MUSICA
 http://38.210.3.64:8090/play/a0lt/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738005/STINGRAY_ICONCERTS_t1gay2.png" group-title="RADIOS/MUSICA", STINGRAY ICONCERTS
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738005/STINGRAY_ICONCERTS_t1gay2.png" group-title="RADIOS/MUSICA", STINGRAY ICONCERTS
 http://45.173.74.2:2010/play/a06u/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738088/TOP_LATINO_gejkvc.png" group-title="RADIOS/MUSICA", TOP LATINO
 http://38.210.3.64:8090/play/a0lm/index.m3u8
