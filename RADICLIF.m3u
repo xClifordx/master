@@ -99,7 +99,6 @@ https://stream.mediaradio.cl/8108/stream
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Presidente%20Ibanez%2088.5.jpg" group-title="RADIOS/MUSICA", Radio Presidente Ibanez 88.5
 https://ibanez.servercl.com/hls/live.m3u8
-
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737103/EXITOSA_jwmy7j.jpg" group-title="RADIOS/MUSICA", EXITOSA
 https://audio3.tustreaming.cl/7330/stream
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737538/KARIBE%C3%91A_vuyvcc.png" group-title="RADIOS/MUSICA", KARIBEÑA
@@ -116,13 +115,20 @@ http://45.173.74.2:2010/play/a06u/index.m3u8
 http://38.210.3.64:8090/play/a0lm/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738277/HIEL_MUSIC_qdpxmd.jpg" group-title="RADIOS/MUSICA", HIEL MUSIC
 https://live.obslivestream.com/hielmusic/index.m3u8
-
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="RADIOS/MUSICA", PRIDETV LATAM
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934205/PRIDETV_ggrym0.png" group-title="RADIOS/MUSICA", PRIDETV LATAM
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="RADIOS/MUSICA", PORTAL FOXMIX
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934202/PORTAL_FOXMIX_kdglue.jpg" group-title="RADIOS/MUSICA", PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-
-
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934200/BOX_Japan_City_Pop_ektpke.jpg" group-title="RADIOS/MUSICA", BOX : JAPAN CITY POP
+https://play.streamafrica.net/japancitypop
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934208/Kodama_Station_twxfye.jpg" group-title="RADIOS/MUSICA", KODAMA STATION
+https://cast.kodamastation.com/radio/8000/radio.mp3
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934210/Radio_Go_latino_yepwmb.jpg" group-title="RADIOS/MUSICA", RADIO GO LATINO
+https://antonyokumura.radioca.st/stream
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934213/Radio_Jkanime_avfpbh.jpg" group-title="RADIOS/MUSICA", JKANIME
+https://stream.zeno.fm/4n10t55g4uhvv
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934216/Radio_Portal_Animediv_vzhw5d.jpg" group-title="RADIOS/MUSICA", RADIO ANIMEDIV
+https://stream.zeno.fm/gzbardet05wtv
 
 
 
