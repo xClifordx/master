@@ -1,10 +1,10 @@
 [
   {
-    "user": "ricardo",
+    "user": "admin",
     "pass": "temporal2026"
   },
   {
-    "user": "cliente1",
-    "pass": "accesoiptv"
+    "user": "usuario1",
+    "pass": "acceso1"
   }
 ]
