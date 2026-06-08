@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="Spider-Noir",Temporada 1 - Episodio 1
-https://huggingface.co/datasets/RKR2/dbsm/resolve/main/SPNC1XE01.mkv
+https://huggingface.co/datasets/RKR2/dbsm/resolve/main/SPNCCO1XE01.mkv
 #EXTINF:0 tvg-logo="" group-title="Spider-Noir",Temporada 1 - Episodio 2
-
+https://huggingface.co/datasets/RKR2/dbsm/resolve/main/SPNCCO1XE02.mkv
 #EXTINF:0 tvg-logo="" group-title="Spider-Noir",Temporada 1 - Episodio 3
 
 #EXTINF:0 tvg-logo="" group-title="Spider-Noir",Temporada 1 - Episodio 4
