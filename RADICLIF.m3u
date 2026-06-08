@@ -92,7 +92,7 @@ https://vdochile.com:3131/live/redupxprlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735677/ONDA_RADIO_TV_x2zmgg.png" group-title="RADIOS/MUSICA", ONDA RADIO TV
 https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%2089.5FM.png" group-title="RADIOS/MUSICA", Radio Portales 89.5 FM
-https://stream.mediaradio.cl/8106/stream
+https://radios.mediaradio.cl/listen/portalesfm/radio.mp3
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Portales%20840AM.png" group-title="RADIOS/MUSICA", Radio Portales 840 AM
 https://stream.mediaradio.cl/8108/stream
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Rancagua%2099.5.png" group-title="RADIOS/MUSICA", Radio Rancagua 99.5 FM
@@ -100,24 +100,26 @@ https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images/refs/heads/main/Radio%20Presidente%20Ibanez%2088.5.jpg" group-title="RADIOS/MUSICA", Radio Presidente Ibanez 88.5
 https://ibanez.servercl.com/hls/live.m3u8
 
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737103/EXITOSA_jwmy7j.jpg" group-title="OTROS", EXITOSA
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737103/EXITOSA_jwmy7j.jpg" group-title="RADIOS/MUSICA", EXITOSA
 https://audio3.tustreaming.cl/7330/stream
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737538/KARIBE%C3%91A_vuyvcc.png" group-title="OTROS", KARIBEÑA
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737538/KARIBE%C3%91A_vuyvcc.png" group-title="RADIOS/MUSICA", KARIBEÑA
 http://45.173.74.2:2010/play/a07b/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737666/MI_MUSICA_HITS_tacl5u.png" group-title="OTROS", MI MUSICA HITS
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737666/MI_MUSICA_HITS_tacl5u.png" group-title="RADIOS/MUSICA", MI MUSICA HITS
 http://190.14.249.223:17032/play/a05c/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737697/MI_MUSICA_PERU_ui2dsr.png" group-title="OTROS", MI MUSICA PERU
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737697/MI_MUSICA_PERU_ui2dsr.png" group-title="RADIOS/MUSICA", MI MUSICA PERU
 http://38.210.3.64:8090/play/a0gg/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737733/MUNDO_DE_LA_MUSICA_lihnnf.jpg" group-title="OTROS", MUNDO DE LA MUSICA
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737733/MUNDO_DE_LA_MUSICA_lihnnf.jpg" group-title="RADIOS/MUSICA", MUNDO DE LA MUSICA
 http://38.210.3.64:8090/play/a0lt/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738005/STINGRAY_ICONCERTS_t1gay2.png" group-title="OTROS", STINGRAY ICONCERTS
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738005/STINGRAY_ICONCERTS_t1gay2.png" group-title="RADIOS/MUSICA", STINGRAY ICONCERTS
 http://45.173.74.2:2010/play/a06u/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738088/TOP_LATINO_gejkvc.png" group-title="OTROS", TOP LATINO
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738088/TOP_LATINO_gejkvc.png" group-title="RADIOS/MUSICA", TOP LATINO
 http://38.210.3.64:8090/play/a0lm/index.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738277/HIEL_MUSIC_qdpxmd.jpg" group-title="RADIOS/MUSICA", HIEL MUSIC
+https://live.obslivestream.com/hielmusic/index.m3u8
 
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", PRIDETV LATAM
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="RADIOS/MUSICA", PRIDETV LATAM
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", PORTAL FOXMIX
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="RADIOS/MUSICA", PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 
