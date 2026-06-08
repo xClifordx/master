@@ -561,8 +561,6 @@ https://video.ipstream.cl:3710/hybrid/play.m3u8
 https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Teleangol Radio | CL
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738277/HIEL_MUSIC_qdpxmd.jpg" group-title="MUSICA STREAM", HIEL MUSIC
-https://live.obslivestream.com/hielmusic/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CRadio.cl | CL
 https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Pucon TV | CL
@@ -699,10 +697,6 @@ https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio Presidente Ibańez | CL
 https://ibanez.servercl.com/hls/live.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738306/Radio_Portales_89.5FM_ik8pz7.png" group-title="RADIOS", Radio Portales 89.5FM | CL
-https://radios.mediaradio.cl/listen/portalesfm/radio.mp3
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Portales 840AM | CL
-https://stream.mediaradio.cl/8108/stream
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Polar | CL
 https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e_output_0.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Navarino | CL
