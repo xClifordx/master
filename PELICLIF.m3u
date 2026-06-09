@@ -391,7 +391,7 @@ http://archive.org/download/la-lista-de-al-carajo_202007/La%20Lista%20De%20Al%20
 http://archive.org/download/super-pelicula-no-estoy-solo-terror-suspenso-e-intriga-hd-240-p-1/SUPER%20PELICULA%20%20NO%20ESTOY%20SOLO%20%E2%9C%85--%20TERROR%20SUSPENSO%20E%20INTRIGA%20%20HD%28240P%29_1.mp4
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Ong-Bak%203%20(2010).jpg" tvg-tags="accion,aventura,artesmarciales" tvg-desc="" group-title="MOVIES",Ong-Bak 3 (2010)
 http://archive.org/download/la-boda-de-mi-ex_202104/Ong%20Bak%203.mp4
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Redada%20Asesina%20(2011).jpg" tvg-tags="accion,crimen,thriller,artesmarciales" tvg-desc="" group-title="MOVIES",Redada Asesina (2011)
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Redada%20Asesina%20(2011).jpg" tvg-tags="accion,crimen,thriller,artesmarciales" tvg-desc="" group-title="MOVIES",Redada Asesina (2011)
 http://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Terminus%20(2015).jpg" tvg-tags="scifi,thriller,accion" tvg-desc="" group-title="MOVIES",Terminus (2015)
 http://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
@@ -419,7 +419,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjul24%2FVer%20Un%20detective%20suelto%20en%20Hollywood-%20Axel%20F.%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Infiltrada%20en%20la%20NASA%20(2024).jpg" tvg-tags="comedia,romance" tvg-desc="" group-title="MOVIES",Infiltrada en la NASA (2024)
 https://dl.dropboxusercontent.com/scl/fi/0abjrwwb4kewe27wxlh25/Ver-Novata-Espacial-online-HD-GNULA.mp4?rlkey=wjr5blgg818igvp5yn024gvfy&st=7xktiyqa&dl=0
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/El%20imaginario%20(2023).jpg" tvg-tags="animacion,fantasia,aventura,familiar,anime" tvg-desc="" group-title="MOVIES",El imaginario (2023)
+#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/El%20imaginario%20(2023).jpg" tvg-tags="animacion,fantasia,aventura,familiar,anime" tvg-desc="" group-title="MOVIES",El imaginario (2023)
 https://dl.dropboxusercontent.com/scl/fi/56bn77n7uygylbprans6o/Ver-El-imaginario-online-HD-GNULA.mp4?rlkey=vsy3r9etyrmuiqp1c9yi3vhdt&st=93c8efpe&dl=0
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Winnie%20the%20Pooh%20Sangre%20y%20miel%202%20(2024).jpg" tvg-tags="terror,fantasia_oscura" tvg-desc="" group-title="MOVIES",Winnie the Pooh: Miel y sangre 2 (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjun24%2FWatch%20Winnie%20the%20Pooh%20Blood%20and%20Honey%202024%20WEBDLSCR1080L4T%20mp4.mp4
@@ -443,7 +443,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Luna%20Sin%20Miel%20online%20HD%20-%20Cuevana%202.mp4
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Fiesta%20en%20la%20Madriguera%20(2024).jpg" tvg-tags="drama,independiente" tvg-desc="" group-title="MOVIES",Fiesta en la Madriguera (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Fiesta%20en%20la%20Madriguera%20online%20HD%20-%20Cuevana%202.mp4
-#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Liga%20de%20la%20Justicia%20Parte%202%20(2024).jpg" tvg-tags="animacion,accion,aventura,superheroes,scifi" tvg-desc="" group-title="MOVIES",Liga de la Justicia: Parte 2 (2024)
+#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Liga%20de%20la%20Justicia%20Parte%202%20(2024).jpg" tvg-tags="animacion,accion,aventura,superheroes,scifi" tvg-desc="" group-title="MOVIES",Liga de la Justicia: Parte 2 (2024)
 https://dl.dropboxusercontent.com/scl/fi/nlgvixnbj6tv33kc0k1ic/Ver-Liga-de-la-Justicia-Crisis-en-Tierras-Infinitas-Parte-2-online-HD-GNULA.mp4?rlkey=tjx4h0pz04x7kl685sm8p8lq5&st=62d7m0py&dl=0
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Rebel%20Moon%20(Parte%20dos)%20(2024).jpg" tvg-tags="accion,aventura,scifi,fantasia,thriller" tvg-desc="" group-title="MOVIES",Rebel Moon (Parte dos) (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fabr24%2FVer%20Rebel%20Moon%20-%20Parte%20Dos-%20La%20Guerrera%20que%20Deja%20Marcas%20online%20HD%20-%20Cuevana%202.mp4
