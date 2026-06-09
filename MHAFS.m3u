@@ -1,3 +1,23 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="" group-title="", Episodio 1
 https://archive.org/download/1-deku-8.-fhd.nh-985hnj-54hmn-450hm-4502h-945h-5/1Deku8.FHD.nh985hnj54hmn450hm4502h945h5.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 2
+https://archive.org/download/2-deku-8.-fhd.nh-584hnm-540hj-45mh-92045h-54h-45h-245/2Deku8.FHD.nh584hnm540hj45mh92045h54h45h245.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 3
+https://archive.org/download/3-deku-8.nb-945hnm-459h-054jm-2h-9045hk/3Deku8.nb945hnm459h054jm2h9045hk.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 4
+https://archive.org/download/4-deku-8.-fhd.gn-4598ghn-540h-9245hnjm-4509hj-450h/4Deku8.FHD.gn4598ghn540h9245hnjm4509hj450h.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 5
+https://huggingface.co/datasets/RKR2/dbsm/resolve/main/Deku.T8-05.720p.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 6
+https://huggingface.co/datasets/RKR2/dbsm/resolve/main/Deku.T8-06.720p.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 7
+https://huggingface.co/datasets/RKR2/dbsm/resolve/main/Deku.T8-07.720p.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 8
+https://huggingface.co/datasets/RKR2/dbsm/resolve/main/Deku.T8-08.720p.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 9
+https://huggingface.co/datasets/RKR2/dbsm/resolve/main/Deku.T8-09.720p.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 10
+https://huggingface.co/datasets/RKR2/dbsm/resolve/main/Deku.T8-10.720p.mp4
+#EXTINF:0 tvg-logo="" group-title="", Episodio 11
+https://ia601701.us.archive.org/30/items/deku.-t-8-11.720p/Deku.T8-11.720p.mp4
