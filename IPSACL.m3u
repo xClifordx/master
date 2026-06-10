@@ -196,7 +196,7 @@ http://201.190.41.246:8822/play/a014/index.m3u8
 http://45.173.74.2:2010/play/a08z/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737216/FMH_FAMILY_z05oic.jpg" group-title="3 - CABLE", FMH FAMILY
 http://38.252.215.33:8000/play/a00p/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737243/FMH_FAMILY_KIDS_z2odup.jpg" group-title="3 - CABLE", FMH FAMILY KIDS
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737243/FMH_FAMILY_KIDS_z2odup.jpg" group-title="3 - CABLE", FMH FAMILY KIDS
 http://38.210.3.64:8090/play/a0gk/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737247/FMH_FAMILY_MOVIE_ae0efq.png" group-title="3 - CABLE", FMH FAMILY MOVIE
 http://38.252.215.33:8000/play/a01k/index.m3u8
@@ -315,7 +315,7 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&Playl
 https://freya.mivideo.pro/parentesistv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CENTRAL TV
 https://freya.mivideo.pro/centraltv/video.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SUYAI TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", SUYAI TV
 http://38.224.175.2:8000/play/a05s/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CRTV
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
@@ -419,7 +419,7 @@ https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
 https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", FUTGO
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", ARICA TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", ARICA TV
 https://envivo.arica.tv/hls/Live2025AricaTV.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CAPPISSIMA MULTIMEDIAL TV
 https://oracle.streaminghd.cl/cappissima/cappissima/playlist.m3u8
@@ -490,7 +490,7 @@ https://mc.servidor.stream:19360/8248/8248.m3u8
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TENDENCIAS PRIME
 https://v4.tustreaming.cl/tendenciastv/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", VISION PLUS TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", VISION PLUS TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", AUTONOMA TV
 https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
@@ -506,9 +506,9 @@ https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SEXTAVISION
 https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", SANTA CRUZ
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SANTA CRUZ
 https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", RTV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RTV
 https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", EN LINEA MAULE
 https://v1.tustreaming.cl/enlineamauletv/index.m3u8
@@ -542,11 +542,11 @@ https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u
 https://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RED VISION TELEVISION
 https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CONCEPCION TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CONCEPCION TV
 https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS",  CANAL 9 BIO BIO TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", PACIFICO TELEVISION
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", PACIFICO TELEVISION
 https://us.streaminghd.cl/pacificotelevision/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", San Pedro Conecta | CL
 https://video.ipstream.cl:3710/hybrid/play.m3u8
@@ -625,7 +625,7 @@ https://video3.servidordevideo.net:3585/live/upbsfzhdlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Emocion TV | CL
 https://v1.tustreaming.cl/emociontv/index.m3u8
 
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Tributo Valentina | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Tributo Valentina | CL
 https://vdochile.com:3795/hybrid/play.m3u8
 
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Sabor TV | CL
