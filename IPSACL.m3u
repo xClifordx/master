@@ -72,19 +72,19 @@ https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721460/ESPN_Premium_znu0hq.jpg" group-title="2 - DEPORTES",ESPN Premium
 http://170.247.204.9:8000/play/a04s/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721472/ESPN_ikmokd.png" group-title="2 - DEPORTES",ESPN
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721472/ESPN_ikmokd.png" group-title="2 - DEPORTES",ESPN
 http://45.173.74.2:2010/play/a08a/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721485/ESPN_2_vojyti.png" group-title="2 - DEPORTES",ESPN 2
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721485/ESPN_2_vojyti.png" group-title="2 - DEPORTES",ESPN 2
 http://45.173.74.2:2010/play/a091/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721510/ESPN_3_wqbcqy.jpg" group-title="2 - DEPORTES",ESPN 3
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721510/ESPN_3_wqbcqy.jpg" group-title="2 - DEPORTES",ESPN 3
 http://45.173.74.2:2010/play/a092/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721513/ESPN_4_ud9e53.png" group-title="2 - DEPORTES",ESPN 4
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721513/ESPN_4_ud9e53.png" group-title="2 - DEPORTES",ESPN 4
 http://45.173.74.2:2010/play/a093/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721536/ESPN_5_ldxj3f.png" group-title="2 - DEPORTES",ESPN 5
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721536/ESPN_5_ldxj3f.png" group-title="2 - DEPORTES",ESPN 5
 http://45.173.74.2:2010/play/a094/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721554/ESPN_6_exntw9.png" group-title="2 - DEPORTES",ESPN 6
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721554/ESPN_6_exntw9.png" group-title="2 - DEPORTES",ESPN 6
 http://45.173.74.2:2010/play/a095/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721568/ESPN_7_gcxud5.png" group-title="2 - DEPORTES",ESPN 7
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721568/ESPN_7_gcxud5.png" group-title="2 - DEPORTES",ESPN 7
 http://45.173.74.2:2010/play/a096/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721590/FOX_SPORT_PREMIUM_hfspkd.jpg" group-title="2 - DEPORTES",FOX SPORT PREMIUM
 http://187.245.231.226:8000/play/a0uy/index.m3u8
@@ -108,15 +108,15 @@ http://45.167.1.136:8000/play/a05r
 http://45.167.1.136:8000/play/a06m
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723952/AMC_mpbnq4.png" group-title="3 - CABLE", AMC
 http://38.199.4.105:9999/play/a0h8/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723990/AXN_r1ymfr.png" group-title="3 - CABLE", AXN
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779723990/AXN_r1ymfr.png" group-title="3 - CABLE", AXN
 http://45.173.74.2:2010/play/a08t/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724003/CINECANAL_sp8cag.png" group-title="3 - CABLE", CINECANAL
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724003/CINECANAL_sp8cag.png" group-title="3 - CABLE", CINECANAL
 http://45.173.74.2:2010/play/a08v/index.
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724046/CINEMAX_dlc6ps.png" group-title="3 - CABLE", CINEMAX
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724046/CINEMAX_dlc6ps.png" group-title="3 - CABLE", CINEMAX
 http://45.173.74.2:2010/play/a08w/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724063/De_Pel%C3%ADcula_r4jygo.png" group-title="3 - CABLE", DE PELICULA
 http://181.224.200.5:2277/play/a0d1/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724117/FX_rgzyct.png" group-title="3 - CABLE", FX
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724117/FX_rgzyct.png" group-title="3 - CABLE", FX
 http://45.173.74.2:2010/play/a098/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724129/HBO_v012hm.jpg" group-title="3 - CABLE", HBO
 http://201.190.41.246:8822/play/a007/index.m3u8
@@ -130,17 +130,17 @@ http://201.190.41.246:8822/play/a009/index.m3u8
 http://38.199.4.105:9999/play/a0xr/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724506/HBO_XTREME_geckjy.png" group-title="3 - CABLE", HBO XTREME
 http://186.33.25.234:8125/play/a00x/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724538/STAR_CHANNEL_zd39g3.jpg" group-title="3 - CABLE", STAR CHANNEL
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724538/STAR_CHANNEL_zd39g3.jpg" group-title="3 - CABLE", STAR CHANNEL
 http://45.173.74.2:2010/play/a0a6/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724552/SONY_kodbct.jpg" group-title="3 - CABLE", SONY
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724552/SONY_kodbct.jpg" group-title="3 - CABLE", SONY
 http://45.173.74.2:2010/play/a09h/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724596/SONY_MOVIES_rdogy9.png" group-title="3 - CABLE", SONY MOVIES
 http://209.14.108.65:8000/play/a08m/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724615/SPACE_lcpuws.png" group-title="3 - CABLE", SPACE
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724615/SPACE_lcpuws.png" group-title="3 - CABLE", SPACE
 http://45.173.74.2:2010/play/a09i/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724620/STUDIO_UNIVERSAL_ky73zu.png" group-title="3 - CABLE", STUDIO UNIVERSAL
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724620/STUDIO_UNIVERSAL_ky73zu.png" group-title="3 - CABLE", STUDIO UNIVERSAL
 http://45.173.74.2:2010/play/a07m/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724668/TCM_ebyztl.png" group-title="3 - CABLE", TCM
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724668/TCM_ebyztl.png" group-title="3 - CABLE", TCM
 http://45.173.74.2:2010/play/a09j/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779724684/TNT_gviqpa.png" group-title="3 - CABLE", TNT
 http://186.33.25.234:8125/play/a04r/index.m3u8
@@ -162,13 +162,13 @@ http://45.167.1.136:8000/play/a064
 http://45.167.1.136:8000/play/a065
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736216/UNIVISION_hqxh2x.png" group-title="3 - CABLE", UNIVISION
 http://45.167.1.136:8000/play/a06k
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736243/A_E_hrtdug.png" group-title="3 - CABLE", A&E
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736243/A_E_hrtdug.png" group-title="3 - CABLE", A&E
 http://45.173.74.2:2010/play/a08r/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736307/ADULT_SWIM_ujxsbs.jpg" group-title="3 - CABLE", ADULT SWIM
 http://201.190.41.246:8822/play/a015/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736337/ANIMAL_PLANET_gzn39e.jpg" group-title="3 - CABLE", ANIMAL PLANET
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736337/ANIMAL_PLANET_gzn39e.jpg" group-title="3 - CABLE", ANIMAL PLANET
 http://45.173.74.2:2010/play/a08s/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736388/BABY_TV_x8pkbn.png" group-title="3 - CABLE", BABY TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736388/BABY_TV_x8pkbn.png" group-title="3 - CABLE", BABY TV
 http://45.173.74.2:2010/play/a09r/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736415/CNN_ESPA%C3%91OL_jm0ay0.png" group-title="3 - CABLE", CNN ESPAÑOL
 http://38.199.4.105:9999/play/a0yh/index.m3u8
@@ -184,15 +184,15 @@ http://38.199.4.105:9999/play/a0av/index.m3u8
 http://186.33.25.234:8125/play/a06d/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736596/DISCOVERY_H_H_ncnly8.jpg" group-title="3 - CABLE", DISCOVERY H&H
 http://45.171.64.30:2000/play/a03g/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736961/DISCOVERY_KIDS_ihvaid.png" group-title="3 - CABLE", DISCOVERY KIDS
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736961/DISCOVERY_KIDS_ihvaid.png" group-title="3 - CABLE", DISCOVERY KIDS
 http://45.173.74.2:2010/play/a07f/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736986/DISCOVERY_THEATER_htspev.jpg" group-title="3 - CABLE", DISCOVERY THEATER
 http://181.224.200.5:2277/play/a0bj/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737006/DISNEY_p36wcb.jpg" group-title="3 - CABLE", DISNEY
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737006/DISNEY_p36wcb.jpg" group-title="3 - CABLE", DISNEY
 http://45.173.74.2:2010/play/a09z/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737018/DISNEY_JUNIOR_cghjbk.jpg" group-title="3 - CABLE", DISNEY JUNIOR
 http://201.190.41.246:8822/play/a014/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737062/E_ENTERTAINMENT_TV_prhmpm.jpg" group-title="3 - CABLE", E! ENTERTAINMENT TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737062/E_ENTERTAINMENT_TV_prhmpm.jpg" group-title="3 - CABLE", E! ENTERTAINMENT TV
 http://45.173.74.2:2010/play/a08z/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737216/FMH_FAMILY_z05oic.jpg" group-title="3 - CABLE", FMH FAMILY
 http://38.252.215.33:8000/play/a00p/index.m3u8
@@ -200,50 +200,50 @@ http://38.252.215.33:8000/play/a00p/index.m3u8
 http://38.210.3.64:8090/play/a0gk/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737247/FMH_FAMILY_MOVIE_ae0efq.png" group-title="3 - CABLE", FMH FAMILY MOVIE
 http://38.252.215.33:8000/play/a01k/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737282/FILM_ARTS_ido2dg.jpg" group-title="3 - CABLE", FILM&ARTS
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737282/FILM_ARTS_ido2dg.jpg" group-title="3 - CABLE", FILM&ARTS
 http://45.173.74.2:2010/play/a08l/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737301/FOOD_NETWORK_zjsqjn.png" group-title="3 - CABLE", FOOD NETWORK
 http://179.60.51.134:8888/FOOD/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737365/GLOBAL_j5z3sp.png" group-title="3 - CABLE", GLOBAL
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737365/GLOBAL_j5z3sp.png" group-title="3 - CABLE", GLOBAL
 http://45.173.74.2:2010/play/a075/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737370/GOLDEN_EDGE_vlpaa3.jpg" group-title="3 - CABLE", GOLDEN EDGE
 http://181.224.200.5:2277/play/a0bd/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737406/GOLDEN_qc8v8k.jpg" group-title="3 - CABLE", GOLDEN
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737406/GOLDEN_qc8v8k.jpg" group-title="3 - CABLE", GOLDEN
 http://45.173.74.2:2010/play/a07i/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737436/HISTORY_CHANNEL_uzaxq8.png" group-title="3 - CABLE", HISTORY CHANNEL
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737436/HISTORY_CHANNEL_uzaxq8.png" group-title="3 - CABLE", HISTORY CHANNEL
 http://45.173.74.2:2010/play/a09a/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737463/HISTORY_2_okg84y.png" group-title="3 - CABLE", HISTORY 2
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737463/HISTORY_2_okg84y.png" group-title="3 - CABLE", HISTORY 2
 http://45.173.74.2:2010/play/a09m/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737468/HOME_HEALTH_bxrfmb.jpg" group-title="3 - CABLE", DISCOVERY HOME & HEALTH
 http://201.190.41.246:8822/play/a00i/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737494/ID_rmfvgj.jpg" group-title="3 - CABLE", INVESTIGATION DISCOVERY
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737494/ID_rmfvgj.jpg" group-title="3 - CABLE", INVESTIGATION DISCOVERY
 http://45.173.74.2:2010/play/a09c/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737702/MTV_kcwag2.png" group-title="3 - CABLE", MTV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737702/MTV_kcwag2.png" group-title="3 - CABLE", MTV
 http://45.173.74.2:2010/play/a08j/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737777/NAT_GEO_x2h7do.png" group-title="3 - CABLE", NAT GEO
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737777/NAT_GEO_x2h7do.png" group-title="3 - CABLE", NAT GEO
 http://45.173.74.2:2010/play/a09e/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737798/NICK_ns8nvm.png" group-title="3 - CABLE", NICKELODEON
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737798/NICK_ns8nvm.png" group-title="3 - CABLE", NICKELODEON
 http://45.173.74.2:2010/play/a0a5/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737828/NICK_JR_ggmtyk.png" group-title="3 - CABLE", NICK JR
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737828/NICK_JR_ggmtyk.png" group-title="3 - CABLE", NICK JR
 http://45.173.74.2:2010/play/a09f/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738038/TNT_NOVELAS_wclze1.jpg" group-title="3 - CABLE", TNT NOVELAS
 http://186.33.25.234:8125/play/a01l/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738059/TNT_SERIES_csuwd3.png" group-title="3 - CABLE", TNT SERIES
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738059/TNT_SERIES_csuwd3.png" group-title="3 - CABLE", TNT SERIES
 http://45.173.74.2:2010/play/a08n/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738147/TEEN_NICK_vp4wvb.png" group-title="3 - CABLE", TEEN NICK
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738147/TEEN_NICK_vp4wvb.png" group-title="3 - CABLE", TEEN NICK
 http://45.173.74.2:2010/play/a08m/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738184/TELEMUNDO_vklpkq.png" group-title="3 - CABLE", TELEMUNDO
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738184/TELEMUNDO_vklpkq.png" group-title="3 - CABLE", TELEMUNDO
 http://45.173.74.2:2010/play/a09l/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738248/TOONCAST_nh6exh.png" group-title="3 - CABLE", TOONCAST
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738248/TOONCAST_nh6exh.png" group-title="3 - CABLE", TOONCAST
 http://45.173.74.2:2010/play/a05b/index.m3u8
 
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736333/AMERICA_TV_pxudud.png" group-title="OTROS", AMERICA TV
 http://181.224.200.5:2277/play/a0dc/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736247/ATV_cqldxr.jpg" group-title="OTROS", ATV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736247/ATV_cqldxr.jpg" group-title="OTROS", ATV
 http://45.173.74.2:2010/play/a071/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736286/ATV_etarsc.jpg" group-title="OTROS", ATV+
 http://38.252.215.33:8000/play/a08n/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736385/BETHEL_TV_agfvag.jpg" group-title="OTROS", BETHEL TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736385/BETHEL_TV_agfvag.jpg" group-title="OTROS", BETHEL TV
 http://45.173.74.2:2010/play/a09s/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736540/DAYSTAR_iekphh.jpg" group-title="OTROS", DAYSTAR
 http://38.199.4.105:9999/play/a0wb/index.m3u8
@@ -251,7 +251,7 @@ http://38.199.4.105:9999/play/a0wb/index.m3u8
 http://38.199.4.105:9999/play/a0xw/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737057/DISTRITO_COMEDIA_lqt3l2.png" group-title="OTROS", DISTRITO COMEDIA
 http://38.199.4.105:9999/play/a0ws/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737099/EWTN_xvz4pn.png" group-title="OTROS", EWTN
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737099/EWTN_xvz4pn.png" group-title="OTROS", EWTN
 http://45.173.74.2:2010/play/a07q/index.m3u8
 
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737136/EL_GOURMET_pxwxad.png" group-title="OTROS", EL GOURMET
@@ -260,21 +260,21 @@ http://186.33.25.234:8125/play/a03b/index.m3u8
 http://201.190.41.246:8822/play/a02l/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737173/EUROPA_EUROPA_hypeac.jpg" group-title="OTROS", EUROPA EUROPA
 http://181.209.96.155:10000/play/a15x/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737195/Exitosa_TV_u5htto.png" group-title="OTROS", EXITOSA TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737195/Exitosa_TV_u5htto.png" group-title="OTROS", EXITOSA TV
 http://45.173.74.2:2010/play/a076/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737335/FRANCE_24_qiiv0r.png" group-title="OTROS", FRANCE 24
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737335/FRANCE_24_qiiv0r.png" group-title="OTROS", FRANCE 24
 http://45.173.74.2:2010/play/a097/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737411/HTV_fejdfp.jpg" group-title="OTROS", HTV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737411/HTV_fejdfp.jpg" group-title="OTROS", HTV
 http://45.173.74.2:2010/play/a07s/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737517/KANAL_D_DRAMA_gaa3cq.jpg" group-title="OTROS", KANAL D DRAMA
 http://181.65.207.51:8000/play/a047
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737557/LIGA_1_MAX_psp4cv.png" group-title="OTROS", LIGA 1 MAX
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737557/LIGA_1_MAX_psp4cv.png" group-title="OTROS", LIGA 1 MAX
 http://45.173.74.2:2010/play/a08q/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737585/LAS_ESTRELLAS_ed2nuu.png" group-title="OTROS", CANAL LAS ESTRELLAS
 http://201.190.41.246:8822/play/a021/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737624/LATINA_ctnzz3.png" group-title="OTROS", LATINA
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737624/LATINA_ctnzz3.png" group-title="OTROS", LATINA
 http://45.173.74.2:2010/play/a06y/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737661/LIFETIME_aoohll.png" group-title="OTROS", LIFETIME
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737661/LIFETIME_aoohll.png" group-title="OTROS", LIFETIME
 http://45.173.74.2:2010/play/a0a8/index.m3u8
 
 
@@ -282,26 +282,26 @@ http://45.173.74.2:2010/play/a0a8/index.m3u8
 http://38.44.109.41:8003/play/a01n/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737893/NUESTRA_TELE_uwf8ob.jpg" group-title="OTROS", NUESTRA TELE
 http://38.199.4.105:9999/play/a0wa/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737914/PANAMERICANA_wwqych.png" group-title="OTROS", PANAMERICANA
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737914/PANAMERICANA_wwqych.png" group-title="OTROS", PANAMERICANA
 http://45.173.74.2:2010/play/a070/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737933/PASIONES_cuvi0o.jpg" group-title="OTROS", PASIONES
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737933/PASIONES_cuvi0o.jpg" group-title="OTROS", PASIONES
 http://45.173.74.2:2010/play/a052/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737956/RAI_ITALIA_qrvu4d.png" group-title="OTROS", RAI ITALIA
 http://181.13.252.102:8000/play/a02p/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737980/RPP_nby3rx.png" group-title="OTROS", RPP
 http://181.224.200.5:2277/play/a04b/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738017/TC_TELEVISION_qnqbkt.png" group-title="OTROS", TC TELEVISION
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738017/TC_TELEVISION_qnqbkt.png" group-title="OTROS", TC TELEVISION
 http://45.173.74.2:2010/play/a09y/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738099/TV_ARAGUA_la71ij.png" group-title="OTROS", TV ARAGUA
 http://38.210.3.64:8090/play/a0lu/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738122/TVPERU_suyimb.png" group-title="OTROS", TVPERU
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738122/TVPERU_suyimb.png" group-title="OTROS", TVPERU
 http://45.173.74.2:2010/play/a074/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738214/TELEVICENTRO_s5gryo.png" group-title="OTROS", TELEVICENTRO
 http://38.199.4.105:9999/play/a0ye/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738225/TLNOVELAS_f3w42o.jpg" group-title="OTROS", TLNOVELAS
 http://181.224.200.5:2277/play/a0d0/index.m3u8
 
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", USA
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", USA
 http://45.173.74.2:2010/play/a053/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", VENE VISION
 http://38.183.213.254:8000/play/a00h/index.m3u8
@@ -407,11 +407,11 @@ https://v2.tustreaming.cl/tevex/index.m3u8
 https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CHILE CHANNEL
 https://v2.tustreaming.cl/chilechannel/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CAMPO ABIERTO TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CAMPO ABIERTO TV
 https://v2.tustreaming.cl:443/catvlive/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TURNO EN VIVO
 https://redirector.dps.live/hls/turno/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", C Y G TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", C Y G TV
 https://tv.arkeo.cl:19360/8158/8158.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", DODO TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
@@ -458,9 +458,9 @@ https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
 
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", TV ELQUI
 https://panel.tvstream.cl:1936/campu/campu/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", VTV QUILLOTA
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", VTV QUILLOTA
 https://unlimited1-cl-isp.dps.live/vtvquillota/vtvquillota.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", VTV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", VTV
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", MARGA MARGA TV
 https://v1.tustreaming.cl/margamargatv/index.m3u8
@@ -490,7 +490,7 @@ https://mc.servidor.stream:19360/8248/8248.m3u8
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TENDENCIAS PRIME
 https://v4.tustreaming.cl/tendenciastv/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", VISION PLUS TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", VISION PLUS TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", AUTONOMA TV
 https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8
@@ -506,15 +506,15 @@ https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SEXTAVISION
 https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SANTA CRUZ
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", SANTA CRUZ
 https://origin-us.streaminghd.cl/santacruz/santacruz/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RTV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", RTV
 https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", EN LINEA MAULE
 https://v1.tustreaming.cl/enlineamauletv/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", VLTV
 https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", EL CENTRO TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", EL CENTRO TV
 https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TV 5 LINARES
 https://v1.tustreaming.cl/tv5linares/index.m3u8
@@ -542,7 +542,7 @@ https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u
 https://v2.tustreaming.cl/clicktv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RED VISION TELEVISION
 https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CONCEPCION TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CONCEPCION TV
 https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS",  CANAL 9 BIO BIO TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
@@ -555,7 +555,7 @@ https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
 
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Pucon TV | CL
 https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Temuco TV | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Temuco TV | CL
 https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Canal Latino 54 | CL
 https://videostream.chileservidores.com:8081/latina/index.m3u8
@@ -592,9 +592,9 @@ https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Canal Chilote | CL
 https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Chiloe Red 25 | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Chiloe Red 25 | CL
 https://v2.tustreaming.cl/chiloered/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Alerce TV | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Alerce TV | CL
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Santa Maria TV | CL
 https://unlimited2-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8
@@ -625,7 +625,7 @@ https://video3.servidordevideo.net:3585/live/upbsfzhdlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Emocion TV | CL
 https://v1.tustreaming.cl/emociontv/index.m3u8
 
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Tributo Valentina | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Tributo Valentina | CL
 https://vdochile.com:3795/hybrid/play.m3u8
 
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Sabor TV | CL
