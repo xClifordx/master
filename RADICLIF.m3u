@@ -83,7 +83,7 @@ https://tv.telselec.cl:3780/live/jesuslive.m3u8
 https://streaming.viphosting.cl/8034/stream
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735604/TELEZETA_TROPICAL_bjsdsx.png" group-title="RADIOS/MUSICA", TELEZETA TROPICAL
 https://stream.telezeta.cl/live/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735622/EPA_TV_fnkbvn.jpg" group-title="RADIOS/MUSICA", EPA! TV
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735622/EPA_TV_fnkbvn.jpg" group-title="RADIOS/MUSICA", EPA! TV
 https://v4.tustreaming.cl/edusauriotv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735639/RADIO_LABRAR_TV_uiqjqz.png" group-title="RADIOS/MUSICA", RADIO LABRAR TV
 https://live20.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
@@ -222,7 +222,7 @@ https://streaming.chiloestreaming.com:10997/;
 https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Preludio TV | CL
 https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Revolviendola Radio | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Revolviendola Radio | CL
 https://giatv.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Mi Radio TV | CL
 https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8
@@ -264,7 +264,7 @@ https://paneltv.stream:19360/estacion/estacion.m3u8
 https://vdochile.com:3182/hybrid/play.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Red Fueguina Radio | CL
 https://live.tvcontrolcp.com:1936/8098/8098/chunklist_w1439138329.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Ritmo TV | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Ritmo TV | CL
 https://tv.arkeo.cl:1936/ritmofm/ritmofm/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", IPNA Medio | CL
 https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8
@@ -272,7 +272,7 @@ https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Sembrador | CL
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", El Conquistador Santiago | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Conquistador Santiago | CL
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Conquistador Concepcion | CL
 https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
