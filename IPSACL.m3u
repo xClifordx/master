@@ -24,7 +24,7 @@ http://38.7.195.43:8000/play/a004/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720572/CHV_Noticias_z4mnvf.jpg" group-title="1 - TELEVISION CHILENA", CHV Noticias
 http://38.199.4.105:9999/play/a0qy/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720586/CHV_gkl7dp.png" group-title="1 - TELEVISION CHILENA", CHV
-http://138.36.253.106:8066/play/a009/index.m3u8
+https://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720646/Canal_13_udlt2m.png" group-title="1 - TELEVISION CHILENA", Canal 13
 https://m3u.cl/channel/c13.php
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720676/13_GO_fie40s.png" group-title="1 - TELEVISION CHILENA", 13 GO
