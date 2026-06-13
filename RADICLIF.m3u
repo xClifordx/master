@@ -146,7 +146,7 @@ https://radio.tvstream.cl/8044/stream
 https://v2.tustreaming.cl:/radioamericatv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Teleangol Radio | CL
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CRadio.cl | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CRadio.cl | CL
 https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", RADIO LOS MUERMOS | CL
 https://streams.kanade.cl/canaltvm/tracks-v1a1/mono.ts.m3u8
@@ -202,7 +202,7 @@ https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
 https://v2.tustreaming.cl/rln/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Zona 90.3 | CL
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Ciudadano Radio | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Ciudadano Radio | CL
 https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Hoy | CL
 https://oracle.streaminghd.cl/radiohoy/smil:transcoder.smil/playlist.m3u8
@@ -212,7 +212,7 @@ https://audio2.tustreaming.cl/7555/stream?t=1779715019687
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Panoramica | CL
 https://v2.tustreaming.cl:/alingeproducciones/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Ńuble | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio Ńuble | CL
 https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Fantasia TV | CL
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
@@ -264,7 +264,7 @@ https://paneltv.stream:19360/estacion/estacion.m3u8
 https://vdochile.com:3182/hybrid/play.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Red Fueguina Radio | CL
 https://live.tvcontrolcp.com:1936/8098/8098/chunklist_w1439138329.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Ritmo TV | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Ritmo TV | CL
 https://tv.arkeo.cl:1936/ritmofm/ritmofm/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", IPNA Medio | CL
 https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8
@@ -272,7 +272,7 @@ https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Sembrador | CL
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Conquistador Santiago | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", El Conquistador Santiago | CL
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Conquistador Concepcion | CL
 https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
