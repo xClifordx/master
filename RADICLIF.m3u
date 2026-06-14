@@ -7,13 +7,13 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734698/Radio_Agricultura_2_kzkp0e.jpg" group-title="RADIOS/MUSICA", RADIO AGRICULTURA 2
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734735/Radio_Duna_jf6cec.png" group-title="RADIOS/MUSICA", RADIO DUNA
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734735/Radio_Duna_jf6cec.png" group-title="RADIOS/MUSICA", RADIO DUNA
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734748/Pudahuel_FM_txpori.png" group-title="RADIOS/MUSICA", RADIO PUDAHUEL FM
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734782/Cooperativa_gakb2u.png" group-title="RADIOS/MUSICA", RADIO COOPERATIVA
 https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734832/ADN_dmpvks.png" group-title="RADIOS/MUSICA", ADN RADIO
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734832/ADN_dmpvks.png" group-title="RADIOS/MUSICA", ADN RADIO
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734860/WILLAX_x99z8m.png" group-title="RADIOS/MUSICA", WILLAX
 https://live2.eu-north-1b.cf.dmcdn.net/sec2(BpPu5bOLzAG1Mb2aTwtLlfmA3LUjV_kJhyNJg0fwdOvym8yM2TPlfwNRspGYQQPsTBznMBaZAG4WEiG0d2XPrrfM1bvXUQ6PBnzSDxSg5IxEIxWeAkKwv-6xH-T3vhiA)/cloud/3/xa63dow/s/live-480.m3u8
@@ -49,7 +49,7 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735209/MUNDO_DE_LA_MUSICA_TV_gbz2re.png" group-title="RADIOS/MUSICA", MUNDO DE LA MUSICA TV
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735240/SUYAI_RADIO_nv8tvx.jpg" group-title="RADIOS/MUSICA", SUYAI RADIO
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735240/SUYAI_RADIO_nv8tvx.jpg" group-title="RADIOS/MUSICA", SUYAI RADIO
 https://stream-286.zeno.fm/pbf4jhfesyvuv
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735257/LILA_TV_PENCAHUE_d4ygbs.png" group-title="RADIOS/MUSICA", LILA TV PENCAHUE
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
@@ -125,16 +125,16 @@ https://play.streamafrica.net/japancitypop
 https://cast.kodamastation.com/radio/8000/radio.mp3
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934210/Radio_Go_latino_yepwmb.jpg" group-title="RADIOS/MUSICA", RADIO GO LATINO
 https://antonyokumura.radioca.st/stream
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934213/Radio_Jkanime_avfpbh.jpg" group-title="RADIOS/MUSICA", JKANIME
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934213/Radio_Jkanime_avfpbh.jpg" group-title="RADIOS/MUSICA", JKANIME
 https://stream.zeno.fm/4n10t55g4uhvv
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934216/Radio_Portal_Animediv_vzhw5d.jpg" group-title="RADIOS/MUSICA", RADIO ANIMEDIV
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934216/Radio_Portal_Animediv_vzhw5d.jpg" group-title="RADIOS/MUSICA", RADIO ANIMEDIV
 https://stream.zeno.fm/gzbardet05wtv
 
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RADIO CALDERA VISION
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", WEED RADIO
 https://sonic.mallocohosting.cl/8030/stream
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CLICKRADIO.CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CLICKRADIO.CL
 https://live20.bozztv.com/akamaissh101/ssh101/clickradiolive/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RADIO LADO OSCURO TV
 https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
@@ -212,7 +212,7 @@ https://audio2.tustreaming.cl/7555/stream?t=1779715019687
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Panoramica | CL
 https://v2.tustreaming.cl:/alingeproducciones/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio Ńuble | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Ńuble | CL
 https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Fantasia TV | CL
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
