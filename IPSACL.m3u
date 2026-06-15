@@ -14,7 +14,7 @@ https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720500/MEGA_hrzxo7.png" group-title="1 - TELEVISION CHILENA", MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720506/MEGA_2_hg3alr.png" group-title="1 - TELEVISION CHILENA", MEGA 2
-http://38.7.195.43:8000/play/a003/index.m3u8
+http://38.7.197.119:4000/play/a017/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720526/MEGA_NOTICIAS_qbvh8b.png" group-title="1 - TELEVISION CHILENA", MEGA NOTICIAS
 http://38.7.195.43:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720540/MEGA_TIEMPO_ohyxrl.png" group-title="1 - TELEVISION CHILENA", MEGA TIEMPO
@@ -66,6 +66,8 @@ https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721457/UFC_adxnqc.png" group-title="2 - DEPORTES", UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781493119/UFCFreedom250_md6lxr.jpg" group-title="2 - DEPORTES", UFC FREEDOM 250
+https://customer-5z8x8bk4gdcyiq1x.cloudflarestream.com/36dc72939c227e052949f33818f8a9a2/manifest/video.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721460/ESPN_Premium_znu0hq.jpg" group-title="2 - DEPORTES",ESPN Premium
 http://170.247.204.9:8000/play/a04s/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721472/ESPN_ikmokd.png" group-title="2 - DEPORTES",ESPN
@@ -96,6 +98,13 @@ http://45.167.1.136:8000/play/a00d
 http://45.167.1.136:8000/play/a00e
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781477313/DSPORTS_jjmyu5.jpg" group-title="2 - DEPORTES", DSPORTS
 https://streamvidex.qzz.io/latamplay/dsportsplus/index.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781493119/DSports_Plus_oafvxt.png" group-title="2 - DEPORTES", DSPORTS PLUS
+https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781493119/DSports_2_reqfkt.png" group-title="2 - DEPORTES", DSPORTS 2
+https://streamvidex.qzz.io/videx/dsports2/index.m3u8
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781493119/TyC_Sports_ck6zsc.png" group-title="2 - DEPORTES", TYC SPORTS
+https://streamvidex.qzz.io/videx/tyc/index.m3u8
+
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781486390/VIX_wmdl4p.png" group-title="2 - DEPORTES", VIX
 https://streamvidex.qzz.io/videx/vix2/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781486608/SPORT_TV_rbe0xi.jpg" group-title="2 - DEPORTES", SPORT TV
