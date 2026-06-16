@@ -29,7 +29,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779734995/RECUERDOS_RETRO_RADIO_TV_vn5hcv.png" group-title="RADIOS/MUSICA", RECUERDOS RETRO RADIO TV
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735016/RADIO_FIN_DEL_MUNDO_TV_oxbcc7.jpg" group-title="RADIOS/MUSICA", RADIO FIN DEL MUNDO TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735016/RADIO_FIN_DEL_MUNDO_TV_oxbcc7.jpg" group-title="RADIOS/MUSICA", RADIO FIN DEL MUNDO TV
 https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735035/RADIO_PUANGUE_CURACAVI_v5h31l.png" group-title="RADIOS/MUSICA", RADIO PUANGUE CURACAVI
 https://tv.arkeo.cl:1936/puanguetv/puanguetv/playlist.m3u8
@@ -125,9 +125,9 @@ https://play.streamafrica.net/japancitypop
 https://cast.kodamastation.com/radio/8000/radio.mp3
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934210/Radio_Go_latino_yepwmb.jpg" group-title="RADIOS/MUSICA", RADIO GO LATINO
 https://antonyokumura.radioca.st/stream
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934213/Radio_Jkanime_avfpbh.jpg" group-title="RADIOS/MUSICA", JKANIME
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934213/Radio_Jkanime_avfpbh.jpg" group-title="RADIOS/MUSICA", JKANIME
 https://stream.zeno.fm/4n10t55g4uhvv
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934216/Radio_Portal_Animediv_vzhw5d.jpg" group-title="RADIOS/MUSICA", RADIO ANIMEDIV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934216/Radio_Portal_Animediv_vzhw5d.jpg" group-title="RADIOS/MUSICA", RADIO ANIMEDIV
 https://stream.zeno.fm/gzbardet05wtv
 
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RADIO CALDERA VISION
@@ -160,7 +160,7 @@ https://vmix.dyndns.biz/Edelweiss/index.m3u8
 https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Bienvenida FM | CL
 https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio UC | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio UC | CL
 https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Santa Cruz FM | CL
 https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8
@@ -272,7 +272,7 @@ https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Sembrador | CL
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", El Conquistador Santiago | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Conquistador Santiago | CL
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", El Conquistador Concepcion | CL
 https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8
