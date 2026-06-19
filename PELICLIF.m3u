@@ -310,7 +310,7 @@ https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn
 https://od.lk/s/OTZfNzc3MTU1MDlf/Tetris%20%282023%29%20Online.mp4
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Mientras%20Haya%20Esperanza%20(2023).jpg" tvg-desc="" group-title="MOVIES",Mientras Haya Esperanza (2023)
 https://od.lk/s/OTZfNzc3MjU5Nzhf/On%20a%20Wing%20and%20a%20Prayer%20%282023%29%20Online.mp4
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Gran%20Turismo%20(2023).jpg" tvg-desc="" group-title="MOVIES", Gran Turismo (2023)
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Gran%20Turismo%20(2023).jpg" tvg-desc="" group-title="MOVIES", Gran Turismo (2023)
 https://archive.org/download/full-vhs-the-lord-of-the-rings-1978-thorn-emi-video-1981-vhs/FULL%20VHS%20The%20Lord%20of%20the%20Rings%20%281978%29%20%5BThorn%20EMI%20Video%5D%20%281981%20VHS%29.mp4
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/La%20vida%20de%20Pi%20(2013).jpg" tvg-desc="" group-title="MOVIES",La vida de Pi (2013)
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelisarregladas%2Fparte2%2FVer%20pel%C3%ADcula%20La%20vida%20de%20Pi%20online%20gratis%20en%20HD%20%E2%80%A2%20Gnula.mp4
@@ -372,9 +372,9 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 http://archive.org/download/pelicula-seis-balas-en-latino-completa-240-p-1/PELICULA%20SEIS%20BALAS%20EN%20LATINO%20COMPLETA%28240P%29_1.ia.mp4
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Duro%20de%20cuidar%202%20(2021).jpg" tvg-tags="accion,comedia,crimen" tvg-desc="" group-title="MOVIES",Duro de cuidar 2 (2021)
 http://archive.org/download/duro-de-cuidar-2./CUIDAR.2..mp4
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Harry%20El%20Ejecutor%20(1976).jpg" tvg-tags="accion,crimen,thriller,clasico" tvg-desc="" group-title="MOVIES",Harry El Ejecutor (1976)
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Harry%20El%20Ejecutor%20(1976).jpg" tvg-tags="accion,crimen,thriller,clasico" tvg-desc="" group-title="MOVIES",Harry El Ejecutor (1976)
 http://archive.org/download/harry-el-ejecutor-1976/Harry%20El%20Ejecutor%20%281976%29.mp4
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Johnny%20English%20De%20nuevo%20en%20acci%C3%B3n%20(2018).jpg" tvg-tags="comedia,accion,espionaje" tvg-desc="" group-title="MOVIES",Johnny English: De nuevo en acción (2018)
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/Johnny%20English%20De%20nuevo%20en%20acci%C3%B3n%20(2018).jpg" tvg-tags="comedia,accion,espionaje" tvg-desc="" group-title="MOVIES",Johnny English: De nuevo en acción (2018)
 http://archive.org/download/0231564654SRREGIO/0231564654SRREGIO.mkv
 #EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/La%20Octava%20Noche%20(2021).jpg" tvg-tags="terror,thriller,misterio,asiatico" tvg-desc="" group-title="MOVIES",La Octava Noche (2021)
 http://archive.org/download/la-octava-noche/La%20octava%20noche.mp4
@@ -676,5 +676,5 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 
 
 
-#EXTINF:0 tvg-status="online" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/The%20Lord%20of%20the%20Rings%20(1978).jpg" tvg-tags="animacion,fantasia,aventura,clasico" group-title="VHS", The Lord of the Rings (1978) (Ingles)
+#EXTINF:0 tvg-status="offline" tvg-logo="https://raw.githubusercontent.com/xClifordx/images-peli/refs/heads/main/The%20Lord%20of%20the%20Rings%20(1978).jpg" tvg-tags="animacion,fantasia,aventura,clasico" group-title="VHS", The Lord of the Rings (1978) (Ingles)
 https://archive.org/download/full-vhs-the-lord-of-the-rings-1978-thorn-emi-video-1981-vhs/FULL%20VHS%20The%20Lord%20of%20the%20Rings%20%281978%29%20%5BThorn%20EMI%20Video%5D%20%281981%20VHS%29.mp4
