@@ -114,7 +114,7 @@ http://45.173.74.2:2010/play/a06u/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738088/TOP_LATINO_gejkvc.png" group-title="RADIOS/MUSICA", TOP LATINO
 http://38.210.3.64:8090/play/a0lm/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738277/HIEL_MUSIC_qdpxmd.jpg" group-title="RADIOS/MUSICA", HIEL MUSIC
-https://live.obslivestream.com/hielmusic/index.m3u8
+https://live.obslivestream.com/hielmusic/embed.html
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934205/PRIDETV_ggrym0.png" group-title="RADIOS/MUSICA", PRIDETV LATAM
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1780934202/PORTAL_FOXMIX_kdglue.jpg" group-title="RADIOS/MUSICA", PORTAL FOXMIX
