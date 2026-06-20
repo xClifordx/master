@@ -35,7 +35,7 @@ https://live20.bozztv.com/akamaissh101/ssh101/rfdmtv/playlist.m3u8
 https://tv.arkeo.cl:1936/puanguetv/puanguetv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735059/ENERGEEK_RADIO_pu1xp5.png" group-title="RADIOS/MUSICA", ENERGEEK RADIO
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735077/RUIDOS_TV_fdjltw.jpg" group-title="RADIOS/MUSICA", RUIDOS TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735077/RUIDOS_TV_fdjltw.jpg" group-title="RADIOS/MUSICA", RUIDOS TV
 https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735106/RUIDOS_FM_ww7bwc.png" group-title="RADIOS/MUSICA", RUIDOS FM
 https://tv1.ruidosfm.cl/ruidosfm/stream.m3u8
@@ -49,7 +49,7 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735209/MUNDO_DE_LA_MUSICA_TV_gbz2re.png" group-title="RADIOS/MUSICA", MUNDO DE LA MUSICA TV
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735240/SUYAI_RADIO_nv8tvx.jpg" group-title="RADIOS/MUSICA", SUYAI RADIO
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735240/SUYAI_RADIO_nv8tvx.jpg" group-title="RADIOS/MUSICA", SUYAI RADIO
 https://stream-286.zeno.fm/pbf4jhfesyvuv
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735257/LILA_TV_PENCAHUE_d4ygbs.png" group-title="RADIOS/MUSICA", LILA TV PENCAHUE
 https://tv.arkeo.cl:1936/radiolila/radiolila/playlist.m3u8
@@ -77,7 +77,7 @@ https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8
 https://unlimited1-cl-isp.dps.live/interactivatv/interactivatv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735533/INTERACTIVA_FM_ujprr8.jpg" group-title="RADIOS/MUSICA", INTERACTIVA FM
 https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735548/RADIO_ZONA_gfakqv.jpg" group-title="RADIOS/MUSICA", RADIO ZONA
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735548/RADIO_ZONA_gfakqv.jpg" group-title="RADIOS/MUSICA", RADIO ZONA
 https://tv.telselec.cl:3780/live/jesuslive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735583/TROPICAL_RANCHERO_ojiki6.png" group-title="RADIOS/MUSICA", TROPIKAL RANCHERO
 https://streaming.viphosting.cl/8034/stream
@@ -85,7 +85,7 @@ https://streaming.viphosting.cl/8034/stream
 https://stream.telezeta.cl/live/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735622/EPA_TV_fnkbvn.jpg" group-title="RADIOS/MUSICA", EPA! TV
 https://v4.tustreaming.cl/edusauriotv/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735639/RADIO_LABRAR_TV_uiqjqz.png" group-title="RADIOS/MUSICA", RADIO LABRAR TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735639/RADIO_LABRAR_TV_uiqjqz.png" group-title="RADIOS/MUSICA", RADIO LABRAR TV
 https://live20.bozztv.com/giatv/giatv-radiolabrartv/radiolabrartv/chunks.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779735658/MUSIC_PUQ_vun4h6.jpg" group-title="RADIOS/MUSICA", MUSIC PUQ
 https://vdochile.com:3131/live/redupxprlive.m3u8
@@ -134,7 +134,7 @@ https://stream.zeno.fm/gzbardet05wtv
 https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", WEED RADIO
 https://sonic.mallocohosting.cl/8030/stream
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CLICKRADIO.CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CLICKRADIO.CL
 https://live20.bozztv.com/akamaissh101/ssh101/clickradiolive/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RADIO LADO OSCURO TV
 https://stmv7.voxtvhd.com.br/catto5860/catto5860/playlist.m3u8
@@ -162,7 +162,7 @@ https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8
 https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio UC | CL
 https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Santa Cruz FM | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Santa Cruz FM | CL
 https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Estacion Arica | CL
 https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
@@ -188,7 +188,7 @@ https://videostream.chileservidores.com:8081/universal/index.m3u8
 https://live20.bozztv.com/giatv/giatv-riquelme1350am/riquelme1350am/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Riquelme 1350AM | CL
 https://cp.streamchileno.cl/hls/radio_riquelme_1350_am/aac_hi.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio Frecuencia Uno | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Frecuencia Uno | CL
 https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Rancagua | CL
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
@@ -196,7 +196,7 @@ https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 https://ibanez.servercl.com/hls/live.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Polar | CL
 https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e_output_0.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Navarino | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio Navarino | CL
 https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Las Nieves | CL
 https://v2.tustreaming.cl/rln/index.m3u8
@@ -212,7 +212,7 @@ https://audio2.tustreaming.cl/7555/stream?t=1779715019687
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Panoramica | CL
 https://v2.tustreaming.cl:/alingeproducciones/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Ńuble | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio Ńuble | CL
 https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Fantasia TV | CL
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
@@ -230,7 +230,7 @@ https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Interradio TV | CL
 https://tv.arkeo.cl:1936/8002/8002/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", ChocolateFM | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", ChocolateFM | CL
 https://5eaccbab48461.streamlock.net:1936/8180/8180/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio La Seńal | CL
 https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
@@ -266,7 +266,7 @@ https://vdochile.com:3182/hybrid/play.m3u8
 https://live.tvcontrolcp.com:1936/8098/8098/chunklist_w1439138329.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Ritmo TV | CL
 https://tv.arkeo.cl:1936/ritmofm/ritmofm/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", IPNA Medio | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", IPNA Medio | CL
 https://paneltv.stream:19360/ipnamedios/ipnamedios.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", La Nuestra | CL
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
