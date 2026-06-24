@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720398/LA_RED_w0htil.jpg" group-title="1 - TELEVISION CHILENA", LA RED
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720398/LA_RED_w0htil.jpg" group-title="1 - TELEVISION CHILENA", LA RED
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720415/TV_josmpx.jpg" group-title="1 - TELEVISION CHILENA", TV+
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
@@ -21,7 +21,7 @@ http://38.7.195.44:8000/play/a0ee
 http://38.7.195.43:8000/play/a00i/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720554/MEGA_FICCION_qtp0jm.png" group-title="1 - TELEVISION CHILENA", MEGA FICCION
 http://38.7.195.44:8000/play/a0ed
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720572/CHV_Noticias_z4mnvf.jpg" group-title="1 - TELEVISION CHILENA", CHV Noticias
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720572/CHV_Noticias_z4mnvf.jpg" group-title="1 - TELEVISION CHILENA", CHV Noticias
 http://38.199.4.105:9999/play/a0qy/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779720586/CHV_gkl7dp.png" group-title="1 - TELEVISION CHILENA", CHV
 https://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
@@ -66,7 +66,7 @@ https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721457/UFC_adxnqc.png" group-title="2 - DEPORTES", UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781493119/UFCFreedom250_md6lxr.jpg" group-title="2 - DEPORTES", UFC FREEDOM 250
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781493119/UFCFreedom250_md6lxr.jpg" group-title="2 - DEPORTES", UFC FREEDOM 250
 https://customer-5z8x8bk4gdcyiq1x.cloudflarestream.com/36dc72939c227e052949f33818f8a9a2/manifest/video.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721460/ESPN_Premium_znu0hq.jpg" group-title="2 - DEPORTES",ESPN Premium
 http://170.247.204.9:8000/play/a04s/index.m3u8
@@ -249,7 +249,7 @@ http://190.93.229.30:8000/play/a0ao/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779738248/TOONCAST_nh6exh.png" group-title="3 - CABLE", TOONCAST
 http://190.93.229.30:8000/play/a0ap/index.m3u8
 
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736333/AMERICA_TV_pxudud.png" group-title="OTROS", AMERICA TV
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736333/AMERICA_TV_pxudud.png" group-title="OTROS", AMERICA TV
 http://181.224.200.5:2277/play/a0dc/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779736247/ATV_cqldxr.jpg" group-title="OTROS", ATV
 http://190.93.229.30:8000/play/a09m/index.m3u8
@@ -274,7 +274,7 @@ http://201.190.41.246:8822/play/a02l/index.m3u8
 http://38.199.4.105:9999/play/a0wo/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737195/Exitosa_TV_u5htto.png" group-title="OTROS", EXITOSA TV
 http://190.93.229.30:8000/play/a0im/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737335/FRANCE_24_qiiv0r.png" group-title="OTROS", FRANCE 24
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737335/FRANCE_24_qiiv0r.png" group-title="OTROS", FRANCE 24
 http://45.239.31.254:8000/play/a028/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737411/HTV_fejdfp.jpg" group-title="OTROS", HTV
 http://38.7.197.119:4000/play/a002/index.m3u8
@@ -321,9 +321,9 @@ http://199.188.103.176:8000/play/a05r/index.m3u8
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", ENERGEEK RETRO
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", PARENTESIS TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", PARENTESIS TV
 https://freya.mivideo.pro/parentesistv/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", CENTRAL TV
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CENTRAL TV
 https://freya.mivideo.pro/centraltv/video.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", SUYAI TV
 http://38.224.175.2:8000/play/a05s/index.m3u8
@@ -459,7 +459,7 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", MARAY TV
 https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8
 
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", LA POPULAR TV
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", LA POPULAR TV
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", THEMATV
 https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8
@@ -508,7 +508,7 @@ https://bst.buin.cl/0.m3u8
 https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", PROVIDENCIA TELEVISION
 https://v2.tustreaming.cl/providenciatv/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TELECANAL SANTA CRUZ
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", TELECANAL SANTA CRUZ
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", TVO SAN VICENTE
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8
@@ -548,7 +548,7 @@ https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CLICKTV
 https://v2.tustreaming.cl/clicktv/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", RED VISION TELEVISION
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", RED VISION TELEVISION
 https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", CONCEPCION TV
 https://stream.blserver.cl/hls/ctv/index.m3u8
@@ -600,7 +600,7 @@ https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 https://5ff3d9babae13.streamlock.net:443/aufymdjpjf/aufymdjpjf/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Canal Chilote | CL
 https://videostream.chileservidores.com:8081/chiloe2/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Chiloe Red 25 | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Chiloe Red 25 | CL
 https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Alerce TV | CL
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
@@ -633,7 +633,7 @@ https://video3.servidordevideo.net:3585/live/upbsfzhdlive.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Emocion TV | CL
 https://v1.tustreaming.cl/emociontv/index.m3u8
 
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Tributo Valentina | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Tributo Valentina | CL
 https://vdochile.com:3795/hybrid/play.m3u8
 
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Sabor TV | CL
@@ -649,7 +649,7 @@ https://v4.tustreaming.cl/restaurandovida/index.m3u8
 
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", NCTV | CL
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Gracia TV | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Gracia TV | CL
 https://v4.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Canal ISB | CL
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8
@@ -664,5 +664,5 @@ https://multimedia.fortalezatv.cl/video/video.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", ADA TV | CL
 https://v4.tustreaming.cl/adatvchile/index.m3u8
 
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", NG Channel | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", NG Channel | CL
 https://vdochile.com:3222/live/ngchalive.m3u8
