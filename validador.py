@@ -1,14 +1,29 @@
 import requests
 import re
 import os
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 ARCHIVOS_M3U = ['PELICLIF.m3u', 'CLIFISERI.m3u', 'IPSACL.m3u', 'RADICLIF.m3u'] 
 
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+    "Accept": "*/*",
+    "Connection": "keep-alive"
+}
+
 def check_url(url):
     try:
-        response = requests.get(url, stream=True, timeout=5)
+        response = requests.get(
+            url, 
+            stream=True, 
+            timeout=(3.05, 10), 
+            headers=HEADERS, 
+            verify=False
+        )
         response.close()
-        return response.status_code == 200
+        return response.status_code >= 200 and response.status_code < 400
     except:
         return False
 
