@@ -105,7 +105,7 @@ https://audio3.tustreaming.cl/7330/stream
 http://45.173.74.2:2010/play/a07b/index.m3u8
 #EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737666/MI_MUSICA_HITS_tacl5u.png" group-title="RADIOS/MUSICA", MI MUSICA HITS
 http://190.14.249.223:17032/play/a05c/index.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737697/MI_MUSICA_PERU_ui2dsr.png" group-title="RADIOS/MUSICA", MI MUSICA PERU
+#EXTINF:0 tvg-status="offline" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737697/MI_MUSICA_PERU_ui2dsr.png" group-title="RADIOS/MUSICA", MI MUSICA PERU
 http://38.210.3.64:8090/play/a0gg/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779737733/MUNDO_DE_LA_MUSICA_lihnnf.jpg" group-title="RADIOS/MUSICA", MUNDO DE LA MUSICA
 http://38.210.3.64:8090/play/a0lt/index.m3u8
@@ -160,7 +160,7 @@ https://vmix.dyndns.biz/Edelweiss/index.m3u8
 https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Bienvenida FM | CL
 https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8
-#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio UC | CL
+#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Radio UC | CL
 https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Santa Cruz FM | CL
 https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8
@@ -202,7 +202,7 @@ https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
 https://v2.tustreaming.cl/rln/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Zona 90.3 | CL
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
-#EXTINF:0 tvg-status="offline" tvg-logo="" group-title="OTROS", Ciudadano Radio | CL
+#EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Ciudadano Radio | CL
 https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="" group-title="OTROS", Radio Hoy | CL
 https://oracle.streaminghd.cl/radiohoy/smil:transcoder.smil/playlist.m3u8
