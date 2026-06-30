@@ -62,6 +62,9 @@ https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721416/TV_USACH_lhc86c.png" group-title="1 - TELEVISION CHILENA", TV USACH
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
 
+
+#EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1782795722/NBA_CHANNEL_ns2w0h.png" group-title="2 - DEPORTES", NBA CHANNEL
+http://103.148.44.38:8000/play/a03m/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721432/Valparaiso_Sporting_v6rtst.png" group-title="2 - DEPORTES", VALPARAISO SPORTING
 https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721457/UFC_adxnqc.png" group-title="2 - DEPORTES", UFC
@@ -95,7 +98,7 @@ http://45.167.1.136:8000/play/a00d
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1779721652/Claro_Sports_2_btj8u5.png" group-title="2 - DEPORTES", CLARO SPORTS 2
 http://45.167.1.136:8000/play/a00e
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781477313/DSPORTS_jjmyu5.jpg" group-title="2 - DEPORTES", DSPORTS
-https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
+http://45.173.231.22:8000/play/a0de/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781493119/DSports_Plus_oafvxt.png" group-title="2 - DEPORTES", DSPORTS PLUS
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
 #EXTINF:0 tvg-status="online" tvg-logo="https://res.cloudinary.com/dfjluc20x/image/upload/v1781493119/DSports_2_reqfkt.png" group-title="2 - DEPORTES", DSPORTS 2
